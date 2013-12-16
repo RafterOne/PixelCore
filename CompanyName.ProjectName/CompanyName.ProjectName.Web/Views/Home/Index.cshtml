@@ -1,0 +1,26 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <dl>
+            <dt>SomeWebConfigProperty:</dt>
+            <dd>@Pixel.AppSettings.SomeWebConfigProperty</dd>
+
+            <dt>SomeOtherWebConfigProperty:</dt>
+            <dd>@Pixel.AppSettings.SomeOtherWebConfigProperty</dd>
+
+            <dt>CustomProjectSpecificFunction:</dt>
+            <dd>@Pixel.ProjectName.CustomProjectSpecificFunction()</dd>
+        </dl>
+
+        
+    </div>
+</body>
+</html>
