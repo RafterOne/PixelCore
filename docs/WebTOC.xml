@@ -1,0 +1,644 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="74a3f2a1-60e6-42a8-9d3e-cbf4b267254e" Title="PixelDrawing Namespace" Url="html/N_PixelDrawing.htm">
+    <HelpTOCNode Id="1e0b9ac4-1553-45f5-90e1-be2fd44c3de0" Title="ImageHelper Class" Url="html/T_PixelDrawing_ImageHelper.htm">
+      <HelpTOCNode Title="ImageHelper Members" Url="html/AllMembers_T_PixelDrawing_ImageHelper.htm" />
+      <HelpTOCNode Id="45566e8e-a984-4cf8-a7ec-3888506bbac4" Title="ImageHelper Methods" Url="html/Methods_T_PixelDrawing_ImageHelper.htm">
+        <HelpTOCNode Title="CropImage Method " Url="html/M_PixelDrawing_ImageHelper_CropImage.htm" />
+        <HelpTOCNode Title="CropImageFileOnDisk Method " Url="html/M_PixelDrawing_ImageHelper_CropImageFileOnDisk.htm" />
+        <HelpTOCNode Title="LoadImage Method " Url="html/M_PixelDrawing_ImageHelper_LoadImage.htm" />
+        <HelpTOCNode Title="RotateImage90 Method " Url="html/M_PixelDrawing_ImageHelper_RotateImage90.htm" />
+        <HelpTOCNode Title="RotateImageFileOnDisk Method " Url="html/M_PixelDrawing_ImageHelper_RotateImageFileOnDisk.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="3adaf70c-8160-4504-b8d5-2f71828ae82a" Title="PixelExe.Providers Namespace" Url="html/N_PixelExe_Providers.htm">
+    <HelpTOCNode Id="3735d117-4192-47dc-b2c8-c7585b0bb92d" Title="ExeCacheProvider Class" Url="html/T_PixelExe_Providers_ExeCacheProvider.htm">
+      <HelpTOCNode Title="ExeCacheProvider Members" Url="html/AllMembers_T_PixelExe_Providers_ExeCacheProvider.htm" />
+      <HelpTOCNode Title="ExeCacheProvider Constructor " Url="html/M_PixelExe_Providers_ExeCacheProvider__ctor.htm" />
+      <HelpTOCNode Id="2781530e-d1d0-48e8-9bd7-88c3d1855936" Title="ExeCacheProvider Methods" Url="html/Methods_T_PixelExe_Providers_ExeCacheProvider.htm">
+        <HelpTOCNode Id="f147e15c-7ad7-4f5f-8646-cac2dc8c664e" Title="GetApplicationCacheItem Method " Url="html/Overload_PixelExe_Providers_ExeCacheProvider_GetApplicationCacheItem.htm">
+          <HelpTOCNode Title="GetApplicationCacheItem Method (String)" Url="html/M_PixelExe_Providers_ExeCacheProvider_GetApplicationCacheItem.htm" />
+          <HelpTOCNode Title="GetApplicationCacheItem(T) Method (String)" Url="html/M_PixelExe_Providers_ExeCacheProvider_GetApplicationCacheItem__1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="4a15c2fe-8c21-4bbd-878b-58db47b6741f" Title="GetSessionCacheItem Method " Url="html/Overload_PixelExe_Providers_ExeCacheProvider_GetSessionCacheItem.htm">
+          <HelpTOCNode Title="GetSessionCacheItem(T) Method (String)" Url="html/M_PixelExe_Providers_ExeCacheProvider_GetSessionCacheItem__1.htm" />
+          <HelpTOCNode Title="GetSessionCacheItem Method (String)" Url="html/M_PixelExe_Providers_ExeCacheProvider_GetSessionCacheItem.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="HasApplicationCacheItem Method " Url="html/M_PixelExe_Providers_ExeCacheProvider_HasApplicationCacheItem.htm" />
+        <HelpTOCNode Title="HasSessionCacheItem Method " Url="html/M_PixelExe_Providers_ExeCacheProvider_HasSessionCacheItem.htm" />
+        <HelpTOCNode Title="SetApplicationCacheItem(T) Method " Url="html/M_PixelExe_Providers_ExeCacheProvider_SetApplicationCacheItem__1.htm" />
+        <HelpTOCNode Title="SetSessionCacheItem(T) Method " Url="html/M_PixelExe_Providers_ExeCacheProvider_SetSessionCacheItem__1.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b6b5f6aa-afe9-4e2b-8d14-d40da363c68b" Title="ExeClientPropertyProvider Class" Url="html/T_PixelExe_Providers_ExeClientPropertyProvider.htm">
+      <HelpTOCNode Title="ExeClientPropertyProvider Members" Url="html/AllMembers_T_PixelExe_Providers_ExeClientPropertyProvider.htm" />
+      <HelpTOCNode Title="ExeClientPropertyProvider Constructor " Url="html/M_PixelExe_Providers_ExeClientPropertyProvider__ctor.htm" />
+      <HelpTOCNode Title="ExeClientPropertyProvider Methods" Url="html/Methods_T_PixelExe_Providers_ExeClientPropertyProvider.htm" />
+      <HelpTOCNode Id="bcae6a52-9e5c-4569-b2d7-46357d84da35" Title="ExeClientPropertyProvider Properties" Url="html/Properties_T_PixelExe_Providers_ExeClientPropertyProvider.htm">
+        <HelpTOCNode Title="ApplicationLocation Property " Url="html/P_PixelExe_Providers_ExeClientPropertyProvider_ApplicationLocation.htm" />
+        <HelpTOCNode Title="Identifier Property " Url="html/P_PixelExe_Providers_ExeClientPropertyProvider_Identifier.htm" />
+        <HelpTOCNode Title="IpAddress Property " Url="html/P_PixelExe_Providers_ExeClientPropertyProvider_IpAddress.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="4c8ea717-437b-4e82-bc39-bae960ca62bb" Title="PixelMEDIA.PixelCore Namespace" Url="html/N_PixelMEDIA_PixelCore.htm">
+    <HelpTOCNode Id="b83cbced-cc17-435d-b79d-52450be67d05" Title="PagedSortedList(T) Class" Url="html/T_PixelMEDIA_PixelCore_PagedSortedList_1.htm">
+      <HelpTOCNode Title="PagedSortedList(T) Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_PagedSortedList_1.htm" />
+      <HelpTOCNode Title="PagedSortedList(T) Constructor " Url="html/M_PixelMEDIA_PixelCore_PagedSortedList_1__ctor.htm" />
+      <HelpTOCNode Title="PagedSortedList(T) Methods" Url="html/Methods_T_PixelMEDIA_PixelCore_PagedSortedList_1.htm" />
+      <HelpTOCNode Id="b6440a4c-3400-4004-86e2-5a633733a8ec" Title="PagedSortedList(T) Properties" Url="html/Properties_T_PixelMEDIA_PixelCore_PagedSortedList_1.htm">
+        <HelpTOCNode Title="CurrentPage Property " Url="html/P_PixelMEDIA_PixelCore_PagedSortedList_1_CurrentPage.htm" />
+        <HelpTOCNode Title="Filters Property " Url="html/P_PixelMEDIA_PixelCore_PagedSortedList_1_Filters.htm" />
+        <HelpTOCNode Title="HasNext Property " Url="html/P_PixelMEDIA_PixelCore_PagedSortedList_1_HasNext.htm" />
+        <HelpTOCNode Title="HasPrevious Property " Url="html/P_PixelMEDIA_PixelCore_PagedSortedList_1_HasPrevious.htm" />
+        <HelpTOCNode Title="ItemsPerPage Property " Url="html/P_PixelMEDIA_PixelCore_PagedSortedList_1_ItemsPerPage.htm" />
+        <HelpTOCNode Title="SortProperties Property " Url="html/P_PixelMEDIA_PixelCore_PagedSortedList_1_SortProperties.htm" />
+        <HelpTOCNode Title="TotalItems Property " Url="html/P_PixelMEDIA_PixelCore_PagedSortedList_1_TotalItems.htm" />
+        <HelpTOCNode Title="TotalPages Property " Url="html/P_PixelMEDIA_PixelCore_PagedSortedList_1_TotalPages.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="fc306ef3-e7d9-4bf0-9a07-d4ed77cb4421" Title="SafeDict Class" Url="html/T_PixelMEDIA_PixelCore_SafeDict.htm">
+      <HelpTOCNode Title="SafeDict Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_SafeDict.htm" />
+      <HelpTOCNode Title="SafeDict Constructor " Url="html/M_PixelMEDIA_PixelCore_SafeDict__ctor.htm" />
+      <HelpTOCNode Id="5ed604e9-40c7-4e3e-b231-a9dff912e02e" Title="SafeDict Methods" Url="html/Methods_T_PixelMEDIA_PixelCore_SafeDict.htm">
+        <HelpTOCNode Title="FromDict(T) Method " Url="html/M_PixelMEDIA_PixelCore_SafeDict_FromDict__1.htm" />
+        <HelpTOCNode Id="39e19090-6a51-43ae-aef6-a5be4d741824" Title="GetBool Method " Url="html/Overload_PixelMEDIA_PixelCore_SafeDict_GetBool.htm">
+          <HelpTOCNode Title="GetBool Method (String)" Url="html/M_PixelMEDIA_PixelCore_SafeDict_GetBool.htm" />
+          <HelpTOCNode Title="GetBool Method (String, Boolean)" Url="html/M_PixelMEDIA_PixelCore_SafeDict_GetBool_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetDict Method " Url="html/M_PixelMEDIA_PixelCore_SafeDict_GetDict.htm" />
+        <HelpTOCNode Id="144ee2b3-d8b2-4f83-a00b-cea0e953137f" Title="GetInt Method " Url="html/Overload_PixelMEDIA_PixelCore_SafeDict_GetInt.htm">
+          <HelpTOCNode Title="GetInt Method (String)" Url="html/M_PixelMEDIA_PixelCore_SafeDict_GetInt.htm" />
+          <HelpTOCNode Title="GetInt Method (String, Int32)" Url="html/M_PixelMEDIA_PixelCore_SafeDict_GetInt_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="6a432afe-0e93-410d-a83b-40222f47d34e" Title="GetLong Method " Url="html/Overload_PixelMEDIA_PixelCore_SafeDict_GetLong.htm">
+          <HelpTOCNode Title="GetLong Method (String)" Url="html/M_PixelMEDIA_PixelCore_SafeDict_GetLong.htm" />
+          <HelpTOCNode Title="GetLong Method (String, Int64)" Url="html/M_PixelMEDIA_PixelCore_SafeDict_GetLong_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="8ec1fa22-6abb-4800-a54f-4fbb6c1b7eac" Title="GetString Method " Url="html/Overload_PixelMEDIA_PixelCore_SafeDict_GetString.htm">
+          <HelpTOCNode Title="GetString Method (String)" Url="html/M_PixelMEDIA_PixelCore_SafeDict_GetString.htm" />
+          <HelpTOCNode Title="GetString Method (String, String)" Url="html/M_PixelMEDIA_PixelCore_SafeDict_GetString_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="b80d3c7f-26b0-4625-b3fd-de7d66150618" Title="GetValue Method " Url="html/Overload_PixelMEDIA_PixelCore_SafeDict_GetValue.htm">
+          <HelpTOCNode Title="GetValue(T) Method (String)" Url="html/M_PixelMEDIA_PixelCore_SafeDict_GetValue__1.htm" />
+          <HelpTOCNode Title="GetValue(T) Method (String, T)" Url="html/M_PixelMEDIA_PixelCore_SafeDict_GetValue__1_1.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="784e274a-be0e-47ea-b9e7-12b4fbea1ee8" Title="SortProperties Class" Url="html/T_PixelMEDIA_PixelCore_SortProperties.htm">
+      <HelpTOCNode Title="SortProperties Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_SortProperties.htm" />
+      <HelpTOCNode Title="SortProperties Constructor " Url="html/M_PixelMEDIA_PixelCore_SortProperties__ctor.htm" />
+      <HelpTOCNode Title="SortProperties Methods" Url="html/Methods_T_PixelMEDIA_PixelCore_SortProperties.htm" />
+      <HelpTOCNode Id="08cff90b-8ba1-41b2-a625-7e7d73113f44" Title="SortProperties Properties" Url="html/Properties_T_PixelMEDIA_PixelCore_SortProperties.htm">
+        <HelpTOCNode Title="Direction Property " Url="html/P_PixelMEDIA_PixelCore_SortProperties_Direction.htm" />
+        <HelpTOCNode Title="SortField Property " Url="html/P_PixelMEDIA_PixelCore_SortProperties_SortField.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="afc225d5-b908-44eb-9fd3-fb1ed2fb9e29" Title="Status Class" Url="html/T_PixelMEDIA_PixelCore_Status.htm">
+      <HelpTOCNode Title="Status Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Status.htm" />
+      <HelpTOCNode Title="Status Constructor " Url="html/M_PixelMEDIA_PixelCore_Status__ctor.htm" />
+      <HelpTOCNode Id="60e38808-eb99-4f3d-b63d-1858ecfde462" Title="Status Methods" Url="html/Methods_T_PixelMEDIA_PixelCore_Status.htm">
+        <HelpTOCNode Id="d91a5731-3353-45d1-96f7-7aa156c991c0" Title="Fail Method " Url="html/Overload_PixelMEDIA_PixelCore_Status_Fail.htm">
+          <HelpTOCNode Title="Fail Method (Exception)" Url="html/M_PixelMEDIA_PixelCore_Status_Fail.htm" />
+          <HelpTOCNode Title="Fail Method (String)" Url="html/M_PixelMEDIA_PixelCore_Status_Fail_1.htm" />
+          <HelpTOCNode Title="Fail(T) Method (String)" Url="html/M_PixelMEDIA_PixelCore_Status_Fail__1.htm" />
+          <HelpTOCNode Title="Fail(T) Method (String, T)" Url="html/M_PixelMEDIA_PixelCore_Status_Fail__1_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="FailFormat Method " Url="html/M_PixelMEDIA_PixelCore_Status_FailFormat.htm" />
+        <HelpTOCNode Id="20a5ee1c-a787-40a3-89f9-084bf4e5de36" Title="Succeed Method " Url="html/Overload_PixelMEDIA_PixelCore_Status_Succeed.htm">
+          <HelpTOCNode Title="Succeed Method " Url="html/M_PixelMEDIA_PixelCore_Status_Succeed.htm" />
+          <HelpTOCNode Title="Succeed Method (String)" Url="html/M_PixelMEDIA_PixelCore_Status_Succeed_1.htm" />
+          <HelpTOCNode Title="Succeed(T) Method (String, T)" Url="html/M_PixelMEDIA_PixelCore_Status_Succeed__1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="SucceedFormat Method " Url="html/M_PixelMEDIA_PixelCore_Status_SucceedFormat.htm" />
+        <HelpTOCNode Title="WithData(T) Method " Url="html/M_PixelMEDIA_PixelCore_Status_WithData__1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="5c31bcc7-e22f-40a1-a379-2c380d30915f" Title="Status Type Conversions" Url="html/Operators_T_PixelMEDIA_PixelCore_Status.htm">
+        <HelpTOCNode Title="Implicit Conversion (Status to Boolean)" Url="html/M_PixelMEDIA_PixelCore_Status_op_Implicit.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="906d7e45-6e74-4b1c-b276-a21965a4c7f5" Title="Status Properties" Url="html/Properties_T_PixelMEDIA_PixelCore_Status.htm">
+        <HelpTOCNode Title="Message Property " Url="html/P_PixelMEDIA_PixelCore_Status_Message.htm" />
+        <HelpTOCNode Title="Success Property " Url="html/P_PixelMEDIA_PixelCore_Status_Success.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="0bce334d-7b46-4ec0-8e3a-fce9656ae75c" Title="Status(T) Class" Url="html/T_PixelMEDIA_PixelCore_Status_1.htm">
+      <HelpTOCNode Title="Status(T) Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Status_1.htm" />
+      <HelpTOCNode Id="961bb1f0-d3d4-41d6-aa2c-233b85fc8e3d" Title="Status(T) Constructor " Url="html/Overload_PixelMEDIA_PixelCore_Status_1__ctor.htm">
+        <HelpTOCNode Title="Status(T) Constructor (Boolean, String)" Url="html/M_PixelMEDIA_PixelCore_Status_1__ctor.htm" />
+        <HelpTOCNode Title="Status(T) Constructor (Boolean, String, T)" Url="html/M_PixelMEDIA_PixelCore_Status_1__ctor_1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="Status(T) Methods" Url="html/Methods_T_PixelMEDIA_PixelCore_Status_1.htm" />
+      <HelpTOCNode Id="6880c2fa-d64f-4226-8a58-88c2b1f3d213" Title="Status(T) Properties" Url="html/Properties_T_PixelMEDIA_PixelCore_Status_1.htm">
+        <HelpTOCNode Title="Data Property " Url="html/P_PixelMEDIA_PixelCore_Status_1_Data.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="a6643b87-7e68-4b88-b70e-f97f4013f1d0" Title="PixelMEDIA.PixelCore.Attributes Namespace" Url="html/N_PixelMEDIA_PixelCore_Attributes.htm">
+    <HelpTOCNode Id="bf3dc744-e4e4-432e-9c6c-7e4f6111b5d6" Title="EmailAddressAttribute Class" Url="html/T_PixelMEDIA_PixelCore_Attributes_EmailAddressAttribute.htm">
+      <HelpTOCNode Title="EmailAddressAttribute Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Attributes_EmailAddressAttribute.htm" />
+      <HelpTOCNode Title="EmailAddressAttribute Constructor " Url="html/M_PixelMEDIA_PixelCore_Attributes_EmailAddressAttribute__ctor.htm" />
+      <HelpTOCNode Id="97fa0651-3715-44f6-94ee-6b40603cca64" Title="EmailAddressAttribute Methods" Url="html/Methods_T_PixelMEDIA_PixelCore_Attributes_EmailAddressAttribute.htm">
+        <HelpTOCNode Id="1b7160c1-7deb-4e18-a4e5-e4bf132c2ac5" Title="IsValid Method " Url="html/Overload_PixelMEDIA_PixelCore_Attributes_EmailAddressAttribute_IsValid.htm">
+          <HelpTOCNode Title="IsValid Method (Object)" Url="html/M_PixelMEDIA_PixelCore_Attributes_EmailAddressAttribute_IsValid.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="EmailAddressAttribute Properties" Url="html/Properties_T_PixelMEDIA_PixelCore_Attributes_EmailAddressAttribute.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="d6936d61-d389-4b4c-9823-35e09231a174" Title="PixelMEDIA.PixelCore.Helpers Namespace" Url="html/N_PixelMEDIA_PixelCore_Helpers.htm">
+    <HelpTOCNode Id="033cfd1e-ea87-4053-9fae-030926980212" Title="CollectionHelper Class" Url="html/T_PixelMEDIA_PixelCore_Helpers_CollectionHelper.htm">
+      <HelpTOCNode Title="CollectionHelper Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_CollectionHelper.htm" />
+      <HelpTOCNode Id="cbd9e4a2-dff3-42f8-b673-692b9f92f1de" Title="CollectionHelper Methods" Url="html/Methods_T_PixelMEDIA_PixelCore_Helpers_CollectionHelper.htm">
+        <HelpTOCNode Id="16110490-5f45-4603-ac2d-c10e3eaf68bc" Title="CollectionContains Method " Url="html/Overload_PixelMEDIA_PixelCore_Helpers_CollectionHelper_CollectionContains.htm">
+          <HelpTOCNode Title="CollectionContains(T) Method (T, IEnumerable(T))" Url="html/M_PixelMEDIA_PixelCore_Helpers_CollectionHelper_CollectionContains__1.htm" />
+          <HelpTOCNode Title="CollectionContains(T) Method (T, T[])" Url="html/M_PixelMEDIA_PixelCore_Helpers_CollectionHelper_CollectionContains__1_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetNthRoundRobinItem(T) Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_CollectionHelper_GetNthRoundRobinItem__1.htm" />
+        <HelpTOCNode Id="8d31876e-1547-40b6-93a1-6bac0fef5ca5" Title="InclusiveRangeArray Method " Url="html/Overload_PixelMEDIA_PixelCore_Helpers_CollectionHelper_InclusiveRangeArray.htm">
+          <HelpTOCNode Title="InclusiveRangeArray Method (Int32)" Url="html/M_PixelMEDIA_PixelCore_Helpers_CollectionHelper_InclusiveRangeArray.htm" />
+          <HelpTOCNode Title="InclusiveRangeArray Method (Int32, Int32)" Url="html/M_PixelMEDIA_PixelCore_Helpers_CollectionHelper_InclusiveRangeArray_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="9725e49b-40a4-4ef7-9778-da5984a2e27a" Title="InclusiveRangeList Method " Url="html/Overload_PixelMEDIA_PixelCore_Helpers_CollectionHelper_InclusiveRangeList.htm">
+          <HelpTOCNode Title="InclusiveRangeList Method (Int32)" Url="html/M_PixelMEDIA_PixelCore_Helpers_CollectionHelper_InclusiveRangeList.htm" />
+          <HelpTOCNode Title="InclusiveRangeList Method (Int32, Int32)" Url="html/M_PixelMEDIA_PixelCore_Helpers_CollectionHelper_InclusiveRangeList_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="MakeArray(T) Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_CollectionHelper_MakeArray__1.htm" />
+        <HelpTOCNode Title="MakeList(T) Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_CollectionHelper_MakeList__1.htm" />
+        <HelpTOCNode Title="OrderBy(TSource, TKey) Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_CollectionHelper_OrderBy__2.htm" />
+        <HelpTOCNode Title="TakePage(T) Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_CollectionHelper_TakePage__1.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="795308c4-8885-4dba-83b0-d78aa84cbea6" Title="ConversionHelper Class" Url="html/T_PixelMEDIA_PixelCore_Helpers_ConversionHelper.htm">
+      <HelpTOCNode Title="ConversionHelper Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_ConversionHelper.htm" />
+      <HelpTOCNode Id="1a5ab2f2-9fa4-49df-827b-1f647736f52a" Title="ConversionHelper Methods" Url="html/Methods_T_PixelMEDIA_PixelCore_Helpers_ConversionHelper.htm">
+        <HelpTOCNode Title="GetEnumFromInt(TEnum) Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_ConversionHelper_GetEnumFromInt__1.htm" />
+        <HelpTOCNode Title="GetEnumTextValueFromEnum(TEnum) Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_ConversionHelper_GetEnumTextValueFromEnum__1.htm" />
+        <HelpTOCNode Title="GetEnumTextValueFromInt(TEnum) Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_ConversionHelper_GetEnumTextValueFromInt__1.htm" />
+        <HelpTOCNode Title="GetLabelFromEnum(TEnum) Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_ConversionHelper_GetLabelFromEnum__1.htm" />
+        <HelpTOCNode Title="GetLabelFromPascalCase Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_ConversionHelper_GetLabelFromPascalCase.htm" />
+        <HelpTOCNode Title="MakeJsonDict(T) Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_ConversionHelper_MakeJsonDict__1.htm" />
+        <HelpTOCNode Title="SafeConvertDate Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_ConversionHelper_SafeConvertDate.htm" />
+        <HelpTOCNode Id="69d051c3-9a4a-4f78-95f7-0ff67dc62f41" Title="SafeConvertDecimal Method " Url="html/Overload_PixelMEDIA_PixelCore_Helpers_ConversionHelper_SafeConvertDecimal.htm">
+          <HelpTOCNode Title="SafeConvertDecimal Method (String)" Url="html/M_PixelMEDIA_PixelCore_Helpers_ConversionHelper_SafeConvertDecimal.htm" />
+          <HelpTOCNode Title="SafeConvertDecimal Method (String, Decimal)" Url="html/M_PixelMEDIA_PixelCore_Helpers_ConversionHelper_SafeConvertDecimal_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="4c159deb-5df1-4f74-a3f3-222ec9e74766" Title="SafeConvertGuid Method " Url="html/Overload_PixelMEDIA_PixelCore_Helpers_ConversionHelper_SafeConvertGuid.htm">
+          <HelpTOCNode Title="SafeConvertGuid Method (String)" Url="html/M_PixelMEDIA_PixelCore_Helpers_ConversionHelper_SafeConvertGuid.htm" />
+          <HelpTOCNode Title="SafeConvertGuid Method (String, Guid)" Url="html/M_PixelMEDIA_PixelCore_Helpers_ConversionHelper_SafeConvertGuid_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="SafeConvertGuidArray Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_ConversionHelper_SafeConvertGuidArray.htm" />
+        <HelpTOCNode Id="8f475e13-3938-4c0b-b71e-95b0ae504bc5" Title="SafeConvertInt Method " Url="html/Overload_PixelMEDIA_PixelCore_Helpers_ConversionHelper_SafeConvertInt.htm">
+          <HelpTOCNode Title="SafeConvertInt Method (Object)" Url="html/M_PixelMEDIA_PixelCore_Helpers_ConversionHelper_SafeConvertInt.htm" />
+          <HelpTOCNode Title="SafeConvertInt Method (String)" Url="html/M_PixelMEDIA_PixelCore_Helpers_ConversionHelper_SafeConvertInt_2.htm" />
+          <HelpTOCNode Title="SafeConvertInt Method (Object, Int32)" Url="html/M_PixelMEDIA_PixelCore_Helpers_ConversionHelper_SafeConvertInt_1.htm" />
+          <HelpTOCNode Title="SafeConvertInt Method (String, Int32)" Url="html/M_PixelMEDIA_PixelCore_Helpers_ConversionHelper_SafeConvertInt_3.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="3cfb048a-9a37-4de8-a588-9e1ef654000d" Title="SafeConvertString Method " Url="html/Overload_PixelMEDIA_PixelCore_Helpers_ConversionHelper_SafeConvertString.htm">
+          <HelpTOCNode Title="SafeConvertString Method (Object)" Url="html/M_PixelMEDIA_PixelCore_Helpers_ConversionHelper_SafeConvertString.htm" />
+          <HelpTOCNode Title="SafeConvertString Method (String)" Url="html/M_PixelMEDIA_PixelCore_Helpers_ConversionHelper_SafeConvertString_1.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="91b513d4-b9d7-4614-9fce-0fcfd38161ef" Title="DateHelper Class" Url="html/T_PixelMEDIA_PixelCore_Helpers_DateHelper.htm">
+      <HelpTOCNode Title="DateHelper Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_DateHelper.htm" />
+      <HelpTOCNode Id="8f6595d8-f9e9-4c9d-ba7e-67807c1f1e13" Title="DateHelper Methods" Url="html/Methods_T_PixelMEDIA_PixelCore_Helpers_DateHelper.htm">
+        <HelpTOCNode Title="DateToString Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_DateHelper_DateToString.htm" />
+        <HelpTOCNode Id="aadd065d-68ca-4632-b7b6-d6758fec84e0" Title="EndOfMonth Method " Url="html/Overload_PixelMEDIA_PixelCore_Helpers_DateHelper_EndOfMonth.htm">
+          <HelpTOCNode Title="EndOfMonth Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_DateHelper_EndOfMonth.htm" />
+          <HelpTOCNode Title="EndOfMonth Method (DateTime)" Url="html/M_PixelMEDIA_PixelCore_Helpers_DateHelper_EndOfMonth_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="fdcd4518-a46f-47f7-9a5d-839c418f1912" Title="FirstDayOfYear Method " Url="html/Overload_PixelMEDIA_PixelCore_Helpers_DateHelper_FirstDayOfYear.htm">
+          <HelpTOCNode Title="FirstDayOfYear Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_DateHelper_FirstDayOfYear.htm" />
+          <HelpTOCNode Title="FirstDayOfYear Method (DateTime)" Url="html/M_PixelMEDIA_PixelCore_Helpers_DateHelper_FirstDayOfYear_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetDateFormatted Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_DateHelper_GetDateFormatted.htm" />
+        <HelpTOCNode Title="GetDaysDifference Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_DateHelper_GetDaysDifference.htm" />
+        <HelpTOCNode Title="GetDaysInRangeInclusive Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_DateHelper_GetDaysInRangeInclusive.htm" />
+        <HelpTOCNode Title="GetMonthName Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_DateHelper_GetMonthName.htm" />
+        <HelpTOCNode Title="GetShortDate Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_DateHelper_GetShortDate.htm" />
+        <HelpTOCNode Title="GetTomorrow Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_DateHelper_GetTomorrow.htm" />
+        <HelpTOCNode Title="GetYesterday Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_DateHelper_GetYesterday.htm" />
+        <HelpTOCNode Title="IsLeapYear Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_DateHelper_IsLeapYear.htm" />
+        <HelpTOCNode Id="e87d9d02-6186-43e0-917d-ce34eb0aa562" Title="LastDayOfYear Method " Url="html/Overload_PixelMEDIA_PixelCore_Helpers_DateHelper_LastDayOfYear.htm">
+          <HelpTOCNode Title="LastDayOfYear Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_DateHelper_LastDayOfYear.htm" />
+          <HelpTOCNode Title="LastDayOfYear Method (DateTime)" Url="html/M_PixelMEDIA_PixelCore_Helpers_DateHelper_LastDayOfYear_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="245a589a-1b95-45cc-8d69-a3bb8f332049" Title="StartOfMonth Method " Url="html/Overload_PixelMEDIA_PixelCore_Helpers_DateHelper_StartOfMonth.htm">
+          <HelpTOCNode Title="StartOfMonth Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_DateHelper_StartOfMonth.htm" />
+          <HelpTOCNode Title="StartOfMonth Method (DateTime)" Url="html/M_PixelMEDIA_PixelCore_Helpers_DateHelper_StartOfMonth_1.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="29421167-2ff7-4102-aed6-44a485d48009" Title="EntityHelper Class" Url="html/T_PixelMEDIA_PixelCore_Helpers_EntityHelper.htm">
+      <HelpTOCNode Title="EntityHelper Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_EntityHelper.htm" />
+      <HelpTOCNode Id="6898ecf2-e80e-4a1c-96e9-79ef22617cab" Title="EntityHelper Methods" Url="html/Methods_T_PixelMEDIA_PixelCore_Helpers_EntityHelper.htm">
+        <HelpTOCNode Title="AttachModified(T) Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_EntityHelper_AttachModified__1.htm" />
+        <HelpTOCNode Title="SetModified(T) Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_EntityHelper_SetModified__1.htm" />
+        <HelpTOCNode Title="SetState(T) Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_EntityHelper_SetState__1.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ebbd550f-cbd5-4368-b939-3101c0f57046" Title="ExportHelper Class" Url="html/T_PixelMEDIA_PixelCore_Helpers_ExportHelper.htm">
+      <HelpTOCNode Title="ExportHelper Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_ExportHelper.htm" />
+      <HelpTOCNode Id="09841a60-0547-449e-876a-6b0886e0f9e4" Title="ExportHelper Methods" Url="html/Methods_T_PixelMEDIA_PixelCore_Helpers_ExportHelper.htm">
+        <HelpTOCNode Title="GetCsv(T) Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_ExportHelper_GetCsv__1.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b064027b-a052-4064-b568-f91261f762db" Title="IClientPropertyProvider Interface" Url="html/T_PixelMEDIA_PixelCore_Helpers_IClientPropertyProvider.htm">
+      <HelpTOCNode Title="IClientPropertyProvider Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_IClientPropertyProvider.htm" />
+      <HelpTOCNode Id="8b2dfccc-8cd0-46bd-b522-ae9004b7b397" Title="IClientPropertyProvider Properties" Url="html/Properties_T_PixelMEDIA_PixelCore_Helpers_IClientPropertyProvider.htm">
+        <HelpTOCNode Title="ApplicationLocation Property " Url="html/P_PixelMEDIA_PixelCore_Helpers_IClientPropertyProvider_ApplicationLocation.htm" />
+        <HelpTOCNode Title="Identifier Property " Url="html/P_PixelMEDIA_PixelCore_Helpers_IClientPropertyProvider_Identifier.htm" />
+        <HelpTOCNode Title="IpAddress Property " Url="html/P_PixelMEDIA_PixelCore_Helpers_IClientPropertyProvider_IpAddress.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="LogEntryType Enumeration" Url="html/T_PixelMEDIA_PixelCore_Helpers_LogEntryType.htm" />
+    <HelpTOCNode Id="c4c62552-2dc0-4e79-9807-eef5c6b19f64" Title="Logger Class" Url="html/T_PixelMEDIA_PixelCore_Helpers_Logger.htm">
+      <HelpTOCNode Title="Logger Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_Logger.htm" />
+      <HelpTOCNode Id="e615267d-dfbf-4b0b-a550-9009e091d056" Title="Logger Methods" Url="html/Methods_T_PixelMEDIA_PixelCore_Helpers_Logger.htm">
+        <HelpTOCNode Id="36b7ea6b-cf86-473b-bc45-5878198d4b73" Title="Error Method " Url="html/Overload_PixelMEDIA_PixelCore_Helpers_Logger_Error.htm">
+          <HelpTOCNode Title="Error Method (Exception)" Url="html/M_PixelMEDIA_PixelCore_Helpers_Logger_Error.htm" />
+          <HelpTOCNode Title="Error Method (String)" Url="html/M_PixelMEDIA_PixelCore_Helpers_Logger_Error_1.htm" />
+          <HelpTOCNode Title="Error Method (String, Object[])" Url="html/M_PixelMEDIA_PixelCore_Helpers_Logger_Error_2.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="a9dbb36e-a8e7-4400-84c0-ddc33c1507f0" Title="Fatal Method " Url="html/Overload_PixelMEDIA_PixelCore_Helpers_Logger_Fatal.htm">
+          <HelpTOCNode Title="Fatal Method (Exception)" Url="html/M_PixelMEDIA_PixelCore_Helpers_Logger_Fatal.htm" />
+          <HelpTOCNode Title="Fatal Method (String)" Url="html/M_PixelMEDIA_PixelCore_Helpers_Logger_Fatal_1.htm" />
+          <HelpTOCNode Title="Fatal Method (String, Object[])" Url="html/M_PixelMEDIA_PixelCore_Helpers_Logger_Fatal_2.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetFullExceptionText Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_Logger_GetFullExceptionText.htm" />
+        <HelpTOCNode Id="b23d18e5-09ec-4af2-8ab1-d8a03b46c85b" Title="GetMethodPath Method " Url="html/Overload_PixelMEDIA_PixelCore_Helpers_Logger_GetMethodPath.htm">
+          <HelpTOCNode Title="GetMethodPath Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_Logger_GetMethodPath.htm" />
+          <HelpTOCNode Title="GetMethodPath Method (Exception)" Url="html/M_PixelMEDIA_PixelCore_Helpers_Logger_GetMethodPath_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="5a4691d7-ae9d-4bcb-a730-a5bb4943b77c" Title="Info Method " Url="html/Overload_PixelMEDIA_PixelCore_Helpers_Logger_Info.htm">
+          <HelpTOCNode Title="Info Method (Exception)" Url="html/M_PixelMEDIA_PixelCore_Helpers_Logger_Info.htm" />
+          <HelpTOCNode Title="Info Method (String)" Url="html/M_PixelMEDIA_PixelCore_Helpers_Logger_Info_1.htm" />
+          <HelpTOCNode Title="Info Method (String, Object[])" Url="html/M_PixelMEDIA_PixelCore_Helpers_Logger_Info_2.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="3bcdc9d8-7f45-4fec-abdb-19d72b59b083" Title="Log Method " Url="html/Overload_PixelMEDIA_PixelCore_Helpers_Logger_Log.htm">
+          <HelpTOCNode Title="Log Method (LogEntryType, Exception)" Url="html/M_PixelMEDIA_PixelCore_Helpers_Logger_Log.htm" />
+          <HelpTOCNode Title="Log Method (LogEntryType, String)" Url="html/M_PixelMEDIA_PixelCore_Helpers_Logger_Log_1.htm" />
+          <HelpTOCNode Title="Log Method (LogEntryType, String, Object[])" Url="html/M_PixelMEDIA_PixelCore_Helpers_Logger_Log_2.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="SetClientPropertyProvider Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_Logger_SetClientPropertyProvider.htm" />
+        <HelpTOCNode Id="a01c80eb-edfe-499e-9f9f-97153bfe5bdd" Title="Warn Method " Url="html/Overload_PixelMEDIA_PixelCore_Helpers_Logger_Warn.htm">
+          <HelpTOCNode Title="Warn Method (Exception)" Url="html/M_PixelMEDIA_PixelCore_Helpers_Logger_Warn.htm" />
+          <HelpTOCNode Title="Warn Method (String)" Url="html/M_PixelMEDIA_PixelCore_Helpers_Logger_Warn_1.htm" />
+          <HelpTOCNode Title="Warn Method (String, Object[])" Url="html/M_PixelMEDIA_PixelCore_Helpers_Logger_Warn_2.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="f192b026-988a-41a2-b6f8-3edf184c7154" Title="Logger Properties" Url="html/Properties_T_PixelMEDIA_PixelCore_Helpers_Logger.htm">
+        <HelpTOCNode Title="ClientProperties Property " Url="html/P_PixelMEDIA_PixelCore_Helpers_Logger_ClientProperties.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f7ac9fd9-12d3-4e0f-8c24-356ea373a1e2" Title="MailHelper Class" Url="html/T_PixelMEDIA_PixelCore_Helpers_MailHelper.htm">
+      <HelpTOCNode Title="MailHelper Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_MailHelper.htm" />
+      <HelpTOCNode Id="f12c237f-891f-44f5-b6ab-f1e0636de3a3" Title="MailHelper Methods" Url="html/Methods_T_PixelMEDIA_PixelCore_Helpers_MailHelper.htm">
+        <HelpTOCNode Title="IsValidEmailAddress Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_MailHelper_IsValidEmailAddress.htm" />
+        <HelpTOCNode Title="SendHtmlEmail Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_MailHelper_SendHtmlEmail.htm" />
+        <HelpTOCNode Title="SendTextEmail Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_MailHelper_SendTextEmail.htm" />
+        <HelpTOCNode Title="TryLoadEmailAddress Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_MailHelper_TryLoadEmailAddress.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b300634c-0a84-4449-bae1-ee1d656cfdf2" Title="RandomHelper Class" Url="html/T_PixelMEDIA_PixelCore_Helpers_RandomHelper.htm">
+      <HelpTOCNode Title="RandomHelper Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_RandomHelper.htm" />
+      <HelpTOCNode Id="1955d348-a463-4776-98e7-1f48ff3e9f6c" Title="RandomHelper Methods" Url="html/Methods_T_PixelMEDIA_PixelCore_Helpers_RandomHelper.htm">
+        <HelpTOCNode Title="GetRandomAlphanumericString Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_RandomHelper_GetRandomAlphanumericString.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="4caca091-90a6-455d-807a-2ccb43f714e5" Title="ReflectionHelper Class" Url="html/T_PixelMEDIA_PixelCore_Helpers_ReflectionHelper.htm">
+      <HelpTOCNode Title="ReflectionHelper Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_ReflectionHelper.htm" />
+      <HelpTOCNode Id="5ab7255e-0cc3-4df2-8412-a4c59af5d8d1" Title="ReflectionHelper Methods" Url="html/Methods_T_PixelMEDIA_PixelCore_Helpers_ReflectionHelper.htm">
+        <HelpTOCNode Title="CopyProperties Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_ReflectionHelper_CopyProperties.htm" />
+        <HelpTOCNode Id="6946cdae-979e-4677-b916-82ab79329f3e" Title="GetGetableProperties Method " Url="html/Overload_PixelMEDIA_PixelCore_Helpers_ReflectionHelper_GetGetableProperties.htm">
+          <HelpTOCNode Title="GetGetableProperties Method (Type)" Url="html/M_PixelMEDIA_PixelCore_Helpers_ReflectionHelper_GetGetableProperties.htm" />
+          <HelpTOCNode Title="GetGetableProperties Method (Type, String[])" Url="html/M_PixelMEDIA_PixelCore_Helpers_ReflectionHelper_GetGetableProperties_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetProperty Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_ReflectionHelper_GetProperty.htm" />
+        <HelpTOCNode Title="GetSpecifiedPropertiesInFieldNameOrder Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_ReflectionHelper_GetSpecifiedPropertiesInFieldNameOrder.htm" />
+        <HelpTOCNode Id="cb09df4f-9bd0-453c-b0ac-8a4afe5977bb" Title="HasAttribute Method " Url="html/Overload_PixelMEDIA_PixelCore_Helpers_ReflectionHelper_HasAttribute.htm">
+          <HelpTOCNode Title="HasAttribute(T) Method (ICustomAttributeProvider)" Url="html/M_PixelMEDIA_PixelCore_Helpers_ReflectionHelper_HasAttribute__1.htm" />
+          <HelpTOCNode Title="HasAttribute Method (ICustomAttributeProvider, Type)" Url="html/M_PixelMEDIA_PixelCore_Helpers_ReflectionHelper_HasAttribute.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="HasPublicSetter Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_ReflectionHelper_HasPublicSetter.htm" />
+        <HelpTOCNode Title="SetPropertyValue Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_ReflectionHelper_SetPropertyValue.htm" />
+        <HelpTOCNode Title="ShallowCompare(T) Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_ReflectionHelper_ShallowCompare__1.htm" />
+        <HelpTOCNode Title="Transmute(TTo) Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_ReflectionHelper_Transmute__1.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e07491ac-e98f-41c9-ba46-d38e203d9aa3" Title="SecurityHelper Class" Url="html/T_PixelMEDIA_PixelCore_Helpers_SecurityHelper.htm">
+      <HelpTOCNode Title="SecurityHelper Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_SecurityHelper.htm" />
+      <HelpTOCNode Id="ffb7db6e-d1b0-4a27-98c3-1ebb8a601478" Title="SecurityHelper Methods" Url="html/Methods_T_PixelMEDIA_PixelCore_Helpers_SecurityHelper.htm">
+        <HelpTOCNode Title="HashPassword Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_SecurityHelper_HashPassword.htm" />
+        <HelpTOCNode Title="HashStrings Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_SecurityHelper_HashStrings.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="9c773835-8740-436f-8b96-5c9fc3d53188" Title="SettingsHelper Class" Url="html/T_PixelMEDIA_PixelCore_Helpers_SettingsHelper.htm">
+      <HelpTOCNode Title="SettingsHelper Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_SettingsHelper.htm" />
+      <HelpTOCNode Id="37506156-3743-4e69-a5c7-53615fe12cd9" Title="SettingsHelper Methods" Url="html/Methods_T_PixelMEDIA_PixelCore_Helpers_SettingsHelper.htm">
+        <HelpTOCNode Id="30cbf33a-278d-4805-973c-a4e5f6fb3689" Title="Get Method " Url="html/Overload_PixelMEDIA_PixelCore_Helpers_SettingsHelper_Get.htm">
+          <HelpTOCNode Title="Get Method (String)" Url="html/M_PixelMEDIA_PixelCore_Helpers_SettingsHelper_Get.htm" />
+          <HelpTOCNode Title="Get Method (String, String)" Url="html/M_PixelMEDIA_PixelCore_Helpers_SettingsHelper_Get_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="bda3b6b0-c2b6-4a56-8eb1-f04b552ab035" Title="GetInt Method " Url="html/Overload_PixelMEDIA_PixelCore_Helpers_SettingsHelper_GetInt.htm">
+          <HelpTOCNode Title="GetInt Method (String)" Url="html/M_PixelMEDIA_PixelCore_Helpers_SettingsHelper_GetInt.htm" />
+          <HelpTOCNode Title="GetInt Method (String, Int32)" Url="html/M_PixelMEDIA_PixelCore_Helpers_SettingsHelper_GetInt_1.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c62d6750-cf19-4d1f-b92f-96175abd4ed0" Title="StringHelper Class" Url="html/T_PixelMEDIA_PixelCore_Helpers_StringHelper.htm">
+      <HelpTOCNode Title="StringHelper Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_StringHelper.htm" />
+      <HelpTOCNode Id="a7c016b5-21ef-4084-8bc3-57e6ef05b79f" Title="StringHelper Methods" Url="html/Methods_T_PixelMEDIA_PixelCore_Helpers_StringHelper.htm">
+        <HelpTOCNode Title="Ellipsize Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_StringHelper_Ellipsize.htm" />
+        <HelpTOCNode Title="ExtractBetween Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_StringHelper_ExtractBetween.htm" />
+        <HelpTOCNode Title="ExtractKeyValuePairs Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_StringHelper_ExtractKeyValuePairs.htm" />
+        <HelpTOCNode Title="GetWordCount Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_StringHelper_GetWordCount.htm" />
+        <HelpTOCNode Title="Left Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_StringHelper_Left.htm" />
+        <HelpTOCNode Title="SafeTrim Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_StringHelper_SafeTrim.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="1c33d5d9-4d32-4236-80d4-87780b4ae25e" Title="SystemHelper Class" Url="html/T_PixelMEDIA_PixelCore_Helpers_SystemHelper.htm">
+      <HelpTOCNode Title="SystemHelper Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_SystemHelper.htm" />
+      <HelpTOCNode Id="a9d2e846-8a79-448e-8824-1f0c0df956d4" Title="SystemHelper Methods" Url="html/Methods_T_PixelMEDIA_PixelCore_Helpers_SystemHelper.htm">
+        <HelpTOCNode Title="ExecuteCommand Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_SystemHelper_ExecuteCommand.htm" />
+        <HelpTOCNode Id="3bcdaf62-5921-45f2-9e1f-00eb42f81c77" Title="GetDifferentlyExtensionedBuddyFilePath Method " Url="html/Overload_PixelMEDIA_PixelCore_Helpers_SystemHelper_GetDifferentlyExtensionedBuddyFilePath.htm">
+          <HelpTOCNode Title="GetDifferentlyExtensionedBuddyFilePath Method (String, String)" Url="html/M_PixelMEDIA_PixelCore_Helpers_SystemHelper_GetDifferentlyExtensionedBuddyFilePath.htm" />
+          <HelpTOCNode Title="GetDifferentlyExtensionedBuddyFilePath Method (String, String, String)" Url="html/M_PixelMEDIA_PixelCore_Helpers_SystemHelper_GetDifferentlyExtensionedBuddyFilePath_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetFileNamesFromDirectory Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_SystemHelper_GetFileNamesFromDirectory.htm" />
+        <HelpTOCNode Title="GetFileNameStub Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_SystemHelper_GetFileNameStub.htm" />
+        <HelpTOCNode Title="GetFilePathsFromDirectory Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_SystemHelper_GetFilePathsFromDirectory.htm" />
+        <HelpTOCNode Title="GetSimilarlyExtensionedNeighborFilePath Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_SystemHelper_GetSimilarlyExtensionedNeighborFilePath.htm" />
+        <HelpTOCNode Title="GetTextFromFile Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_SystemHelper_GetTextFromFile.htm" />
+        <HelpTOCNode Title="MoveFile Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_SystemHelper_MoveFile.htm" />
+        <HelpTOCNode Title="MoveFileToDirectory Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_SystemHelper_MoveFileToDirectory.htm" />
+        <HelpTOCNode Title="ReplaceFile Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_SystemHelper_ReplaceFile.htm" />
+        <HelpTOCNode Title="SaveFile Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_SystemHelper_SaveFile.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="8c618d18-2ea8-4329-bdb2-9ee47f7109b8" Title="XmlHelper Class" Url="html/T_PixelMEDIA_PixelCore_Helpers_XmlHelper.htm">
+      <HelpTOCNode Title="XmlHelper Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_XmlHelper.htm" />
+      <HelpTOCNode Id="89f579a2-bfbd-4cb2-afab-7291c481d1d3" Title="XmlHelper Methods" Url="html/Methods_T_PixelMEDIA_PixelCore_Helpers_XmlHelper.htm">
+        <HelpTOCNode Title="CreateDocument Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_XmlHelper_CreateDocument.htm" />
+        <HelpTOCNode Title="GetSafeAttributeValue Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_XmlHelper_GetSafeAttributeValue.htm" />
+        <HelpTOCNode Id="0954b912-a7da-4302-b04c-9137f4833e87" Title="GetXDocument Method " Url="html/Overload_PixelMEDIA_PixelCore_Helpers_XmlHelper_GetXDocument.htm">
+          <HelpTOCNode Title="GetXDocument Method (String)" Url="html/M_PixelMEDIA_PixelCore_Helpers_XmlHelper_GetXDocument.htm" />
+          <HelpTOCNode Title="GetXDocument Method (XmlDocument)" Url="html/M_PixelMEDIA_PixelCore_Helpers_XmlHelper_GetXDocument_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetXmlDocumentByString Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_XmlHelper_GetXmlDocumentByString.htm" />
+        <HelpTOCNode Title="SerializeList(T) Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_XmlHelper_SerializeList__1.htm" />
+        <HelpTOCNode Title="SerializeObject(T) Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_XmlHelper_SerializeObject__1.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="746f1005-7421-468e-aad8-5554af5d8537" Title="PixelMEDIA.PixelCore.Interfaces Namespace" Url="html/N_PixelMEDIA_PixelCore_Interfaces.htm">
+    <HelpTOCNode Id="110dd01d-323a-409d-a2b6-09f5019fbbf1" Title="ICacheProvider Interface" Url="html/T_PixelMEDIA_PixelCore_Interfaces_ICacheProvider.htm">
+      <HelpTOCNode Title="ICacheProvider Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Interfaces_ICacheProvider.htm" />
+      <HelpTOCNode Id="e360b8f6-e74d-4933-8540-ac3d0e8b645b" Title="ICacheProvider Methods" Url="html/Methods_T_PixelMEDIA_PixelCore_Interfaces_ICacheProvider.htm">
+        <HelpTOCNode Id="ac4c4ba8-70bb-4120-9f80-f6015b9506d0" Title="GetApplicationCacheItem Method " Url="html/Overload_PixelMEDIA_PixelCore_Interfaces_ICacheProvider_GetApplicationCacheItem.htm">
+          <HelpTOCNode Title="GetApplicationCacheItem Method (String)" Url="html/M_PixelMEDIA_PixelCore_Interfaces_ICacheProvider_GetApplicationCacheItem.htm" />
+          <HelpTOCNode Title="GetApplicationCacheItem(T) Method (String)" Url="html/M_PixelMEDIA_PixelCore_Interfaces_ICacheProvider_GetApplicationCacheItem__1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="227d8452-fcc9-4f5f-94fc-970c5283eaad" Title="GetSessionCacheItem Method " Url="html/Overload_PixelMEDIA_PixelCore_Interfaces_ICacheProvider_GetSessionCacheItem.htm">
+          <HelpTOCNode Title="GetSessionCacheItem(T) Method (String)" Url="html/M_PixelMEDIA_PixelCore_Interfaces_ICacheProvider_GetSessionCacheItem__1.htm" />
+          <HelpTOCNode Title="GetSessionCacheItem Method (String)" Url="html/M_PixelMEDIA_PixelCore_Interfaces_ICacheProvider_GetSessionCacheItem.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="HasApplicationCacheItem Method " Url="html/M_PixelMEDIA_PixelCore_Interfaces_ICacheProvider_HasApplicationCacheItem.htm" />
+        <HelpTOCNode Title="HasSessionCacheItem Method " Url="html/M_PixelMEDIA_PixelCore_Interfaces_ICacheProvider_HasSessionCacheItem.htm" />
+        <HelpTOCNode Title="SetApplicationCacheItem(T) Method " Url="html/M_PixelMEDIA_PixelCore_Interfaces_ICacheProvider_SetApplicationCacheItem__1.htm" />
+        <HelpTOCNode Title="SetSessionCacheItem(T) Method " Url="html/M_PixelMEDIA_PixelCore_Interfaces_ICacheProvider_SetSessionCacheItem__1.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="63d56695-c909-4ab2-bd59-0cc2aa19edb1" Title="IEmailTemplateProvider(T) Interface" Url="html/T_PixelMEDIA_PixelCore_Interfaces_IEmailTemplateProvider_1.htm">
+      <HelpTOCNode Title="IEmailTemplateProvider(T) Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Interfaces_IEmailTemplateProvider_1.htm" />
+      <HelpTOCNode Id="d352ef53-5972-462e-bae5-414d15fcb82f" Title="IEmailTemplateProvider(T) Methods" Url="html/Methods_T_PixelMEDIA_PixelCore_Interfaces_IEmailTemplateProvider_1.htm">
+        <HelpTOCNode Title="Render Method " Url="html/M_PixelMEDIA_PixelCore_Interfaces_IEmailTemplateProvider_1_Render.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="42ee363f-eb31-4d90-bc1c-2a6174b462ff" Title="PixelMEDIA.PixelWeb.Attributes Namespace" Url="html/N_PixelMEDIA_PixelWeb_Attributes.htm">
+    <HelpTOCNode Id="0a5b1ea4-63fd-450a-aa12-33b21b60c63d" Title="AntiForgeryExemptAttribute Class" Url="html/T_PixelMEDIA_PixelWeb_Attributes_AntiForgeryExemptAttribute.htm">
+      <HelpTOCNode Title="AntiForgeryExemptAttribute Members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_Attributes_AntiForgeryExemptAttribute.htm" />
+      <HelpTOCNode Title="AntiForgeryExemptAttribute Constructor " Url="html/M_PixelMEDIA_PixelWeb_Attributes_AntiForgeryExemptAttribute__ctor.htm" />
+      <HelpTOCNode Title="AntiForgeryExemptAttribute Methods" Url="html/Methods_T_PixelMEDIA_PixelWeb_Attributes_AntiForgeryExemptAttribute.htm" />
+      <HelpTOCNode Title="AntiForgeryExemptAttribute Properties" Url="html/Properties_T_PixelMEDIA_PixelWeb_Attributes_AntiForgeryExemptAttribute.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="3f828dca-00ed-4932-bba1-8e96442ec74c" Title="PixelMEDIA.PixelWeb.Components Namespace" Url="html/N_PixelMEDIA_PixelWeb_Components.htm">
+    <HelpTOCNode Id="22c43406-656d-44c7-ac16-b39d83dac9b0" Title="PixelController Class" Url="html/T_PixelMEDIA_PixelWeb_Components_PixelController.htm">
+      <HelpTOCNode Title="PixelController Members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_Components_PixelController.htm" />
+      <HelpTOCNode Title="PixelController Constructor " Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController__ctor.htm" />
+      <HelpTOCNode Id="bff87769-aafe-476a-a179-ebbcdb04bcce" Title="PixelController Methods" Url="html/Methods_T_PixelMEDIA_PixelWeb_Components_PixelController.htm">
+        <HelpTOCNode Id="f2805d70-b96c-4992-925a-92796cbe6580" Title="AddError Method " Url="html/Overload_PixelMEDIA_PixelWeb_Components_PixelController_AddError.htm">
+          <HelpTOCNode Title="AddError Method (Exception)" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_AddError_1.htm" />
+          <HelpTOCNode Title="AddError Method (String)" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_AddError_2.htm" />
+          <HelpTOCNode Title="AddError Method (Status)" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_AddError.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="AddErrors Method " Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_AddErrors.htm" />
+        <HelpTOCNode Id="94cf3252-a110-4452-9ebb-421d28eee098" Title="AddMessage Method " Url="html/Overload_PixelMEDIA_PixelWeb_Components_PixelController_AddMessage.htm">
+          <HelpTOCNode Title="AddMessage Method (String)" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_AddMessage_1.htm" />
+          <HelpTOCNode Title="AddMessage Method (Status)" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_AddMessage.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="AddMessages Method " Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_AddMessages.htm" />
+        <HelpTOCNode Title="AddRedirectMessageOrError Method " Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_AddRedirectMessageOrError.htm" />
+        <HelpTOCNode Title="Csv(T) Method " Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_Csv__1.htm" />
+        <HelpTOCNode Title="Error Method " Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_Error.htm" />
+        <HelpTOCNode Title="Initialize Method " Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_Initialize.htm" />
+        <HelpTOCNode Title="Jsonp Method " Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_Jsonp.htm" />
+        <HelpTOCNode Title="JsonpText Method " Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_JsonpText.htm" />
+        <HelpTOCNode Id="459f4e1f-54ef-44e0-b3c4-7372560cc0e7" Title="JsonStatus Method " Url="html/Overload_PixelMEDIA_PixelWeb_Components_PixelController_JsonStatus.htm">
+          <HelpTOCNode Title="JsonStatus Method (Status)" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_JsonStatus.htm" />
+          <HelpTOCNode Title="JsonStatus Method (Status, HttpStatusCode)" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_JsonStatus_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="JsonText Method " Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_JsonText.htm" />
+        <HelpTOCNode Id="f728217e-89ee-4fc5-bd39-379a45b56957" Title="MakeSelectListItem Method " Url="html/Overload_PixelMEDIA_PixelWeb_Components_PixelController_MakeSelectListItem.htm">
+          <HelpTOCNode Title="MakeSelectListItem Method (String)" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_MakeSelectListItem.htm" />
+          <HelpTOCNode Title="MakeSelectListItem Method (String, String)" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_MakeSelectListItem_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="OnException Method " Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_OnException.htm" />
+        <HelpTOCNode Title="RedirectFormat Method " Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_RedirectFormat.htm" />
+        <HelpTOCNode Title="RedirectToActionWithStatus Method " Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_RedirectToActionWithStatus.htm" />
+        <HelpTOCNode Title="RedirectWithStatus Method " Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_RedirectWithStatus.htm" />
+        <HelpTOCNode Title="RenderViewToString(T) Method " Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_RenderViewToString__1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="41e81f42-12b1-44bd-9bbf-a24f896b3f0b" Title="PixelController Properties" Url="html/Properties_T_PixelMEDIA_PixelWeb_Components_PixelController.htm">
+        <HelpTOCNode Title="CurrentErrors Property " Url="html/P_PixelMEDIA_PixelWeb_Components_PixelController_CurrentErrors.htm" />
+        <HelpTOCNode Title="CurrentMessages Property " Url="html/P_PixelMEDIA_PixelWeb_Components_PixelController_CurrentMessages.htm" />
+        <HelpTOCNode Title="IsDebugMode Property " Url="html/P_PixelMEDIA_PixelWeb_Components_PixelController_IsDebugMode.htm" />
+        <HelpTOCNode Title="RedirectErrors Property " Url="html/P_PixelMEDIA_PixelWeb_Components_PixelController_RedirectErrors.htm" />
+        <HelpTOCNode Title="RedirectMessages Property " Url="html/P_PixelMEDIA_PixelWeb_Components_PixelController_RedirectMessages.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="3779c820-51a9-40c6-83e8-b4e3cb64a95d" Title="PixelHelper Class" Url="html/T_PixelMEDIA_PixelWeb_Components_PixelHelper.htm">
+      <HelpTOCNode Title="PixelHelper Members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_Components_PixelHelper.htm" />
+      <HelpTOCNode Id="45079a2f-af83-4b19-ac58-0b9a021f674c" Title="PixelHelper Constructor " Url="html/Overload_PixelMEDIA_PixelWeb_Components_PixelHelper__ctor.htm">
+        <HelpTOCNode Title="PixelHelper Constructor (, )" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHelper__ctor.htm" />
+        <HelpTOCNode Title="PixelHelper Constructor (, , RouteCollection)" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHelper__ctor_1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="7c6b90c8-cbec-460c-a8d2-b63b38cf5394" Title="PixelHelper Methods" Url="html/Methods_T_PixelMEDIA_PixelWeb_Components_PixelHelper.htm">
+        <HelpTOCNode Title="Attrs Method " Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHelper_Attrs.htm" />
+        <HelpTOCNode Id="514a61aa-c6fa-444f-8a16-9140a78d0a5b" Title="AttrsIf Method " Url="html/Overload_PixelMEDIA_PixelWeb_Components_PixelHelper_AttrsIf.htm">
+          <HelpTOCNode Title="AttrsIf Method (Boolean, Object)" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHelper_AttrsIf.htm" />
+          <HelpTOCNode Title="AttrsIf Method (Boolean, Object, Object)" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHelper_AttrsIf_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="BeginAjaxForm Method " Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHelper_BeginAjaxForm.htm" />
+        <HelpTOCNode Id="7cef28eb-f48f-4223-b171-fac0751e93b7" Title="BeginFormWithClassName Method " Url="html/Overload_PixelMEDIA_PixelWeb_Components_PixelHelper_BeginFormWithClassName.htm">
+          <HelpTOCNode Title="BeginFormWithClassName Method (String)" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHelper_BeginFormWithClassName.htm" />
+          <HelpTOCNode Title="BeginFormWithClassName Method (String, String, String, , Object)" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHelper_BeginFormWithClassName_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="BeginFormWithClassNameAndHash Method " Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHelper_BeginFormWithClassNameAndHash.htm" />
+        <HelpTOCNode Title="CheckedAttrIf Method " Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHelper_CheckedAttrIf.htm" />
+        <HelpTOCNode Title="ClassIf Method " Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHelper_ClassIf.htm" />
+        <HelpTOCNode Title="DisabledAttrIf Method " Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHelper_DisabledAttrIf.htm" />
+        <HelpTOCNode Title="Ellipsize Method " Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHelper_Ellipsize.htm" />
+        <HelpTOCNode Title="GetAbsoluteUrl Method " Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHelper_GetAbsoluteUrl.htm" />
+        <HelpTOCNode Title="GetRouteValue Method " Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHelper_GetRouteValue.htm" />
+        <HelpTOCNode Id="4d47f8ea-bb4e-406c-9ea5-7717ec19ddf4" Title="GetValidationSummarySection Method " Url="html/Overload_PixelMEDIA_PixelWeb_Components_PixelHelper_GetValidationSummarySection.htm">
+          <HelpTOCNode Title="GetValidationSummarySection Method (String)" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHelper_GetValidationSummarySection.htm" />
+          <HelpTOCNode Title="GetValidationSummarySection Method (String, Boolean)" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHelper_GetValidationSummarySection_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="IsCurrentPage Method " Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHelper_IsCurrentPage.htm" />
+        <HelpTOCNode Title="LabelFor Method " Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHelper_LabelFor.htm" />
+        <HelpTOCNode Title="NavigationLink Method " Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHelper_NavigationLink.htm" />
+        <HelpTOCNode Title="SelectedAttrIf Method " Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHelper_SelectedAttrIf.htm" />
+        <HelpTOCNode Title="SortLink Method " Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHelper_SortLink.htm" />
+        <HelpTOCNode Id="9978b61f-a51c-464e-817e-5a6bc6511cda" Title="StringIf Method " Url="html/Overload_PixelMEDIA_PixelWeb_Components_PixelHelper_StringIf.htm">
+          <HelpTOCNode Title="StringIf Method (Boolean, String)" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHelper_StringIf.htm" />
+          <HelpTOCNode Title="StringIf Method (Boolean, String, String)" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHelper_StringIf_1.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="57bb142a-c514-4e9d-891c-beedb0e3750b" Title="PixelHelper Properties" Url="html/Properties_T_PixelMEDIA_PixelWeb_Components_PixelHelper.htm">
+        <HelpTOCNode Title="ActionName Property " Url="html/P_PixelMEDIA_PixelWeb_Components_PixelHelper_ActionName.htm" />
+        <HelpTOCNode Title="Ajax Property " Url="html/P_PixelMEDIA_PixelWeb_Components_PixelHelper_Ajax.htm" />
+        <HelpTOCNode Title="AreaName Property " Url="html/P_PixelMEDIA_PixelWeb_Components_PixelHelper_AreaName.htm" />
+        <HelpTOCNode Title="ControllerName Property " Url="html/P_PixelMEDIA_PixelWeb_Components_PixelHelper_ControllerName.htm" />
+        <HelpTOCNode Title="Errors Property " Url="html/P_PixelMEDIA_PixelWeb_Components_PixelHelper_Errors.htm" />
+        <HelpTOCNode Title="HasErrors Property " Url="html/P_PixelMEDIA_PixelWeb_Components_PixelHelper_HasErrors.htm" />
+        <HelpTOCNode Title="HasMessages Property " Url="html/P_PixelMEDIA_PixelWeb_Components_PixelHelper_HasMessages.htm" />
+        <HelpTOCNode Title="Html Property " Url="html/P_PixelMEDIA_PixelWeb_Components_PixelHelper_Html.htm" />
+        <HelpTOCNode Title="IsDebugMode Property " Url="html/P_PixelMEDIA_PixelWeb_Components_PixelHelper_IsDebugMode.htm" />
+        <HelpTOCNode Title="Messages Property " Url="html/P_PixelMEDIA_PixelWeb_Components_PixelHelper_Messages.htm" />
+        <HelpTOCNode Title="RouteValues Property " Url="html/P_PixelMEDIA_PixelWeb_Components_PixelHelper_RouteValues.htm" />
+        <HelpTOCNode Title="ViewBag Property " Url="html/P_PixelMEDIA_PixelWeb_Components_PixelHelper_ViewBag.htm" />
+        <HelpTOCNode Title="ViewContext Property " Url="html/P_PixelMEDIA_PixelWeb_Components_PixelHelper_ViewContext.htm" />
+        <HelpTOCNode Title="ViewData Property " Url="html/P_PixelMEDIA_PixelWeb_Components_PixelHelper_ViewData.htm" />
+        <HelpTOCNode Title="ViewPage Property " Url="html/P_PixelMEDIA_PixelWeb_Components_PixelHelper_ViewPage.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c0a3416d-3cab-473d-9c79-82264ffa76b8" Title="PixelHtmlExtensions Class" Url="html/T_PixelMEDIA_PixelWeb_Components_PixelHtmlExtensions.htm">
+      <HelpTOCNode Title="PixelHtmlExtensions Members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_Components_PixelHtmlExtensions.htm" />
+      <HelpTOCNode Id="d2280794-58bc-4b5f-a998-68015b871a93" Title="PixelHtmlExtensions Methods" Url="html/Methods_T_PixelMEDIA_PixelWeb_Components_PixelHtmlExtensions.htm">
+        <HelpTOCNode Id="868fd553-21aa-4db5-a224-1159a9f88f0d" Title="LabelFor Method " Url="html/Overload_PixelMEDIA_PixelWeb_Components_PixelHtmlExtensions_LabelFor.htm">
+          <HelpTOCNode Title="LabelFor(TModel, TValue) Method ((TModel), Expression(Func(TModel, TValue)), String, IDictionary(String, Object))" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHtmlExtensions_LabelFor__2.htm" />
+          <HelpTOCNode Title="LabelFor(TModel, TValue) Method ((TModel), Expression(Func(TModel, TValue)), String, Object)" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHtmlExtensions_LabelFor__2_1.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="6f5d4160-d278-42e4-9f63-8afeb6219bba" Title="PixelWebViewPage Class" Url="html/T_PixelMEDIA_PixelWeb_Components_PixelWebViewPage.htm">
+      <HelpTOCNode Title="PixelWebViewPage Members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_Components_PixelWebViewPage.htm" />
+      <HelpTOCNode Title="PixelWebViewPage Constructor " Url="html/M_PixelMEDIA_PixelWeb_Components_PixelWebViewPage__ctor.htm" />
+      <HelpTOCNode Id="6d8330b0-e7ba-43a7-aeca-16aee83165c1" Title="PixelWebViewPage Methods" Url="html/Methods_T_PixelMEDIA_PixelWeb_Components_PixelWebViewPage.htm">
+        <HelpTOCNode Title="InitHelpers Method " Url="html/M_PixelMEDIA_PixelWeb_Components_PixelWebViewPage_InitHelpers.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="PixelWebViewPage Properties" Url="html/Properties_T_PixelMEDIA_PixelWeb_Components_PixelWebViewPage.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="d76d2e87-c5d8-4f7d-a756-388ac09d4d79" Title="PixelWebViewPage(TModel) Class" Url="html/T_PixelMEDIA_PixelWeb_Components_PixelWebViewPage_1.htm">
+      <HelpTOCNode Title="PixelWebViewPage(TModel) Members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_Components_PixelWebViewPage_1.htm" />
+      <HelpTOCNode Title="PixelWebViewPage(TModel) Constructor " Url="html/M_PixelMEDIA_PixelWeb_Components_PixelWebViewPage_1__ctor.htm" />
+      <HelpTOCNode Id="d7d7859e-10e1-48cb-b957-0e400b4ea081" Title="PixelWebViewPage(TModel) Methods" Url="html/Methods_T_PixelMEDIA_PixelWeb_Components_PixelWebViewPage_1.htm">
+        <HelpTOCNode Title="InitHelpers Method " Url="html/M_PixelMEDIA_PixelWeb_Components_PixelWebViewPage_1_InitHelpers.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="PixelWebViewPage(TModel) Properties" Url="html/Properties_T_PixelMEDIA_PixelWeb_Components_PixelWebViewPage_1.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="c5eb8901-aed0-49cc-829f-7bd3eb229574" Title="PixelMEDIA.PixelWeb.Helpers Namespace" Url="html/N_PixelMEDIA_PixelWeb_Helpers.htm">
+    <HelpTOCNode Id="ab7c6e2b-23f4-4067-9937-a03cb549d308" Title="HttpHelper Class" Url="html/T_PixelMEDIA_PixelWeb_Helpers_HttpHelper.htm">
+      <HelpTOCNode Title="HttpHelper Members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_Helpers_HttpHelper.htm" />
+      <HelpTOCNode Id="7821cdd7-1c9e-459b-813b-c865dddb4ff3" Title="HttpHelper Methods" Url="html/Methods_T_PixelMEDIA_PixelWeb_Helpers_HttpHelper.htm">
+        <HelpTOCNode Title="Capture Method " Url="html/M_PixelMEDIA_PixelWeb_Helpers_HttpHelper_Capture.htm" />
+        <HelpTOCNode Title="GetBytesFromUploadedFile Method " Url="html/M_PixelMEDIA_PixelWeb_Helpers_HttpHelper_GetBytesFromUploadedFile.htm" />
+        <HelpTOCNode Title="GetCookie Method " Url="html/M_PixelMEDIA_PixelWeb_Helpers_HttpHelper_GetCookie.htm" />
+        <HelpTOCNode Id="46cc0096-fd67-4021-b437-72a401f190a9" Title="Redirect Method " Url="html/Overload_PixelMEDIA_PixelWeb_Helpers_HttpHelper_Redirect.htm">
+          <HelpTOCNode Title="Redirect Method (String)" Url="html/M_PixelMEDIA_PixelWeb_Helpers_HttpHelper_Redirect.htm" />
+          <HelpTOCNode Title="Redirect Method (HttpContext, String)" Url="html/M_PixelMEDIA_PixelWeb_Helpers_HttpHelper_Redirect_1.htm" />
+          <HelpTOCNode Title="Redirect Method (HttpContextBase, String)" Url="html/M_PixelMEDIA_PixelWeb_Helpers_HttpHelper_Redirect_2.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="fd7187a7-f502-470b-ad23-dc5e51cd98d6" Title="RedirectToLogin Method " Url="html/Overload_PixelMEDIA_PixelWeb_Helpers_HttpHelper_RedirectToLogin.htm">
+          <HelpTOCNode Title="RedirectToLogin Method " Url="html/M_PixelMEDIA_PixelWeb_Helpers_HttpHelper_RedirectToLogin.htm" />
+          <HelpTOCNode Title="RedirectToLogin Method (HttpContext)" Url="html/M_PixelMEDIA_PixelWeb_Helpers_HttpHelper_RedirectToLogin_1.htm" />
+          <HelpTOCNode Title="RedirectToLogin Method (HttpContextBase)" Url="html/M_PixelMEDIA_PixelWeb_Helpers_HttpHelper_RedirectToLogin_2.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="5802ac6e-6d92-47a1-b880-58bb8d90d113" Title="SetCookie Method " Url="html/Overload_PixelMEDIA_PixelWeb_Helpers_HttpHelper_SetCookie.htm">
+          <HelpTOCNode Title="SetCookie Method (String, String)" Url="html/M_PixelMEDIA_PixelWeb_Helpers_HttpHelper_SetCookie.htm" />
+          <HelpTOCNode Title="SetCookie Method (String, String, String)" Url="html/M_PixelMEDIA_PixelWeb_Helpers_HttpHelper_SetCookie_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="UploadFile Method " Url="html/M_PixelMEDIA_PixelWeb_Helpers_HttpHelper_UploadFile.htm" />
+        <HelpTOCNode Title="UrlCombine Method " Url="html/M_PixelMEDIA_PixelWeb_Helpers_HttpHelper_UrlCombine.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="20a70778-70b7-4c44-9e36-f252c9e771bb" Title="HttpHelper Properties" Url="html/Properties_T_PixelMEDIA_PixelWeb_Helpers_HttpHelper.htm">
+        <HelpTOCNode Title="ClientIp Property " Url="html/P_PixelMEDIA_PixelWeb_Helpers_HttpHelper_ClientIp.htm" />
+        <HelpTOCNode Title="ServerDomain Property " Url="html/P_PixelMEDIA_PixelWeb_Helpers_HttpHelper_ServerDomain.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="8ce3a0a3-b8ba-454a-a476-87926e056955" Title="PixelMEDIA.PixelWeb.Providers Namespace" Url="html/N_PixelMEDIA_PixelWeb_Providers.htm">
+    <HelpTOCNode Id="4a1267ba-5857-4aea-8ea6-200f019a96b3" Title="AntiForgeryTokenFilterProvider Class" Url="html/T_PixelMEDIA_PixelWeb_Providers_AntiForgeryTokenFilterProvider.htm">
+      <HelpTOCNode Title="AntiForgeryTokenFilterProvider Members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_Providers_AntiForgeryTokenFilterProvider.htm" />
+      <HelpTOCNode Title="AntiForgeryTokenFilterProvider Constructor " Url="html/M_PixelMEDIA_PixelWeb_Providers_AntiForgeryTokenFilterProvider__ctor.htm" />
+      <HelpTOCNode Id="1b22390d-77ba-4fb1-86ea-00f3efa59f5f" Title="AntiForgeryTokenFilterProvider Methods" Url="html/Methods_T_PixelMEDIA_PixelWeb_Providers_AntiForgeryTokenFilterProvider.htm">
+        <HelpTOCNode Title="GetFilters Method " Url="html/M_PixelMEDIA_PixelWeb_Providers_AntiForgeryTokenFilterProvider_GetFilters.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b74ad27d-10b2-4790-93d2-2e5450ced7b6" Title="EmailTemplateProvider(T) Class" Url="html/T_PixelMEDIA_PixelWeb_Providers_EmailTemplateProvider_1.htm">
+      <HelpTOCNode Title="EmailTemplateProvider(T) Members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_Providers_EmailTemplateProvider_1.htm" />
+      <HelpTOCNode Title="EmailTemplateProvider(T) Constructor " Url="html/M_PixelMEDIA_PixelWeb_Providers_EmailTemplateProvider_1__ctor.htm" />
+      <HelpTOCNode Id="14c4c580-abb8-4fd4-bc4b-2e3b64f388c3" Title="EmailTemplateProvider(T) Methods" Url="html/Methods_T_PixelMEDIA_PixelWeb_Providers_EmailTemplateProvider_1.htm">
+        <HelpTOCNode Title="Render Method " Url="html/M_PixelMEDIA_PixelWeb_Providers_EmailTemplateProvider_1_Render.htm" />
+        <HelpTOCNode Title="UrlEncode Method " Url="html/M_PixelMEDIA_PixelWeb_Providers_EmailTemplateProvider_1_UrlEncode.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="430af533-641d-43da-a461-273ecc537264" Title="WebCacheProvider Class" Url="html/T_PixelMEDIA_PixelWeb_Providers_WebCacheProvider.htm">
+      <HelpTOCNode Title="WebCacheProvider Members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_Providers_WebCacheProvider.htm" />
+      <HelpTOCNode Title="WebCacheProvider Constructor " Url="html/M_PixelMEDIA_PixelWeb_Providers_WebCacheProvider__ctor.htm" />
+      <HelpTOCNode Id="33476f88-b6fc-425a-9133-4b32e18dc692" Title="WebCacheProvider Methods" Url="html/Methods_T_PixelMEDIA_PixelWeb_Providers_WebCacheProvider.htm">
+        <HelpTOCNode Id="b29c05ce-3a36-4618-a079-a06b5190e57e" Title="GetApplicationCacheItem Method " Url="html/Overload_PixelMEDIA_PixelWeb_Providers_WebCacheProvider_GetApplicationCacheItem.htm">
+          <HelpTOCNode Title="GetApplicationCacheItem Method (String)" Url="html/M_PixelMEDIA_PixelWeb_Providers_WebCacheProvider_GetApplicationCacheItem.htm" />
+          <HelpTOCNode Title="GetApplicationCacheItem(T) Method (String)" Url="html/M_PixelMEDIA_PixelWeb_Providers_WebCacheProvider_GetApplicationCacheItem__1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="247abc9f-8a8b-4d63-8c9a-11710c1bf839" Title="GetSessionCacheItem Method " Url="html/Overload_PixelMEDIA_PixelWeb_Providers_WebCacheProvider_GetSessionCacheItem.htm">
+          <HelpTOCNode Title="GetSessionCacheItem Method (String)" Url="html/M_PixelMEDIA_PixelWeb_Providers_WebCacheProvider_GetSessionCacheItem.htm" />
+          <HelpTOCNode Title="GetSessionCacheItem(T) Method (String)" Url="html/M_PixelMEDIA_PixelWeb_Providers_WebCacheProvider_GetSessionCacheItem__1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="HasApplicationCacheItem Method " Url="html/M_PixelMEDIA_PixelWeb_Providers_WebCacheProvider_HasApplicationCacheItem.htm" />
+        <HelpTOCNode Title="HasSessionCacheItem Method " Url="html/M_PixelMEDIA_PixelWeb_Providers_WebCacheProvider_HasSessionCacheItem.htm" />
+        <HelpTOCNode Title="SetApplicationCacheItem(T) Method " Url="html/M_PixelMEDIA_PixelWeb_Providers_WebCacheProvider_SetApplicationCacheItem__1.htm" />
+        <HelpTOCNode Title="SetSessionCacheItem(T) Method " Url="html/M_PixelMEDIA_PixelWeb_Providers_WebCacheProvider_SetSessionCacheItem__1.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="2a89faee-6dc8-47d2-9bf1-d4cbe79d4c51" Title="WebClientPropertyProvider Class" Url="html/T_PixelMEDIA_PixelWeb_Providers_WebClientPropertyProvider.htm">
+      <HelpTOCNode Title="WebClientPropertyProvider Members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_Providers_WebClientPropertyProvider.htm" />
+      <HelpTOCNode Title="WebClientPropertyProvider Constructor " Url="html/M_PixelMEDIA_PixelWeb_Providers_WebClientPropertyProvider__ctor.htm" />
+      <HelpTOCNode Title="WebClientPropertyProvider Methods" Url="html/Methods_T_PixelMEDIA_PixelWeb_Providers_WebClientPropertyProvider.htm" />
+      <HelpTOCNode Id="fc6ed78d-f392-4e59-a190-96ff87f6a4f4" Title="WebClientPropertyProvider Properties" Url="html/Properties_T_PixelMEDIA_PixelWeb_Providers_WebClientPropertyProvider.htm">
+        <HelpTOCNode Title="ApplicationLocation Property " Url="html/P_PixelMEDIA_PixelWeb_Providers_WebClientPropertyProvider_ApplicationLocation.htm" />
+        <HelpTOCNode Title="Identifier Property " Url="html/P_PixelMEDIA_PixelWeb_Providers_WebClientPropertyProvider_Identifier.htm" />
+        <HelpTOCNode Title="IpAddress Property " Url="html/P_PixelMEDIA_PixelWeb_Providers_WebClientPropertyProvider_IpAddress.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="0139631a-2a3e-4f6f-8b91-5d663738d1d5" Title="PixelMEDIA.PixelWeb.ViewModels Namespace" Url="html/N_PixelMEDIA_PixelWeb_ViewModels.htm">
+    <HelpTOCNode Id="c5ed5897-134c-47ac-84b0-40f20d2becb6" Title="ErrorModel Class" Url="html/T_PixelMEDIA_PixelWeb_ViewModels_ErrorModel.htm">
+      <HelpTOCNode Title="ErrorModel Members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_ViewModels_ErrorModel.htm" />
+      <HelpTOCNode Title="ErrorModel Constructor " Url="html/M_PixelMEDIA_PixelWeb_ViewModels_ErrorModel__ctor.htm" />
+      <HelpTOCNode Title="ErrorModel Methods" Url="html/Methods_T_PixelMEDIA_PixelWeb_ViewModels_ErrorModel.htm" />
+      <HelpTOCNode Id="2ab7a114-a359-4d2d-82eb-1a8713398be9" Title="ErrorModel Properties" Url="html/Properties_T_PixelMEDIA_PixelWeb_ViewModels_ErrorModel.htm">
+        <HelpTOCNode Title="ClientProperties Property " Url="html/P_PixelMEDIA_PixelWeb_ViewModels_ErrorModel_ClientProperties.htm" />
+        <HelpTOCNode Title="Ex Property " Url="html/P_PixelMEDIA_PixelWeb_ViewModels_ErrorModel_Ex.htm" />
+        <HelpTOCNode Title="ExceptionHtml Property " Url="html/P_PixelMEDIA_PixelWeb_ViewModels_ErrorModel_ExceptionHtml.htm" />
+        <HelpTOCNode Title="MethodPath Property " Url="html/P_PixelMEDIA_PixelWeb_ViewModels_ErrorModel_MethodPath.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

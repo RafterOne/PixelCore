@@ -1,0 +1,25 @@
+.jumbotron.plain 
+{
+    background-color:inherit;
+    padding: 0px;
+}
+        
+.jumbotron.plain h1
+{
+    font-weight: bold;
+}
+        
+.footer
+{
+    padding-top: 40px;
+}
+        
+.main-link
+{
+    font-weight: bold;
+}
+
+.guide h2
+{
+    margin-top: 40px;
+}

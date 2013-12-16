@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Getting Started With PixelCore</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+    <link rel="stylesheet" href="../pixelcore.css">
+</head>
+<body>
+    <div class="container">
+        <div class="jumbotron plain">
+            <ul class="pull-right list-inline small">
+                <li><a href="../">Home</a></li>
+                <li>|</li>
+                <li><a href="../docs/">Docs</a></li>
+            </ul>
+            
+            <h1>PixelCore</h1>
+            <p class="lead">Getting Started Guide</p>
+
+        </div>
+        <div class="guide">
+              
+
+            <h2>Intro</h2>
+            <p>PixelCore is a boilerplate solution for ASP.NET MVC 4. It includes several common utility libraries and base classes to help speed up web development.</p>
+
+            <h2>Solution boilerplate</h2>
+
+            <p>The included solution follows a CompanyName.ProjectName namespacing convention. A new application solution would be created from scratch, with the following projects:</p>
+
+            <dl>
+                <dt>PixelMEDIA.PixelCore</dt>
+                <dd>Utilities, attributes, and interfaces.</dd>
+
+                <dt>PixelMEDIA.PixelWeb</dt>
+                <dd>General base classes and helpers for various presentation-layer objects such as Razor views and controllers.</dd>
+
+                <dt>PixelMEDIA.*</dt>
+                <dd>Any other shared projects that may be useful for this application.</dd>
+
+                <dt>(CompanyName.ProjectName).Core</dt>
+                <dd>Common items for the whole application. We separate this out from BusinessLogic to avoid circular project references in some application-specific utility libraries.</dd>
+
+                <dt>(CompanyName.ProjectName).BusinessLogic</dt>
+                <dd>The main project for application logic.</dd>
+
+                <dt>(CompanyName.Projectname).Components</dt>
+                <dd>Application-specific base classes and helpers for various presentation-layer objects such as Razor views and controllers.</dd>
+
+                <dt>(CompanyName.ProjectName).Web</dt>
+                <dd>The main MVC web application project.</dd>
+            </dl>
+
+            <p>Usually, we create the application-specific projects fresh and bring in the basic code for the (CompanyName.Projectname).Components library from a previous project (now this boilerplate).</p>
+
+
+            <h2>Setting base classes in the MVC project</h2>
+
+            <p>In the CompanyName.ProjectName.Web  project Views folder Web.config, set the pageBaseType like the following:</p>
+
+            <pre>&lt;pages pageBaseType="(CompanyName.ProjectName).Components.BaseClasses.(ProjectName)WebViewPage"&gt;</pre>
+
+            <p>After this change, you may need to restart Visual Studio to have intellisense see the <code>@Pixel</code> property in Razor pages. This is set up to support plain and strongly-typed views.</p>
+
+            <p>For controllers, simply inherit from the (ProjectName)Controller class you created in the (CompanyName.ProjectName).Components project.</p>
+
+            
+            <h2>AppSettings</h2>
+
+            <p>Use the ApplicationSettings class in (CompanyName.ProjectName).Core to stop using magic strings across your application to retrieve appSettings values from your web.config.
+            You can then access these centrally defined, strongly typed properties from ApplicationSettings.Instance or from AppSettings properties attached to controllers and the @Pixel helper class.</p>
+
+            <pre>@Pixel.AppSettings.SomeWebConfigProperty</pre>
+
+
+            <h2>Nuget</h2>
+
+            <p>If you are having any issues with your Nuget configuration or packages, try starting with 
+            <a href="http://docs.nuget.org/docs/workflows/using-nuget-without-committing-packages">this article</a>.</p>
+
+            <h2>Learn more</h2>
+
+            <p>Please read the <a href="../docs/">documentation</a> or browse the <a href="https://github.com/PixelMEDIA/PixelCore">code</a> to
+            learn about the individual classes and methods that make up PixelCore.</p>
+
+            <h2>Make it your own</h2>
+            <p>While we use the PixelMEDIA namespace for our common code, feel free to rename/move things into your own namespace. We're releasing it under the MIT license, so change away.</p>
+
+        </div>
+
+        <div class="footer">
+            <p>&copy; 2013 <a href="http://www.pixelmedia.com">PixelMEDIA, Inc.</a></p>
+        </div>
+    </div>
+    <script src="//code.jquery.com/jquery.js"></script>
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+</body>
+</html>

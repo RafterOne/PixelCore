@@ -1,0 +1,1109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="ActionName property" Url="html/P_PixelMEDIA_PixelWeb_Components_PixelHelper_ActionName.htm" />
+  <HelpKINode Title="AddError method" Url="html/Overload_PixelMEDIA_PixelWeb_Components_PixelController_AddError.htm" />
+  <HelpKINode Title="AddErrors method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_AddErrors.htm" />
+  <HelpKINode Title="AddMessage method" Url="html/Overload_PixelMEDIA_PixelWeb_Components_PixelController_AddMessage.htm" />
+  <HelpKINode Title="AddMessages method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_AddMessages.htm" />
+  <HelpKINode Title="AddRedirectMessageOrError method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_AddRedirectMessageOrError.htm" />
+  <HelpKINode Title="Ajax property" Url="html/P_PixelMEDIA_PixelWeb_Components_PixelHelper_Ajax.htm" />
+  <HelpKINode Title="AntiForgeryExemptAttribute class">
+    <HelpKINode Title="AntiForgeryExemptAttribute Class" Url="html/T_PixelMEDIA_PixelWeb_Attributes_AntiForgeryExemptAttribute.htm" />
+    <HelpKINode Title="AntiForgeryExemptAttribute Members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_Attributes_AntiForgeryExemptAttribute.htm" />
+    <HelpKINode Title="about AntiForgeryExemptAttribute class" Url="html/T_PixelMEDIA_PixelWeb_Attributes_AntiForgeryExemptAttribute.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_Attributes_AntiForgeryExemptAttribute.htm" />
+    <HelpKINode Title="constructor" Url="html/M_PixelMEDIA_PixelWeb_Attributes_AntiForgeryExemptAttribute__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PixelMEDIA_PixelWeb_Attributes_AntiForgeryExemptAttribute.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_PixelMEDIA_PixelWeb_Attributes_AntiForgeryExemptAttribute.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AntiForgeryExemptAttribute.AntiForgeryExemptAttribute constructor" Url="html/M_PixelMEDIA_PixelWeb_Attributes_AntiForgeryExemptAttribute__ctor.htm" />
+  <HelpKINode Title="AntiForgeryTokenFilterProvider class">
+    <HelpKINode Title="AntiForgeryTokenFilterProvider Class" Url="html/T_PixelMEDIA_PixelWeb_Providers_AntiForgeryTokenFilterProvider.htm" />
+    <HelpKINode Title="AntiForgeryTokenFilterProvider Members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_Providers_AntiForgeryTokenFilterProvider.htm" />
+    <HelpKINode Title="about AntiForgeryTokenFilterProvider class" Url="html/T_PixelMEDIA_PixelWeb_Providers_AntiForgeryTokenFilterProvider.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_Providers_AntiForgeryTokenFilterProvider.htm" />
+    <HelpKINode Title="constructor" Url="html/M_PixelMEDIA_PixelWeb_Providers_AntiForgeryTokenFilterProvider__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PixelMEDIA_PixelWeb_Providers_AntiForgeryTokenFilterProvider.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AntiForgeryTokenFilterProvider.AntiForgeryTokenFilterProvider constructor" Url="html/M_PixelMEDIA_PixelWeb_Providers_AntiForgeryTokenFilterProvider__ctor.htm" />
+  <HelpKINode Title="AntiForgeryTokenFilterProvider.GetFilters method" Url="html/M_PixelMEDIA_PixelWeb_Providers_AntiForgeryTokenFilterProvider_GetFilters.htm" />
+  <HelpKINode Title="ApplicationLocation property">
+    <HelpKINode Title="ExeClientPropertyProvider.ApplicationLocation Property " Url="html/P_PixelExe_Providers_ExeClientPropertyProvider_ApplicationLocation.htm" />
+    <HelpKINode Title="IClientPropertyProvider.ApplicationLocation Property " Url="html/P_PixelMEDIA_PixelCore_Helpers_IClientPropertyProvider_ApplicationLocation.htm" />
+    <HelpKINode Title="WebClientPropertyProvider.ApplicationLocation Property " Url="html/P_PixelMEDIA_PixelWeb_Providers_WebClientPropertyProvider_ApplicationLocation.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AreaName property" Url="html/P_PixelMEDIA_PixelWeb_Components_PixelHelper_AreaName.htm" />
+  <HelpKINode Title="AttachModified(Of T) method" Url="html/M_PixelMEDIA_PixelCore_Helpers_EntityHelper_AttachModified__1.htm" />
+  <HelpKINode Title="AttachModified&lt;T&gt; method" Url="html/M_PixelMEDIA_PixelCore_Helpers_EntityHelper_AttachModified__1.htm" />
+  <HelpKINode Title="Attrs method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHelper_Attrs.htm" />
+  <HelpKINode Title="AttrsIf method" Url="html/Overload_PixelMEDIA_PixelWeb_Components_PixelHelper_AttrsIf.htm" />
+  <HelpKINode Title="BeginAjaxForm method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHelper_BeginAjaxForm.htm" />
+  <HelpKINode Title="BeginFormWithClassName method" Url="html/Overload_PixelMEDIA_PixelWeb_Components_PixelHelper_BeginFormWithClassName.htm" />
+  <HelpKINode Title="BeginFormWithClassNameAndHash method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHelper_BeginFormWithClassNameAndHash.htm" />
+  <HelpKINode Title="Capture method" Url="html/M_PixelMEDIA_PixelWeb_Helpers_HttpHelper_Capture.htm" />
+  <HelpKINode Title="CheckedAttrIf method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHelper_CheckedAttrIf.htm" />
+  <HelpKINode Title="ClassIf method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHelper_ClassIf.htm" />
+  <HelpKINode Title="ClientIp property" Url="html/P_PixelMEDIA_PixelWeb_Helpers_HttpHelper_ClientIp.htm" />
+  <HelpKINode Title="ClientProperties property">
+    <HelpKINode Title="ErrorModel.ClientProperties Property " Url="html/P_PixelMEDIA_PixelWeb_ViewModels_ErrorModel_ClientProperties.htm" />
+    <HelpKINode Title="Logger.ClientProperties Property " Url="html/P_PixelMEDIA_PixelCore_Helpers_Logger_ClientProperties.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CollectionContains method" Url="html/Overload_PixelMEDIA_PixelCore_Helpers_CollectionHelper_CollectionContains.htm" />
+  <HelpKINode Title="CollectionHelper class">
+    <HelpKINode Title="CollectionHelper Class" Url="html/T_PixelMEDIA_PixelCore_Helpers_CollectionHelper.htm" />
+    <HelpKINode Title="CollectionHelper Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_CollectionHelper.htm" />
+    <HelpKINode Title="about CollectionHelper class" Url="html/T_PixelMEDIA_PixelCore_Helpers_CollectionHelper.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_CollectionHelper.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PixelMEDIA_PixelCore_Helpers_CollectionHelper.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CollectionHelper.CollectionContains method" Url="html/Overload_PixelMEDIA_PixelCore_Helpers_CollectionHelper_CollectionContains.htm" />
+  <HelpKINode Title="CollectionHelper.GetNthRoundRobinItem(Of T) method" Url="html/M_PixelMEDIA_PixelCore_Helpers_CollectionHelper_GetNthRoundRobinItem__1.htm" />
+  <HelpKINode Title="CollectionHelper.GetNthRoundRobinItem&lt;T&gt; method" Url="html/M_PixelMEDIA_PixelCore_Helpers_CollectionHelper_GetNthRoundRobinItem__1.htm" />
+  <HelpKINode Title="CollectionHelper.InclusiveRangeArray method" Url="html/Overload_PixelMEDIA_PixelCore_Helpers_CollectionHelper_InclusiveRangeArray.htm" />
+  <HelpKINode Title="CollectionHelper.InclusiveRangeList method" Url="html/Overload_PixelMEDIA_PixelCore_Helpers_CollectionHelper_InclusiveRangeList.htm" />
+  <HelpKINode Title="CollectionHelper.MakeArray(Of T) method" Url="html/M_PixelMEDIA_PixelCore_Helpers_CollectionHelper_MakeArray__1.htm" />
+  <HelpKINode Title="CollectionHelper.MakeArray&lt;T&gt; method" Url="html/M_PixelMEDIA_PixelCore_Helpers_CollectionHelper_MakeArray__1.htm" />
+  <HelpKINode Title="CollectionHelper.MakeList(Of T) method" Url="html/M_PixelMEDIA_PixelCore_Helpers_CollectionHelper_MakeList__1.htm" />
+  <HelpKINode Title="CollectionHelper.MakeList&lt;T&gt; method" Url="html/M_PixelMEDIA_PixelCore_Helpers_CollectionHelper_MakeList__1.htm" />
+  <HelpKINode Title="CollectionHelper.OrderBy(Of TSource, TKey) method" Url="html/M_PixelMEDIA_PixelCore_Helpers_CollectionHelper_OrderBy__2.htm" />
+  <HelpKINode Title="CollectionHelper.OrderBy&lt;TSource, TKey&gt; method" Url="html/M_PixelMEDIA_PixelCore_Helpers_CollectionHelper_OrderBy__2.htm" />
+  <HelpKINode Title="CollectionHelper.TakePage(Of T) method" Url="html/M_PixelMEDIA_PixelCore_Helpers_CollectionHelper_TakePage__1.htm" />
+  <HelpKINode Title="CollectionHelper.TakePage&lt;T&gt; method" Url="html/M_PixelMEDIA_PixelCore_Helpers_CollectionHelper_TakePage__1.htm" />
+  <HelpKINode Title="ControllerName property" Url="html/P_PixelMEDIA_PixelWeb_Components_PixelHelper_ControllerName.htm" />
+  <HelpKINode Title="ConversionHelper class">
+    <HelpKINode Title="ConversionHelper Class" Url="html/T_PixelMEDIA_PixelCore_Helpers_ConversionHelper.htm" />
+    <HelpKINode Title="ConversionHelper Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_ConversionHelper.htm" />
+    <HelpKINode Title="about ConversionHelper class" Url="html/T_PixelMEDIA_PixelCore_Helpers_ConversionHelper.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_ConversionHelper.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PixelMEDIA_PixelCore_Helpers_ConversionHelper.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ConversionHelper.GetEnumFromInt(Of TEnum) method" Url="html/M_PixelMEDIA_PixelCore_Helpers_ConversionHelper_GetEnumFromInt__1.htm" />
+  <HelpKINode Title="ConversionHelper.GetEnumFromInt&lt;TEnum&gt; method" Url="html/M_PixelMEDIA_PixelCore_Helpers_ConversionHelper_GetEnumFromInt__1.htm" />
+  <HelpKINode Title="ConversionHelper.GetEnumTextValueFromEnum(Of TEnum) method" Url="html/M_PixelMEDIA_PixelCore_Helpers_ConversionHelper_GetEnumTextValueFromEnum__1.htm" />
+  <HelpKINode Title="ConversionHelper.GetEnumTextValueFromEnum&lt;TEnum&gt; method" Url="html/M_PixelMEDIA_PixelCore_Helpers_ConversionHelper_GetEnumTextValueFromEnum__1.htm" />
+  <HelpKINode Title="ConversionHelper.GetEnumTextValueFromInt(Of TEnum) method" Url="html/M_PixelMEDIA_PixelCore_Helpers_ConversionHelper_GetEnumTextValueFromInt__1.htm" />
+  <HelpKINode Title="ConversionHelper.GetEnumTextValueFromInt&lt;TEnum&gt; method" Url="html/M_PixelMEDIA_PixelCore_Helpers_ConversionHelper_GetEnumTextValueFromInt__1.htm" />
+  <HelpKINode Title="ConversionHelper.GetLabelFromEnum(Of TEnum) method" Url="html/M_PixelMEDIA_PixelCore_Helpers_ConversionHelper_GetLabelFromEnum__1.htm" />
+  <HelpKINode Title="ConversionHelper.GetLabelFromEnum&lt;TEnum&gt; method" Url="html/M_PixelMEDIA_PixelCore_Helpers_ConversionHelper_GetLabelFromEnum__1.htm" />
+  <HelpKINode Title="ConversionHelper.GetLabelFromPascalCase method" Url="html/M_PixelMEDIA_PixelCore_Helpers_ConversionHelper_GetLabelFromPascalCase.htm" />
+  <HelpKINode Title="ConversionHelper.MakeJsonDict(Of T) method" Url="html/M_PixelMEDIA_PixelCore_Helpers_ConversionHelper_MakeJsonDict__1.htm" />
+  <HelpKINode Title="ConversionHelper.MakeJsonDict&lt;T&gt; method" Url="html/M_PixelMEDIA_PixelCore_Helpers_ConversionHelper_MakeJsonDict__1.htm" />
+  <HelpKINode Title="ConversionHelper.SafeConvertDate method" Url="html/M_PixelMEDIA_PixelCore_Helpers_ConversionHelper_SafeConvertDate.htm" />
+  <HelpKINode Title="ConversionHelper.SafeConvertDecimal method" Url="html/Overload_PixelMEDIA_PixelCore_Helpers_ConversionHelper_SafeConvertDecimal.htm" />
+  <HelpKINode Title="ConversionHelper.SafeConvertGuid method" Url="html/Overload_PixelMEDIA_PixelCore_Helpers_ConversionHelper_SafeConvertGuid.htm" />
+  <HelpKINode Title="ConversionHelper.SafeConvertGuidArray method" Url="html/M_PixelMEDIA_PixelCore_Helpers_ConversionHelper_SafeConvertGuidArray.htm" />
+  <HelpKINode Title="ConversionHelper.SafeConvertInt method" Url="html/Overload_PixelMEDIA_PixelCore_Helpers_ConversionHelper_SafeConvertInt.htm" />
+  <HelpKINode Title="ConversionHelper.SafeConvertString method" Url="html/Overload_PixelMEDIA_PixelCore_Helpers_ConversionHelper_SafeConvertString.htm" />
+  <HelpKINode Title="CopyProperties method" Url="html/M_PixelMEDIA_PixelCore_Helpers_ReflectionHelper_CopyProperties.htm" />
+  <HelpKINode Title="CreateDocument method" Url="html/M_PixelMEDIA_PixelCore_Helpers_XmlHelper_CreateDocument.htm" />
+  <HelpKINode Title="CropImage method" Url="html/M_PixelDrawing_ImageHelper_CropImage.htm" />
+  <HelpKINode Title="CropImageFileOnDisk method" Url="html/M_PixelDrawing_ImageHelper_CropImageFileOnDisk.htm" />
+  <HelpKINode Title="Csv(Of T) method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_Csv__1.htm" />
+  <HelpKINode Title="Csv&lt;T&gt; method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_Csv__1.htm" />
+  <HelpKINode Title="CurrentErrors property" Url="html/P_PixelMEDIA_PixelWeb_Components_PixelController_CurrentErrors.htm" />
+  <HelpKINode Title="CurrentMessages property" Url="html/P_PixelMEDIA_PixelWeb_Components_PixelController_CurrentMessages.htm" />
+  <HelpKINode Title="CurrentPage property" Url="html/P_PixelMEDIA_PixelCore_PagedSortedList_1_CurrentPage.htm" />
+  <HelpKINode Title="Data property" Url="html/P_PixelMEDIA_PixelCore_Status_1_Data.htm" />
+  <HelpKINode Title="DateHelper class">
+    <HelpKINode Title="DateHelper Class" Url="html/T_PixelMEDIA_PixelCore_Helpers_DateHelper.htm" />
+    <HelpKINode Title="DateHelper Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_DateHelper.htm" />
+    <HelpKINode Title="about DateHelper class" Url="html/T_PixelMEDIA_PixelCore_Helpers_DateHelper.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_DateHelper.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PixelMEDIA_PixelCore_Helpers_DateHelper.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DateHelper.DateToString method" Url="html/M_PixelMEDIA_PixelCore_Helpers_DateHelper_DateToString.htm" />
+  <HelpKINode Title="DateHelper.EndOfMonth method" Url="html/Overload_PixelMEDIA_PixelCore_Helpers_DateHelper_EndOfMonth.htm" />
+  <HelpKINode Title="DateHelper.FirstDayOfYear method" Url="html/Overload_PixelMEDIA_PixelCore_Helpers_DateHelper_FirstDayOfYear.htm" />
+  <HelpKINode Title="DateHelper.GetDateFormatted method" Url="html/M_PixelMEDIA_PixelCore_Helpers_DateHelper_GetDateFormatted.htm" />
+  <HelpKINode Title="DateHelper.GetDaysDifference method" Url="html/M_PixelMEDIA_PixelCore_Helpers_DateHelper_GetDaysDifference.htm" />
+  <HelpKINode Title="DateHelper.GetDaysInRangeInclusive method" Url="html/M_PixelMEDIA_PixelCore_Helpers_DateHelper_GetDaysInRangeInclusive.htm" />
+  <HelpKINode Title="DateHelper.GetMonthName method" Url="html/M_PixelMEDIA_PixelCore_Helpers_DateHelper_GetMonthName.htm" />
+  <HelpKINode Title="DateHelper.GetShortDate method" Url="html/M_PixelMEDIA_PixelCore_Helpers_DateHelper_GetShortDate.htm" />
+  <HelpKINode Title="DateHelper.GetTomorrow method" Url="html/M_PixelMEDIA_PixelCore_Helpers_DateHelper_GetTomorrow.htm" />
+  <HelpKINode Title="DateHelper.GetYesterday method" Url="html/M_PixelMEDIA_PixelCore_Helpers_DateHelper_GetYesterday.htm" />
+  <HelpKINode Title="DateHelper.IsLeapYear method" Url="html/M_PixelMEDIA_PixelCore_Helpers_DateHelper_IsLeapYear.htm" />
+  <HelpKINode Title="DateHelper.LastDayOfYear method" Url="html/Overload_PixelMEDIA_PixelCore_Helpers_DateHelper_LastDayOfYear.htm" />
+  <HelpKINode Title="DateHelper.StartOfMonth method" Url="html/Overload_PixelMEDIA_PixelCore_Helpers_DateHelper_StartOfMonth.htm" />
+  <HelpKINode Title="DateToString method" Url="html/M_PixelMEDIA_PixelCore_Helpers_DateHelper_DateToString.htm" />
+  <HelpKINode Title="Debug enumeration member" Url="html/T_PixelMEDIA_PixelCore_Helpers_LogEntryType.htm" />
+  <HelpKINode Title="Direction property" Url="html/P_PixelMEDIA_PixelCore_SortProperties_Direction.htm" />
+  <HelpKINode Title="DisabledAttrIf method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHelper_DisabledAttrIf.htm" />
+  <HelpKINode Title="Ellipsize method">
+    <HelpKINode Title="PixelHelper.Ellipsize Method " Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHelper_Ellipsize.htm" />
+    <HelpKINode Title="StringHelper.Ellipsize Method " Url="html/M_PixelMEDIA_PixelCore_Helpers_StringHelper_Ellipsize.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EmailAddressAttribute class">
+    <HelpKINode Title="EmailAddressAttribute Class" Url="html/T_PixelMEDIA_PixelCore_Attributes_EmailAddressAttribute.htm" />
+    <HelpKINode Title="EmailAddressAttribute Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Attributes_EmailAddressAttribute.htm" />
+    <HelpKINode Title="about EmailAddressAttribute class" Url="html/T_PixelMEDIA_PixelCore_Attributes_EmailAddressAttribute.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Attributes_EmailAddressAttribute.htm" />
+    <HelpKINode Title="constructor" Url="html/M_PixelMEDIA_PixelCore_Attributes_EmailAddressAttribute__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PixelMEDIA_PixelCore_Attributes_EmailAddressAttribute.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_PixelMEDIA_PixelCore_Attributes_EmailAddressAttribute.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EmailAddressAttribute.EmailAddressAttribute constructor" Url="html/M_PixelMEDIA_PixelCore_Attributes_EmailAddressAttribute__ctor.htm" />
+  <HelpKINode Title="EmailAddressAttribute.IsValid method" Url="html/Overload_PixelMEDIA_PixelCore_Attributes_EmailAddressAttribute_IsValid.htm" />
+  <HelpKINode Title="EmailTemplateProvider(Of T) class">
+    <HelpKINode Title="EmailTemplateProvider(T) Class" Url="html/T_PixelMEDIA_PixelWeb_Providers_EmailTemplateProvider_1.htm" />
+    <HelpKINode Title="EmailTemplateProvider(T) Members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_Providers_EmailTemplateProvider_1.htm" />
+    <HelpKINode Title="about EmailTemplateProvider(Of T) class" Url="html/T_PixelMEDIA_PixelWeb_Providers_EmailTemplateProvider_1.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_Providers_EmailTemplateProvider_1.htm" />
+    <HelpKINode Title="constructor" Url="html/M_PixelMEDIA_PixelWeb_Providers_EmailTemplateProvider_1__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PixelMEDIA_PixelWeb_Providers_EmailTemplateProvider_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EmailTemplateProvider(Of T).EmailTemplateProvider constructor" Url="html/M_PixelMEDIA_PixelWeb_Providers_EmailTemplateProvider_1__ctor.htm" />
+  <HelpKINode Title="EmailTemplateProvider(Of T).Render method" Url="html/M_PixelMEDIA_PixelWeb_Providers_EmailTemplateProvider_1_Render.htm" />
+  <HelpKINode Title="EmailTemplateProvider(Of T).UrlEncode method" Url="html/M_PixelMEDIA_PixelWeb_Providers_EmailTemplateProvider_1_UrlEncode.htm" />
+  <HelpKINode Title="EmailTemplateProvider&lt;T&gt; class">
+    <HelpKINode Title="EmailTemplateProvider(T) Class" Url="html/T_PixelMEDIA_PixelWeb_Providers_EmailTemplateProvider_1.htm" />
+    <HelpKINode Title="EmailTemplateProvider(T) Members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_Providers_EmailTemplateProvider_1.htm" />
+    <HelpKINode Title="about EmailTemplateProvider&lt;T&gt; class" Url="html/T_PixelMEDIA_PixelWeb_Providers_EmailTemplateProvider_1.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_Providers_EmailTemplateProvider_1.htm" />
+    <HelpKINode Title="constructor" Url="html/M_PixelMEDIA_PixelWeb_Providers_EmailTemplateProvider_1__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PixelMEDIA_PixelWeb_Providers_EmailTemplateProvider_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EmailTemplateProvider&lt;T&gt;.EmailTemplateProvider constructor" Url="html/M_PixelMEDIA_PixelWeb_Providers_EmailTemplateProvider_1__ctor.htm" />
+  <HelpKINode Title="EmailTemplateProvider&lt;T&gt;.Render method" Url="html/M_PixelMEDIA_PixelWeb_Providers_EmailTemplateProvider_1_Render.htm" />
+  <HelpKINode Title="EmailTemplateProvider&lt;T&gt;.UrlEncode method" Url="html/M_PixelMEDIA_PixelWeb_Providers_EmailTemplateProvider_1_UrlEncode.htm" />
+  <HelpKINode Title="EndOfMonth method" Url="html/Overload_PixelMEDIA_PixelCore_Helpers_DateHelper_EndOfMonth.htm" />
+  <HelpKINode Title="EntityHelper class">
+    <HelpKINode Title="EntityHelper Class" Url="html/T_PixelMEDIA_PixelCore_Helpers_EntityHelper.htm" />
+    <HelpKINode Title="EntityHelper Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_EntityHelper.htm" />
+    <HelpKINode Title="about EntityHelper class" Url="html/T_PixelMEDIA_PixelCore_Helpers_EntityHelper.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_EntityHelper.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PixelMEDIA_PixelCore_Helpers_EntityHelper.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EntityHelper.AttachModified(Of T) method" Url="html/M_PixelMEDIA_PixelCore_Helpers_EntityHelper_AttachModified__1.htm" />
+  <HelpKINode Title="EntityHelper.AttachModified&lt;T&gt; method" Url="html/M_PixelMEDIA_PixelCore_Helpers_EntityHelper_AttachModified__1.htm" />
+  <HelpKINode Title="EntityHelper.SetModified(Of T) method" Url="html/M_PixelMEDIA_PixelCore_Helpers_EntityHelper_SetModified__1.htm" />
+  <HelpKINode Title="EntityHelper.SetModified&lt;T&gt; method" Url="html/M_PixelMEDIA_PixelCore_Helpers_EntityHelper_SetModified__1.htm" />
+  <HelpKINode Title="EntityHelper.SetState(Of T) method" Url="html/M_PixelMEDIA_PixelCore_Helpers_EntityHelper_SetState__1.htm" />
+  <HelpKINode Title="EntityHelper.SetState&lt;T&gt; method" Url="html/M_PixelMEDIA_PixelCore_Helpers_EntityHelper_SetState__1.htm" />
+  <HelpKINode Title="Error enumeration member" Url="html/T_PixelMEDIA_PixelCore_Helpers_LogEntryType.htm" />
+  <HelpKINode Title="Error method">
+    <HelpKINode Title="Logger.Error Method " Url="html/Overload_PixelMEDIA_PixelCore_Helpers_Logger_Error.htm" />
+    <HelpKINode Title="PixelController.Error Method " Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_Error.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ErrorModel class">
+    <HelpKINode Title="ErrorModel Class" Url="html/T_PixelMEDIA_PixelWeb_ViewModels_ErrorModel.htm" />
+    <HelpKINode Title="ErrorModel Members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_ViewModels_ErrorModel.htm" />
+    <HelpKINode Title="about ErrorModel class" Url="html/T_PixelMEDIA_PixelWeb_ViewModels_ErrorModel.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_ViewModels_ErrorModel.htm" />
+    <HelpKINode Title="constructor" Url="html/M_PixelMEDIA_PixelWeb_ViewModels_ErrorModel__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PixelMEDIA_PixelWeb_ViewModels_ErrorModel.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_PixelMEDIA_PixelWeb_ViewModels_ErrorModel.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ErrorModel.ClientProperties property" Url="html/P_PixelMEDIA_PixelWeb_ViewModels_ErrorModel_ClientProperties.htm" />
+  <HelpKINode Title="ErrorModel.ErrorModel constructor" Url="html/M_PixelMEDIA_PixelWeb_ViewModels_ErrorModel__ctor.htm" />
+  <HelpKINode Title="ErrorModel.Ex property" Url="html/P_PixelMEDIA_PixelWeb_ViewModels_ErrorModel_Ex.htm" />
+  <HelpKINode Title="ErrorModel.ExceptionHtml property" Url="html/P_PixelMEDIA_PixelWeb_ViewModels_ErrorModel_ExceptionHtml.htm" />
+  <HelpKINode Title="ErrorModel.MethodPath property" Url="html/P_PixelMEDIA_PixelWeb_ViewModels_ErrorModel_MethodPath.htm" />
+  <HelpKINode Title="Errors property" Url="html/P_PixelMEDIA_PixelWeb_Components_PixelHelper_Errors.htm" />
+  <HelpKINode Title="Ex property" Url="html/P_PixelMEDIA_PixelWeb_ViewModels_ErrorModel_Ex.htm" />
+  <HelpKINode Title="ExceptionHtml property" Url="html/P_PixelMEDIA_PixelWeb_ViewModels_ErrorModel_ExceptionHtml.htm" />
+  <HelpKINode Title="ExeCacheProvider class">
+    <HelpKINode Title="ExeCacheProvider Class" Url="html/T_PixelExe_Providers_ExeCacheProvider.htm" />
+    <HelpKINode Title="ExeCacheProvider Members" Url="html/AllMembers_T_PixelExe_Providers_ExeCacheProvider.htm" />
+    <HelpKINode Title="about ExeCacheProvider class" Url="html/T_PixelExe_Providers_ExeCacheProvider.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers_T_PixelExe_Providers_ExeCacheProvider.htm" />
+    <HelpKINode Title="constructor" Url="html/M_PixelExe_Providers_ExeCacheProvider__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PixelExe_Providers_ExeCacheProvider.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ExeCacheProvider.ExeCacheProvider constructor" Url="html/M_PixelExe_Providers_ExeCacheProvider__ctor.htm" />
+  <HelpKINode Title="ExeCacheProvider.GetApplicationCacheItem method" Url="html/Overload_PixelExe_Providers_ExeCacheProvider_GetApplicationCacheItem.htm" />
+  <HelpKINode Title="ExeCacheProvider.GetSessionCacheItem method" Url="html/Overload_PixelExe_Providers_ExeCacheProvider_GetSessionCacheItem.htm" />
+  <HelpKINode Title="ExeCacheProvider.HasApplicationCacheItem method" Url="html/M_PixelExe_Providers_ExeCacheProvider_HasApplicationCacheItem.htm" />
+  <HelpKINode Title="ExeCacheProvider.HasSessionCacheItem method" Url="html/M_PixelExe_Providers_ExeCacheProvider_HasSessionCacheItem.htm" />
+  <HelpKINode Title="ExeCacheProvider.SetApplicationCacheItem(Of T) method" Url="html/M_PixelExe_Providers_ExeCacheProvider_SetApplicationCacheItem__1.htm" />
+  <HelpKINode Title="ExeCacheProvider.SetApplicationCacheItem&lt;T&gt; method" Url="html/M_PixelExe_Providers_ExeCacheProvider_SetApplicationCacheItem__1.htm" />
+  <HelpKINode Title="ExeCacheProvider.SetSessionCacheItem(Of T) method" Url="html/M_PixelExe_Providers_ExeCacheProvider_SetSessionCacheItem__1.htm" />
+  <HelpKINode Title="ExeCacheProvider.SetSessionCacheItem&lt;T&gt; method" Url="html/M_PixelExe_Providers_ExeCacheProvider_SetSessionCacheItem__1.htm" />
+  <HelpKINode Title="ExeClientPropertyProvider class">
+    <HelpKINode Title="ExeClientPropertyProvider Class" Url="html/T_PixelExe_Providers_ExeClientPropertyProvider.htm" />
+    <HelpKINode Title="ExeClientPropertyProvider Members" Url="html/AllMembers_T_PixelExe_Providers_ExeClientPropertyProvider.htm" />
+    <HelpKINode Title="about ExeClientPropertyProvider class" Url="html/T_PixelExe_Providers_ExeClientPropertyProvider.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers_T_PixelExe_Providers_ExeClientPropertyProvider.htm" />
+    <HelpKINode Title="constructor" Url="html/M_PixelExe_Providers_ExeClientPropertyProvider__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PixelExe_Providers_ExeClientPropertyProvider.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_PixelExe_Providers_ExeClientPropertyProvider.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ExeClientPropertyProvider.ApplicationLocation property" Url="html/P_PixelExe_Providers_ExeClientPropertyProvider_ApplicationLocation.htm" />
+  <HelpKINode Title="ExeClientPropertyProvider.ExeClientPropertyProvider constructor" Url="html/M_PixelExe_Providers_ExeClientPropertyProvider__ctor.htm" />
+  <HelpKINode Title="ExeClientPropertyProvider.Identifier property" Url="html/P_PixelExe_Providers_ExeClientPropertyProvider_Identifier.htm" />
+  <HelpKINode Title="ExeClientPropertyProvider.IpAddress property" Url="html/P_PixelExe_Providers_ExeClientPropertyProvider_IpAddress.htm" />
+  <HelpKINode Title="ExecuteCommand method" Url="html/M_PixelMEDIA_PixelCore_Helpers_SystemHelper_ExecuteCommand.htm" />
+  <HelpKINode Title="ExportHelper class">
+    <HelpKINode Title="ExportHelper Class" Url="html/T_PixelMEDIA_PixelCore_Helpers_ExportHelper.htm" />
+    <HelpKINode Title="ExportHelper Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_ExportHelper.htm" />
+    <HelpKINode Title="about ExportHelper class" Url="html/T_PixelMEDIA_PixelCore_Helpers_ExportHelper.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_ExportHelper.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PixelMEDIA_PixelCore_Helpers_ExportHelper.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ExportHelper.GetCsv(Of T) method" Url="html/M_PixelMEDIA_PixelCore_Helpers_ExportHelper_GetCsv__1.htm" />
+  <HelpKINode Title="ExportHelper.GetCsv&lt;T&gt; method" Url="html/M_PixelMEDIA_PixelCore_Helpers_ExportHelper_GetCsv__1.htm" />
+  <HelpKINode Title="ExtractBetween method" Url="html/M_PixelMEDIA_PixelCore_Helpers_StringHelper_ExtractBetween.htm" />
+  <HelpKINode Title="ExtractKeyValuePairs method" Url="html/M_PixelMEDIA_PixelCore_Helpers_StringHelper_ExtractKeyValuePairs.htm" />
+  <HelpKINode Title="Fail method" Url="html/Overload_PixelMEDIA_PixelCore_Status_Fail.htm" />
+  <HelpKINode Title="FailFormat method" Url="html/M_PixelMEDIA_PixelCore_Status_FailFormat.htm" />
+  <HelpKINode Title="Fatal enumeration member" Url="html/T_PixelMEDIA_PixelCore_Helpers_LogEntryType.htm" />
+  <HelpKINode Title="Fatal method" Url="html/Overload_PixelMEDIA_PixelCore_Helpers_Logger_Fatal.htm" />
+  <HelpKINode Title="Filters property" Url="html/P_PixelMEDIA_PixelCore_PagedSortedList_1_Filters.htm" />
+  <HelpKINode Title="FirstDayOfYear method" Url="html/Overload_PixelMEDIA_PixelCore_Helpers_DateHelper_FirstDayOfYear.htm" />
+  <HelpKINode Title="FromDict(Of T) method" Url="html/M_PixelMEDIA_PixelCore_SafeDict_FromDict__1.htm" />
+  <HelpKINode Title="FromDict&lt;T&gt; method" Url="html/M_PixelMEDIA_PixelCore_SafeDict_FromDict__1.htm" />
+  <HelpKINode Title="Get method" Url="html/Overload_PixelMEDIA_PixelCore_Helpers_SettingsHelper_Get.htm" />
+  <HelpKINode Title="GetAbsoluteUrl method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHelper_GetAbsoluteUrl.htm" />
+  <HelpKINode Title="GetApplicationCacheItem method">
+    <HelpKINode Title="ExeCacheProvider.GetApplicationCacheItem Method " Url="html/Overload_PixelExe_Providers_ExeCacheProvider_GetApplicationCacheItem.htm" />
+    <HelpKINode Title="ICacheProvider.GetApplicationCacheItem Method " Url="html/Overload_PixelMEDIA_PixelCore_Interfaces_ICacheProvider_GetApplicationCacheItem.htm" />
+    <HelpKINode Title="WebCacheProvider.GetApplicationCacheItem Method " Url="html/Overload_PixelMEDIA_PixelWeb_Providers_WebCacheProvider_GetApplicationCacheItem.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetBool method" Url="html/Overload_PixelMEDIA_PixelCore_SafeDict_GetBool.htm" />
+  <HelpKINode Title="GetBytesFromUploadedFile method" Url="html/M_PixelMEDIA_PixelWeb_Helpers_HttpHelper_GetBytesFromUploadedFile.htm" />
+  <HelpKINode Title="GetCookie method" Url="html/M_PixelMEDIA_PixelWeb_Helpers_HttpHelper_GetCookie.htm" />
+  <HelpKINode Title="GetCsv(Of T) method" Url="html/M_PixelMEDIA_PixelCore_Helpers_ExportHelper_GetCsv__1.htm" />
+  <HelpKINode Title="GetCsv&lt;T&gt; method" Url="html/M_PixelMEDIA_PixelCore_Helpers_ExportHelper_GetCsv__1.htm" />
+  <HelpKINode Title="GetDateFormatted method" Url="html/M_PixelMEDIA_PixelCore_Helpers_DateHelper_GetDateFormatted.htm" />
+  <HelpKINode Title="GetDaysDifference method" Url="html/M_PixelMEDIA_PixelCore_Helpers_DateHelper_GetDaysDifference.htm" />
+  <HelpKINode Title="GetDaysInRangeInclusive method" Url="html/M_PixelMEDIA_PixelCore_Helpers_DateHelper_GetDaysInRangeInclusive.htm" />
+  <HelpKINode Title="GetDict method" Url="html/M_PixelMEDIA_PixelCore_SafeDict_GetDict.htm" />
+  <HelpKINode Title="GetDifferentlyExtensionedBuddyFilePath method" Url="html/Overload_PixelMEDIA_PixelCore_Helpers_SystemHelper_GetDifferentlyExtensionedBuddyFilePath.htm" />
+  <HelpKINode Title="GetEnumFromInt(Of TEnum) method" Url="html/M_PixelMEDIA_PixelCore_Helpers_ConversionHelper_GetEnumFromInt__1.htm" />
+  <HelpKINode Title="GetEnumFromInt&lt;TEnum&gt; method" Url="html/M_PixelMEDIA_PixelCore_Helpers_ConversionHelper_GetEnumFromInt__1.htm" />
+  <HelpKINode Title="GetEnumTextValueFromEnum(Of TEnum) method" Url="html/M_PixelMEDIA_PixelCore_Helpers_ConversionHelper_GetEnumTextValueFromEnum__1.htm" />
+  <HelpKINode Title="GetEnumTextValueFromEnum&lt;TEnum&gt; method" Url="html/M_PixelMEDIA_PixelCore_Helpers_ConversionHelper_GetEnumTextValueFromEnum__1.htm" />
+  <HelpKINode Title="GetEnumTextValueFromInt(Of TEnum) method" Url="html/M_PixelMEDIA_PixelCore_Helpers_ConversionHelper_GetEnumTextValueFromInt__1.htm" />
+  <HelpKINode Title="GetEnumTextValueFromInt&lt;TEnum&gt; method" Url="html/M_PixelMEDIA_PixelCore_Helpers_ConversionHelper_GetEnumTextValueFromInt__1.htm" />
+  <HelpKINode Title="GetFileNamesFromDirectory method" Url="html/M_PixelMEDIA_PixelCore_Helpers_SystemHelper_GetFileNamesFromDirectory.htm" />
+  <HelpKINode Title="GetFileNameStub method" Url="html/M_PixelMEDIA_PixelCore_Helpers_SystemHelper_GetFileNameStub.htm" />
+  <HelpKINode Title="GetFilePathsFromDirectory method" Url="html/M_PixelMEDIA_PixelCore_Helpers_SystemHelper_GetFilePathsFromDirectory.htm" />
+  <HelpKINode Title="GetFilters method" Url="html/M_PixelMEDIA_PixelWeb_Providers_AntiForgeryTokenFilterProvider_GetFilters.htm" />
+  <HelpKINode Title="GetFullExceptionText method" Url="html/M_PixelMEDIA_PixelCore_Helpers_Logger_GetFullExceptionText.htm" />
+  <HelpKINode Title="GetGetableProperties method" Url="html/Overload_PixelMEDIA_PixelCore_Helpers_ReflectionHelper_GetGetableProperties.htm" />
+  <HelpKINode Title="GetInt method">
+    <HelpKINode Title="SafeDict.GetInt Method " Url="html/Overload_PixelMEDIA_PixelCore_SafeDict_GetInt.htm" />
+    <HelpKINode Title="SettingsHelper.GetInt Method " Url="html/Overload_PixelMEDIA_PixelCore_Helpers_SettingsHelper_GetInt.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetLabelFromEnum(Of TEnum) method" Url="html/M_PixelMEDIA_PixelCore_Helpers_ConversionHelper_GetLabelFromEnum__1.htm" />
+  <HelpKINode Title="GetLabelFromEnum&lt;TEnum&gt; method" Url="html/M_PixelMEDIA_PixelCore_Helpers_ConversionHelper_GetLabelFromEnum__1.htm" />
+  <HelpKINode Title="GetLabelFromPascalCase method" Url="html/M_PixelMEDIA_PixelCore_Helpers_ConversionHelper_GetLabelFromPascalCase.htm" />
+  <HelpKINode Title="GetLong method" Url="html/Overload_PixelMEDIA_PixelCore_SafeDict_GetLong.htm" />
+  <HelpKINode Title="GetMethodPath method" Url="html/Overload_PixelMEDIA_PixelCore_Helpers_Logger_GetMethodPath.htm" />
+  <HelpKINode Title="GetMonthName method" Url="html/M_PixelMEDIA_PixelCore_Helpers_DateHelper_GetMonthName.htm" />
+  <HelpKINode Title="GetNthRoundRobinItem(Of T) method" Url="html/M_PixelMEDIA_PixelCore_Helpers_CollectionHelper_GetNthRoundRobinItem__1.htm" />
+  <HelpKINode Title="GetNthRoundRobinItem&lt;T&gt; method" Url="html/M_PixelMEDIA_PixelCore_Helpers_CollectionHelper_GetNthRoundRobinItem__1.htm" />
+  <HelpKINode Title="GetProperty method" Url="html/M_PixelMEDIA_PixelCore_Helpers_ReflectionHelper_GetProperty.htm" />
+  <HelpKINode Title="GetRandomAlphanumericString method" Url="html/M_PixelMEDIA_PixelCore_Helpers_RandomHelper_GetRandomAlphanumericString.htm" />
+  <HelpKINode Title="GetRouteValue method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHelper_GetRouteValue.htm" />
+  <HelpKINode Title="GetSafeAttributeValue method" Url="html/M_PixelMEDIA_PixelCore_Helpers_XmlHelper_GetSafeAttributeValue.htm" />
+  <HelpKINode Title="GetSessionCacheItem method">
+    <HelpKINode Title="ExeCacheProvider.GetSessionCacheItem Method " Url="html/Overload_PixelExe_Providers_ExeCacheProvider_GetSessionCacheItem.htm" />
+    <HelpKINode Title="ICacheProvider.GetSessionCacheItem Method " Url="html/Overload_PixelMEDIA_PixelCore_Interfaces_ICacheProvider_GetSessionCacheItem.htm" />
+    <HelpKINode Title="WebCacheProvider.GetSessionCacheItem Method " Url="html/Overload_PixelMEDIA_PixelWeb_Providers_WebCacheProvider_GetSessionCacheItem.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetShortDate method" Url="html/M_PixelMEDIA_PixelCore_Helpers_DateHelper_GetShortDate.htm" />
+  <HelpKINode Title="GetSimilarlyExtensionedNeighborFilePath method" Url="html/M_PixelMEDIA_PixelCore_Helpers_SystemHelper_GetSimilarlyExtensionedNeighborFilePath.htm" />
+  <HelpKINode Title="GetSpecifiedPropertiesInFieldNameOrder method" Url="html/M_PixelMEDIA_PixelCore_Helpers_ReflectionHelper_GetSpecifiedPropertiesInFieldNameOrder.htm" />
+  <HelpKINode Title="GetString method" Url="html/Overload_PixelMEDIA_PixelCore_SafeDict_GetString.htm" />
+  <HelpKINode Title="GetTextFromFile method" Url="html/M_PixelMEDIA_PixelCore_Helpers_SystemHelper_GetTextFromFile.htm" />
+  <HelpKINode Title="GetTomorrow method" Url="html/M_PixelMEDIA_PixelCore_Helpers_DateHelper_GetTomorrow.htm" />
+  <HelpKINode Title="GetValidationSummarySection method" Url="html/Overload_PixelMEDIA_PixelWeb_Components_PixelHelper_GetValidationSummarySection.htm" />
+  <HelpKINode Title="GetValue method" Url="html/Overload_PixelMEDIA_PixelCore_SafeDict_GetValue.htm" />
+  <HelpKINode Title="GetWordCount method" Url="html/M_PixelMEDIA_PixelCore_Helpers_StringHelper_GetWordCount.htm" />
+  <HelpKINode Title="GetXDocument method" Url="html/Overload_PixelMEDIA_PixelCore_Helpers_XmlHelper_GetXDocument.htm" />
+  <HelpKINode Title="GetXmlDocumentByString method" Url="html/M_PixelMEDIA_PixelCore_Helpers_XmlHelper_GetXmlDocumentByString.htm" />
+  <HelpKINode Title="GetYesterday method" Url="html/M_PixelMEDIA_PixelCore_Helpers_DateHelper_GetYesterday.htm" />
+  <HelpKINode Title="HasApplicationCacheItem method">
+    <HelpKINode Title="ExeCacheProvider.HasApplicationCacheItem Method " Url="html/M_PixelExe_Providers_ExeCacheProvider_HasApplicationCacheItem.htm" />
+    <HelpKINode Title="ICacheProvider.HasApplicationCacheItem Method " Url="html/M_PixelMEDIA_PixelCore_Interfaces_ICacheProvider_HasApplicationCacheItem.htm" />
+    <HelpKINode Title="WebCacheProvider.HasApplicationCacheItem Method " Url="html/M_PixelMEDIA_PixelWeb_Providers_WebCacheProvider_HasApplicationCacheItem.htm" />
+  </HelpKINode>
+  <HelpKINode Title="HasAttribute method" Url="html/Overload_PixelMEDIA_PixelCore_Helpers_ReflectionHelper_HasAttribute.htm" />
+  <HelpKINode Title="HasErrors property" Url="html/P_PixelMEDIA_PixelWeb_Components_PixelHelper_HasErrors.htm" />
+  <HelpKINode Title="HashPassword method" Url="html/M_PixelMEDIA_PixelCore_Helpers_SecurityHelper_HashPassword.htm" />
+  <HelpKINode Title="HashStrings method" Url="html/M_PixelMEDIA_PixelCore_Helpers_SecurityHelper_HashStrings.htm" />
+  <HelpKINode Title="HasMessages property" Url="html/P_PixelMEDIA_PixelWeb_Components_PixelHelper_HasMessages.htm" />
+  <HelpKINode Title="HasNext property" Url="html/P_PixelMEDIA_PixelCore_PagedSortedList_1_HasNext.htm" />
+  <HelpKINode Title="HasPrevious property" Url="html/P_PixelMEDIA_PixelCore_PagedSortedList_1_HasPrevious.htm" />
+  <HelpKINode Title="HasPublicSetter method" Url="html/M_PixelMEDIA_PixelCore_Helpers_ReflectionHelper_HasPublicSetter.htm" />
+  <HelpKINode Title="HasSessionCacheItem method">
+    <HelpKINode Title="ExeCacheProvider.HasSessionCacheItem Method " Url="html/M_PixelExe_Providers_ExeCacheProvider_HasSessionCacheItem.htm" />
+    <HelpKINode Title="ICacheProvider.HasSessionCacheItem Method " Url="html/M_PixelMEDIA_PixelCore_Interfaces_ICacheProvider_HasSessionCacheItem.htm" />
+    <HelpKINode Title="WebCacheProvider.HasSessionCacheItem Method " Url="html/M_PixelMEDIA_PixelWeb_Providers_WebCacheProvider_HasSessionCacheItem.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Html property" Url="html/P_PixelMEDIA_PixelWeb_Components_PixelHelper_Html.htm" />
+  <HelpKINode Title="HttpHelper class">
+    <HelpKINode Title="HttpHelper Class" Url="html/T_PixelMEDIA_PixelWeb_Helpers_HttpHelper.htm" />
+    <HelpKINode Title="HttpHelper Members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_Helpers_HttpHelper.htm" />
+    <HelpKINode Title="about HttpHelper class" Url="html/T_PixelMEDIA_PixelWeb_Helpers_HttpHelper.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_Helpers_HttpHelper.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PixelMEDIA_PixelWeb_Helpers_HttpHelper.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_PixelMEDIA_PixelWeb_Helpers_HttpHelper.htm" />
+  </HelpKINode>
+  <HelpKINode Title="HttpHelper.Capture method" Url="html/M_PixelMEDIA_PixelWeb_Helpers_HttpHelper_Capture.htm" />
+  <HelpKINode Title="HttpHelper.ClientIp property" Url="html/P_PixelMEDIA_PixelWeb_Helpers_HttpHelper_ClientIp.htm" />
+  <HelpKINode Title="HttpHelper.GetBytesFromUploadedFile method" Url="html/M_PixelMEDIA_PixelWeb_Helpers_HttpHelper_GetBytesFromUploadedFile.htm" />
+  <HelpKINode Title="HttpHelper.GetCookie method" Url="html/M_PixelMEDIA_PixelWeb_Helpers_HttpHelper_GetCookie.htm" />
+  <HelpKINode Title="HttpHelper.Redirect method" Url="html/Overload_PixelMEDIA_PixelWeb_Helpers_HttpHelper_Redirect.htm" />
+  <HelpKINode Title="HttpHelper.RedirectToLogin method" Url="html/Overload_PixelMEDIA_PixelWeb_Helpers_HttpHelper_RedirectToLogin.htm" />
+  <HelpKINode Title="HttpHelper.ServerDomain property" Url="html/P_PixelMEDIA_PixelWeb_Helpers_HttpHelper_ServerDomain.htm" />
+  <HelpKINode Title="HttpHelper.SetCookie method" Url="html/Overload_PixelMEDIA_PixelWeb_Helpers_HttpHelper_SetCookie.htm" />
+  <HelpKINode Title="HttpHelper.UploadFile method" Url="html/M_PixelMEDIA_PixelWeb_Helpers_HttpHelper_UploadFile.htm" />
+  <HelpKINode Title="HttpHelper.UrlCombine method" Url="html/M_PixelMEDIA_PixelWeb_Helpers_HttpHelper_UrlCombine.htm" />
+  <HelpKINode Title="ICacheProvider interface">
+    <HelpKINode Title="ICacheProvider Interface" Url="html/T_PixelMEDIA_PixelCore_Interfaces_ICacheProvider.htm" />
+    <HelpKINode Title="ICacheProvider Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Interfaces_ICacheProvider.htm" />
+    <HelpKINode Title="about ICacheProvider interface" Url="html/T_PixelMEDIA_PixelCore_Interfaces_ICacheProvider.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Interfaces_ICacheProvider.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PixelMEDIA_PixelCore_Interfaces_ICacheProvider.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ICacheProvider.GetApplicationCacheItem method" Url="html/Overload_PixelMEDIA_PixelCore_Interfaces_ICacheProvider_GetApplicationCacheItem.htm" />
+  <HelpKINode Title="ICacheProvider.GetSessionCacheItem method" Url="html/Overload_PixelMEDIA_PixelCore_Interfaces_ICacheProvider_GetSessionCacheItem.htm" />
+  <HelpKINode Title="ICacheProvider.HasApplicationCacheItem method" Url="html/M_PixelMEDIA_PixelCore_Interfaces_ICacheProvider_HasApplicationCacheItem.htm" />
+  <HelpKINode Title="ICacheProvider.HasSessionCacheItem method" Url="html/M_PixelMEDIA_PixelCore_Interfaces_ICacheProvider_HasSessionCacheItem.htm" />
+  <HelpKINode Title="ICacheProvider.SetApplicationCacheItem(Of T) method" Url="html/M_PixelMEDIA_PixelCore_Interfaces_ICacheProvider_SetApplicationCacheItem__1.htm" />
+  <HelpKINode Title="ICacheProvider.SetApplicationCacheItem&lt;T&gt; method" Url="html/M_PixelMEDIA_PixelCore_Interfaces_ICacheProvider_SetApplicationCacheItem__1.htm" />
+  <HelpKINode Title="ICacheProvider.SetSessionCacheItem(Of T) method" Url="html/M_PixelMEDIA_PixelCore_Interfaces_ICacheProvider_SetSessionCacheItem__1.htm" />
+  <HelpKINode Title="ICacheProvider.SetSessionCacheItem&lt;T&gt; method" Url="html/M_PixelMEDIA_PixelCore_Interfaces_ICacheProvider_SetSessionCacheItem__1.htm" />
+  <HelpKINode Title="IClientPropertyProvider interface">
+    <HelpKINode Title="IClientPropertyProvider Interface" Url="html/T_PixelMEDIA_PixelCore_Helpers_IClientPropertyProvider.htm" />
+    <HelpKINode Title="IClientPropertyProvider Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_IClientPropertyProvider.htm" />
+    <HelpKINode Title="about IClientPropertyProvider interface" Url="html/T_PixelMEDIA_PixelCore_Helpers_IClientPropertyProvider.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_IClientPropertyProvider.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_PixelMEDIA_PixelCore_Helpers_IClientPropertyProvider.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IClientPropertyProvider.ApplicationLocation property" Url="html/P_PixelMEDIA_PixelCore_Helpers_IClientPropertyProvider_ApplicationLocation.htm" />
+  <HelpKINode Title="IClientPropertyProvider.Identifier property" Url="html/P_PixelMEDIA_PixelCore_Helpers_IClientPropertyProvider_Identifier.htm" />
+  <HelpKINode Title="IClientPropertyProvider.IpAddress property" Url="html/P_PixelMEDIA_PixelCore_Helpers_IClientPropertyProvider_IpAddress.htm" />
+  <HelpKINode Title="Identifier property">
+    <HelpKINode Title="ExeClientPropertyProvider.Identifier Property " Url="html/P_PixelExe_Providers_ExeClientPropertyProvider_Identifier.htm" />
+    <HelpKINode Title="IClientPropertyProvider.Identifier Property " Url="html/P_PixelMEDIA_PixelCore_Helpers_IClientPropertyProvider_Identifier.htm" />
+    <HelpKINode Title="WebClientPropertyProvider.Identifier Property " Url="html/P_PixelMEDIA_PixelWeb_Providers_WebClientPropertyProvider_Identifier.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IEmailTemplateProvider(Of T) interface">
+    <HelpKINode Title="IEmailTemplateProvider(T) Interface" Url="html/T_PixelMEDIA_PixelCore_Interfaces_IEmailTemplateProvider_1.htm" />
+    <HelpKINode Title="IEmailTemplateProvider(T) Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Interfaces_IEmailTemplateProvider_1.htm" />
+    <HelpKINode Title="about IEmailTemplateProvider(Of T) interface" Url="html/T_PixelMEDIA_PixelCore_Interfaces_IEmailTemplateProvider_1.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Interfaces_IEmailTemplateProvider_1.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PixelMEDIA_PixelCore_Interfaces_IEmailTemplateProvider_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IEmailTemplateProvider(Of T).Render method" Url="html/M_PixelMEDIA_PixelCore_Interfaces_IEmailTemplateProvider_1_Render.htm" />
+  <HelpKINode Title="IEmailTemplateProvider&lt;T&gt; interface">
+    <HelpKINode Title="IEmailTemplateProvider(T) Interface" Url="html/T_PixelMEDIA_PixelCore_Interfaces_IEmailTemplateProvider_1.htm" />
+    <HelpKINode Title="IEmailTemplateProvider(T) Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Interfaces_IEmailTemplateProvider_1.htm" />
+    <HelpKINode Title="about IEmailTemplateProvider&lt;T&gt; interface" Url="html/T_PixelMEDIA_PixelCore_Interfaces_IEmailTemplateProvider_1.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Interfaces_IEmailTemplateProvider_1.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PixelMEDIA_PixelCore_Interfaces_IEmailTemplateProvider_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IEmailTemplateProvider&lt;T&gt;.Render method" Url="html/M_PixelMEDIA_PixelCore_Interfaces_IEmailTemplateProvider_1_Render.htm" />
+  <HelpKINode Title="ImageHelper class">
+    <HelpKINode Title="ImageHelper Class" Url="html/T_PixelDrawing_ImageHelper.htm" />
+    <HelpKINode Title="ImageHelper Members" Url="html/AllMembers_T_PixelDrawing_ImageHelper.htm" />
+    <HelpKINode Title="about ImageHelper class" Url="html/T_PixelDrawing_ImageHelper.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers_T_PixelDrawing_ImageHelper.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PixelDrawing_ImageHelper.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ImageHelper.CropImage method" Url="html/M_PixelDrawing_ImageHelper_CropImage.htm" />
+  <HelpKINode Title="ImageHelper.CropImageFileOnDisk method" Url="html/M_PixelDrawing_ImageHelper_CropImageFileOnDisk.htm" />
+  <HelpKINode Title="ImageHelper.LoadImage method" Url="html/M_PixelDrawing_ImageHelper_LoadImage.htm" />
+  <HelpKINode Title="ImageHelper.RotateImage90 method" Url="html/M_PixelDrawing_ImageHelper_RotateImage90.htm" />
+  <HelpKINode Title="ImageHelper.RotateImageFileOnDisk method" Url="html/M_PixelDrawing_ImageHelper_RotateImageFileOnDisk.htm" />
+  <HelpKINode Title="InclusiveRangeArray method" Url="html/Overload_PixelMEDIA_PixelCore_Helpers_CollectionHelper_InclusiveRangeArray.htm" />
+  <HelpKINode Title="InclusiveRangeList method" Url="html/Overload_PixelMEDIA_PixelCore_Helpers_CollectionHelper_InclusiveRangeList.htm" />
+  <HelpKINode Title="Info method" Url="html/Overload_PixelMEDIA_PixelCore_Helpers_Logger_Info.htm" />
+  <HelpKINode Title="Information enumeration member" Url="html/T_PixelMEDIA_PixelCore_Helpers_LogEntryType.htm" />
+  <HelpKINode Title="InitHelpers method">
+    <HelpKINode Title="PixelWebViewPage(TModel).InitHelpers Method " Url="html/M_PixelMEDIA_PixelWeb_Components_PixelWebViewPage_1_InitHelpers.htm" />
+    <HelpKINode Title="PixelWebViewPage.InitHelpers Method " Url="html/M_PixelMEDIA_PixelWeb_Components_PixelWebViewPage_InitHelpers.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Initialize method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_Initialize.htm" />
+  <HelpKINode Title="IpAddress property">
+    <HelpKINode Title="ExeClientPropertyProvider.IpAddress Property " Url="html/P_PixelExe_Providers_ExeClientPropertyProvider_IpAddress.htm" />
+    <HelpKINode Title="IClientPropertyProvider.IpAddress Property " Url="html/P_PixelMEDIA_PixelCore_Helpers_IClientPropertyProvider_IpAddress.htm" />
+    <HelpKINode Title="WebClientPropertyProvider.IpAddress Property " Url="html/P_PixelMEDIA_PixelWeb_Providers_WebClientPropertyProvider_IpAddress.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IsCurrentPage method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHelper_IsCurrentPage.htm" />
+  <HelpKINode Title="IsDebugMode property">
+    <HelpKINode Title="PixelController.IsDebugMode Property " Url="html/P_PixelMEDIA_PixelWeb_Components_PixelController_IsDebugMode.htm" />
+    <HelpKINode Title="PixelHelper.IsDebugMode Property " Url="html/P_PixelMEDIA_PixelWeb_Components_PixelHelper_IsDebugMode.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IsLeapYear method" Url="html/M_PixelMEDIA_PixelCore_Helpers_DateHelper_IsLeapYear.htm" />
+  <HelpKINode Title="IsValid method" Url="html/Overload_PixelMEDIA_PixelCore_Attributes_EmailAddressAttribute_IsValid.htm" />
+  <HelpKINode Title="IsValidEmailAddress method" Url="html/M_PixelMEDIA_PixelCore_Helpers_MailHelper_IsValidEmailAddress.htm" />
+  <HelpKINode Title="ItemsPerPage property" Url="html/P_PixelMEDIA_PixelCore_PagedSortedList_1_ItemsPerPage.htm" />
+  <HelpKINode Title="Jsonp method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_Jsonp.htm" />
+  <HelpKINode Title="JsonpText method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_JsonpText.htm" />
+  <HelpKINode Title="JsonStatus method" Url="html/Overload_PixelMEDIA_PixelWeb_Components_PixelController_JsonStatus.htm" />
+  <HelpKINode Title="JsonText method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_JsonText.htm" />
+  <HelpKINode Title="LabelFor method">
+    <HelpKINode Title="PixelHelper.LabelFor Method " Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHelper_LabelFor.htm" />
+    <HelpKINode Title="PixelHtmlExtensions.LabelFor Method " Url="html/Overload_PixelMEDIA_PixelWeb_Components_PixelHtmlExtensions_LabelFor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LastDayOfYear method" Url="html/Overload_PixelMEDIA_PixelCore_Helpers_DateHelper_LastDayOfYear.htm" />
+  <HelpKINode Title="Left method" Url="html/M_PixelMEDIA_PixelCore_Helpers_StringHelper_Left.htm" />
+  <HelpKINode Title="LoadImage method" Url="html/M_PixelDrawing_ImageHelper_LoadImage.htm" />
+  <HelpKINode Title="Log method" Url="html/Overload_PixelMEDIA_PixelCore_Helpers_Logger_Log.htm" />
+  <HelpKINode Title="LogEntryType enumeration" Url="html/T_PixelMEDIA_PixelCore_Helpers_LogEntryType.htm" />
+  <HelpKINode Title="Logger class">
+    <HelpKINode Title="Logger Class" Url="html/T_PixelMEDIA_PixelCore_Helpers_Logger.htm" />
+    <HelpKINode Title="Logger Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_Logger.htm" />
+    <HelpKINode Title="about Logger class" Url="html/T_PixelMEDIA_PixelCore_Helpers_Logger.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_Logger.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PixelMEDIA_PixelCore_Helpers_Logger.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_PixelMEDIA_PixelCore_Helpers_Logger.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Logger.ClientProperties property" Url="html/P_PixelMEDIA_PixelCore_Helpers_Logger_ClientProperties.htm" />
+  <HelpKINode Title="Logger.Error method" Url="html/Overload_PixelMEDIA_PixelCore_Helpers_Logger_Error.htm" />
+  <HelpKINode Title="Logger.Fatal method" Url="html/Overload_PixelMEDIA_PixelCore_Helpers_Logger_Fatal.htm" />
+  <HelpKINode Title="Logger.GetFullExceptionText method" Url="html/M_PixelMEDIA_PixelCore_Helpers_Logger_GetFullExceptionText.htm" />
+  <HelpKINode Title="Logger.GetMethodPath method" Url="html/Overload_PixelMEDIA_PixelCore_Helpers_Logger_GetMethodPath.htm" />
+  <HelpKINode Title="Logger.Info method" Url="html/Overload_PixelMEDIA_PixelCore_Helpers_Logger_Info.htm" />
+  <HelpKINode Title="Logger.Log method" Url="html/Overload_PixelMEDIA_PixelCore_Helpers_Logger_Log.htm" />
+  <HelpKINode Title="Logger.SetClientPropertyProvider method" Url="html/M_PixelMEDIA_PixelCore_Helpers_Logger_SetClientPropertyProvider.htm" />
+  <HelpKINode Title="Logger.Warn method" Url="html/Overload_PixelMEDIA_PixelCore_Helpers_Logger_Warn.htm" />
+  <HelpKINode Title="MailHelper class">
+    <HelpKINode Title="MailHelper Class" Url="html/T_PixelMEDIA_PixelCore_Helpers_MailHelper.htm" />
+    <HelpKINode Title="MailHelper Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_MailHelper.htm" />
+    <HelpKINode Title="about MailHelper class" Url="html/T_PixelMEDIA_PixelCore_Helpers_MailHelper.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_MailHelper.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PixelMEDIA_PixelCore_Helpers_MailHelper.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MailHelper.IsValidEmailAddress method" Url="html/M_PixelMEDIA_PixelCore_Helpers_MailHelper_IsValidEmailAddress.htm" />
+  <HelpKINode Title="MailHelper.SendHtmlEmail method" Url="html/M_PixelMEDIA_PixelCore_Helpers_MailHelper_SendHtmlEmail.htm" />
+  <HelpKINode Title="MailHelper.SendTextEmail method" Url="html/M_PixelMEDIA_PixelCore_Helpers_MailHelper_SendTextEmail.htm" />
+  <HelpKINode Title="MailHelper.TryLoadEmailAddress method" Url="html/M_PixelMEDIA_PixelCore_Helpers_MailHelper_TryLoadEmailAddress.htm" />
+  <HelpKINode Title="MakeArray(Of T) method" Url="html/M_PixelMEDIA_PixelCore_Helpers_CollectionHelper_MakeArray__1.htm" />
+  <HelpKINode Title="MakeArray&lt;T&gt; method" Url="html/M_PixelMEDIA_PixelCore_Helpers_CollectionHelper_MakeArray__1.htm" />
+  <HelpKINode Title="MakeJsonDict(Of T) method" Url="html/M_PixelMEDIA_PixelCore_Helpers_ConversionHelper_MakeJsonDict__1.htm" />
+  <HelpKINode Title="MakeJsonDict&lt;T&gt; method" Url="html/M_PixelMEDIA_PixelCore_Helpers_ConversionHelper_MakeJsonDict__1.htm" />
+  <HelpKINode Title="MakeList(Of T) method" Url="html/M_PixelMEDIA_PixelCore_Helpers_CollectionHelper_MakeList__1.htm" />
+  <HelpKINode Title="MakeList&lt;T&gt; method" Url="html/M_PixelMEDIA_PixelCore_Helpers_CollectionHelper_MakeList__1.htm" />
+  <HelpKINode Title="MakeSelectListItem method" Url="html/Overload_PixelMEDIA_PixelWeb_Components_PixelController_MakeSelectListItem.htm" />
+  <HelpKINode Title="Message property" Url="html/P_PixelMEDIA_PixelCore_Status_Message.htm" />
+  <HelpKINode Title="Messages property" Url="html/P_PixelMEDIA_PixelWeb_Components_PixelHelper_Messages.htm" />
+  <HelpKINode Title="MethodPath property" Url="html/P_PixelMEDIA_PixelWeb_ViewModels_ErrorModel_MethodPath.htm" />
+  <HelpKINode Title="MoveFile method" Url="html/M_PixelMEDIA_PixelCore_Helpers_SystemHelper_MoveFile.htm" />
+  <HelpKINode Title="MoveFileToDirectory method" Url="html/M_PixelMEDIA_PixelCore_Helpers_SystemHelper_MoveFileToDirectory.htm" />
+  <HelpKINode Title="NavigationLink method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHelper_NavigationLink.htm" />
+  <HelpKINode Title="OnException method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_OnException.htm" />
+  <HelpKINode Title="OrderBy(Of TSource, TKey) method" Url="html/M_PixelMEDIA_PixelCore_Helpers_CollectionHelper_OrderBy__2.htm" />
+  <HelpKINode Title="OrderBy&lt;TSource, TKey&gt; method" Url="html/M_PixelMEDIA_PixelCore_Helpers_CollectionHelper_OrderBy__2.htm" />
+  <HelpKINode Title="PagedSortedList(Of T) class">
+    <HelpKINode Title="PagedSortedList(T) Class" Url="html/T_PixelMEDIA_PixelCore_PagedSortedList_1.htm" />
+    <HelpKINode Title="PagedSortedList(T) Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_PagedSortedList_1.htm" />
+    <HelpKINode Title="about PagedSortedList(Of T) class" Url="html/T_PixelMEDIA_PixelCore_PagedSortedList_1.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_PagedSortedList_1.htm" />
+    <HelpKINode Title="constructor" Url="html/M_PixelMEDIA_PixelCore_PagedSortedList_1__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PixelMEDIA_PixelCore_PagedSortedList_1.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_PixelMEDIA_PixelCore_PagedSortedList_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PagedSortedList(Of T).CurrentPage property" Url="html/P_PixelMEDIA_PixelCore_PagedSortedList_1_CurrentPage.htm" />
+  <HelpKINode Title="PagedSortedList(Of T).Filters property" Url="html/P_PixelMEDIA_PixelCore_PagedSortedList_1_Filters.htm" />
+  <HelpKINode Title="PagedSortedList(Of T).HasNext property" Url="html/P_PixelMEDIA_PixelCore_PagedSortedList_1_HasNext.htm" />
+  <HelpKINode Title="PagedSortedList(Of T).HasPrevious property" Url="html/P_PixelMEDIA_PixelCore_PagedSortedList_1_HasPrevious.htm" />
+  <HelpKINode Title="PagedSortedList(Of T).ItemsPerPage property" Url="html/P_PixelMEDIA_PixelCore_PagedSortedList_1_ItemsPerPage.htm" />
+  <HelpKINode Title="PagedSortedList(Of T).PagedSortedList constructor" Url="html/M_PixelMEDIA_PixelCore_PagedSortedList_1__ctor.htm" />
+  <HelpKINode Title="PagedSortedList(Of T).SortProperties property" Url="html/P_PixelMEDIA_PixelCore_PagedSortedList_1_SortProperties.htm" />
+  <HelpKINode Title="PagedSortedList(Of T).TotalItems property" Url="html/P_PixelMEDIA_PixelCore_PagedSortedList_1_TotalItems.htm" />
+  <HelpKINode Title="PagedSortedList(Of T).TotalPages property" Url="html/P_PixelMEDIA_PixelCore_PagedSortedList_1_TotalPages.htm" />
+  <HelpKINode Title="PagedSortedList&lt;T&gt; class">
+    <HelpKINode Title="PagedSortedList(T) Class" Url="html/T_PixelMEDIA_PixelCore_PagedSortedList_1.htm" />
+    <HelpKINode Title="PagedSortedList(T) Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_PagedSortedList_1.htm" />
+    <HelpKINode Title="about PagedSortedList&lt;T&gt; class" Url="html/T_PixelMEDIA_PixelCore_PagedSortedList_1.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_PagedSortedList_1.htm" />
+    <HelpKINode Title="constructor" Url="html/M_PixelMEDIA_PixelCore_PagedSortedList_1__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PixelMEDIA_PixelCore_PagedSortedList_1.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_PixelMEDIA_PixelCore_PagedSortedList_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PagedSortedList&lt;T&gt;.CurrentPage property" Url="html/P_PixelMEDIA_PixelCore_PagedSortedList_1_CurrentPage.htm" />
+  <HelpKINode Title="PagedSortedList&lt;T&gt;.Filters property" Url="html/P_PixelMEDIA_PixelCore_PagedSortedList_1_Filters.htm" />
+  <HelpKINode Title="PagedSortedList&lt;T&gt;.HasNext property" Url="html/P_PixelMEDIA_PixelCore_PagedSortedList_1_HasNext.htm" />
+  <HelpKINode Title="PagedSortedList&lt;T&gt;.HasPrevious property" Url="html/P_PixelMEDIA_PixelCore_PagedSortedList_1_HasPrevious.htm" />
+  <HelpKINode Title="PagedSortedList&lt;T&gt;.ItemsPerPage property" Url="html/P_PixelMEDIA_PixelCore_PagedSortedList_1_ItemsPerPage.htm" />
+  <HelpKINode Title="PagedSortedList&lt;T&gt;.PagedSortedList constructor" Url="html/M_PixelMEDIA_PixelCore_PagedSortedList_1__ctor.htm" />
+  <HelpKINode Title="PagedSortedList&lt;T&gt;.SortProperties property" Url="html/P_PixelMEDIA_PixelCore_PagedSortedList_1_SortProperties.htm" />
+  <HelpKINode Title="PagedSortedList&lt;T&gt;.TotalItems property" Url="html/P_PixelMEDIA_PixelCore_PagedSortedList_1_TotalItems.htm" />
+  <HelpKINode Title="PagedSortedList&lt;T&gt;.TotalPages property" Url="html/P_PixelMEDIA_PixelCore_PagedSortedList_1_TotalPages.htm" />
+  <HelpKINode Title="PixelController class">
+    <HelpKINode Title="PixelController Class" Url="html/T_PixelMEDIA_PixelWeb_Components_PixelController.htm" />
+    <HelpKINode Title="PixelController Members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_Components_PixelController.htm" />
+    <HelpKINode Title="about PixelController class" Url="html/T_PixelMEDIA_PixelWeb_Components_PixelController.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_Components_PixelController.htm" />
+    <HelpKINode Title="constructor" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PixelMEDIA_PixelWeb_Components_PixelController.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_PixelMEDIA_PixelWeb_Components_PixelController.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PixelController.AddError method" Url="html/Overload_PixelMEDIA_PixelWeb_Components_PixelController_AddError.htm" />
+  <HelpKINode Title="PixelController.AddErrors method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_AddErrors.htm" />
+  <HelpKINode Title="PixelController.AddMessage method" Url="html/Overload_PixelMEDIA_PixelWeb_Components_PixelController_AddMessage.htm" />
+  <HelpKINode Title="PixelController.AddMessages method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_AddMessages.htm" />
+  <HelpKINode Title="PixelController.AddRedirectMessageOrError method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_AddRedirectMessageOrError.htm" />
+  <HelpKINode Title="PixelController.Csv(Of T) method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_Csv__1.htm" />
+  <HelpKINode Title="PixelController.Csv&lt;T&gt; method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_Csv__1.htm" />
+  <HelpKINode Title="PixelController.CurrentErrors property" Url="html/P_PixelMEDIA_PixelWeb_Components_PixelController_CurrentErrors.htm" />
+  <HelpKINode Title="PixelController.CurrentMessages property" Url="html/P_PixelMEDIA_PixelWeb_Components_PixelController_CurrentMessages.htm" />
+  <HelpKINode Title="PixelController.Error method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_Error.htm" />
+  <HelpKINode Title="PixelController.Initialize method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_Initialize.htm" />
+  <HelpKINode Title="PixelController.IsDebugMode property" Url="html/P_PixelMEDIA_PixelWeb_Components_PixelController_IsDebugMode.htm" />
+  <HelpKINode Title="PixelController.Jsonp method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_Jsonp.htm" />
+  <HelpKINode Title="PixelController.JsonpText method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_JsonpText.htm" />
+  <HelpKINode Title="PixelController.JsonStatus method" Url="html/Overload_PixelMEDIA_PixelWeb_Components_PixelController_JsonStatus.htm" />
+  <HelpKINode Title="PixelController.JsonText method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_JsonText.htm" />
+  <HelpKINode Title="PixelController.MakeSelectListItem method" Url="html/Overload_PixelMEDIA_PixelWeb_Components_PixelController_MakeSelectListItem.htm" />
+  <HelpKINode Title="PixelController.OnException method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_OnException.htm" />
+  <HelpKINode Title="PixelController.PixelController constructor" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController__ctor.htm" />
+  <HelpKINode Title="PixelController.RedirectErrors property" Url="html/P_PixelMEDIA_PixelWeb_Components_PixelController_RedirectErrors.htm" />
+  <HelpKINode Title="PixelController.RedirectFormat method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_RedirectFormat.htm" />
+  <HelpKINode Title="PixelController.RedirectMessages property" Url="html/P_PixelMEDIA_PixelWeb_Components_PixelController_RedirectMessages.htm" />
+  <HelpKINode Title="PixelController.RedirectToActionWithStatus method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_RedirectToActionWithStatus.htm" />
+  <HelpKINode Title="PixelController.RedirectWithStatus method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_RedirectWithStatus.htm" />
+  <HelpKINode Title="PixelController.RenderViewToString(Of T) method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_RenderViewToString__1.htm" />
+  <HelpKINode Title="PixelController.RenderViewToString&lt;T&gt; method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_RenderViewToString__1.htm" />
+  <HelpKINode Title="PixelDrawing namespace" Url="html/N_PixelDrawing.htm" />
+  <HelpKINode Title="PixelDrawing.ImageHelper class">
+    <HelpKINode Title="ImageHelper Class" Url="html/T_PixelDrawing_ImageHelper.htm" />
+    <HelpKINode Title="ImageHelper Members" Url="html/AllMembers_T_PixelDrawing_ImageHelper.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PixelExe.Providers namespace" Url="html/N_PixelExe_Providers.htm" />
+  <HelpKINode Title="PixelExe.Providers.ExeCacheProvider class">
+    <HelpKINode Title="ExeCacheProvider Class" Url="html/T_PixelExe_Providers_ExeCacheProvider.htm" />
+    <HelpKINode Title="ExeCacheProvider Members" Url="html/AllMembers_T_PixelExe_Providers_ExeCacheProvider.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PixelExe.Providers.ExeClientPropertyProvider class">
+    <HelpKINode Title="ExeClientPropertyProvider Class" Url="html/T_PixelExe_Providers_ExeClientPropertyProvider.htm" />
+    <HelpKINode Title="ExeClientPropertyProvider Members" Url="html/AllMembers_T_PixelExe_Providers_ExeClientPropertyProvider.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PixelHelper class">
+    <HelpKINode Title="PixelHelper Class" Url="html/T_PixelMEDIA_PixelWeb_Components_PixelHelper.htm" />
+    <HelpKINode Title="PixelHelper Members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_Components_PixelHelper.htm" />
+    <HelpKINode Title="about PixelHelper class" Url="html/T_PixelMEDIA_PixelWeb_Components_PixelHelper.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_Components_PixelHelper.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_PixelMEDIA_PixelWeb_Components_PixelHelper__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PixelMEDIA_PixelWeb_Components_PixelHelper.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_PixelMEDIA_PixelWeb_Components_PixelHelper.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PixelHelper.ActionName property" Url="html/P_PixelMEDIA_PixelWeb_Components_PixelHelper_ActionName.htm" />
+  <HelpKINode Title="PixelHelper.Ajax property" Url="html/P_PixelMEDIA_PixelWeb_Components_PixelHelper_Ajax.htm" />
+  <HelpKINode Title="PixelHelper.AreaName property" Url="html/P_PixelMEDIA_PixelWeb_Components_PixelHelper_AreaName.htm" />
+  <HelpKINode Title="PixelHelper.Attrs method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHelper_Attrs.htm" />
+  <HelpKINode Title="PixelHelper.AttrsIf method" Url="html/Overload_PixelMEDIA_PixelWeb_Components_PixelHelper_AttrsIf.htm" />
+  <HelpKINode Title="PixelHelper.BeginAjaxForm method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHelper_BeginAjaxForm.htm" />
+  <HelpKINode Title="PixelHelper.BeginFormWithClassName method" Url="html/Overload_PixelMEDIA_PixelWeb_Components_PixelHelper_BeginFormWithClassName.htm" />
+  <HelpKINode Title="PixelHelper.BeginFormWithClassNameAndHash method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHelper_BeginFormWithClassNameAndHash.htm" />
+  <HelpKINode Title="PixelHelper.CheckedAttrIf method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHelper_CheckedAttrIf.htm" />
+  <HelpKINode Title="PixelHelper.ClassIf method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHelper_ClassIf.htm" />
+  <HelpKINode Title="PixelHelper.ControllerName property" Url="html/P_PixelMEDIA_PixelWeb_Components_PixelHelper_ControllerName.htm" />
+  <HelpKINode Title="PixelHelper.DisabledAttrIf method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHelper_DisabledAttrIf.htm" />
+  <HelpKINode Title="PixelHelper.Ellipsize method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHelper_Ellipsize.htm" />
+  <HelpKINode Title="PixelHelper.Errors property" Url="html/P_PixelMEDIA_PixelWeb_Components_PixelHelper_Errors.htm" />
+  <HelpKINode Title="PixelHelper.GetAbsoluteUrl method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHelper_GetAbsoluteUrl.htm" />
+  <HelpKINode Title="PixelHelper.GetRouteValue method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHelper_GetRouteValue.htm" />
+  <HelpKINode Title="PixelHelper.GetValidationSummarySection method" Url="html/Overload_PixelMEDIA_PixelWeb_Components_PixelHelper_GetValidationSummarySection.htm" />
+  <HelpKINode Title="PixelHelper.HasErrors property" Url="html/P_PixelMEDIA_PixelWeb_Components_PixelHelper_HasErrors.htm" />
+  <HelpKINode Title="PixelHelper.HasMessages property" Url="html/P_PixelMEDIA_PixelWeb_Components_PixelHelper_HasMessages.htm" />
+  <HelpKINode Title="PixelHelper.Html property" Url="html/P_PixelMEDIA_PixelWeb_Components_PixelHelper_Html.htm" />
+  <HelpKINode Title="PixelHelper.IsCurrentPage method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHelper_IsCurrentPage.htm" />
+  <HelpKINode Title="PixelHelper.IsDebugMode property" Url="html/P_PixelMEDIA_PixelWeb_Components_PixelHelper_IsDebugMode.htm" />
+  <HelpKINode Title="PixelHelper.LabelFor method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHelper_LabelFor.htm" />
+  <HelpKINode Title="PixelHelper.Messages property" Url="html/P_PixelMEDIA_PixelWeb_Components_PixelHelper_Messages.htm" />
+  <HelpKINode Title="PixelHelper.NavigationLink method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHelper_NavigationLink.htm" />
+  <HelpKINode Title="PixelHelper.PixelHelper constructor" Url="html/Overload_PixelMEDIA_PixelWeb_Components_PixelHelper__ctor.htm" />
+  <HelpKINode Title="PixelHelper.RouteValues property" Url="html/P_PixelMEDIA_PixelWeb_Components_PixelHelper_RouteValues.htm" />
+  <HelpKINode Title="PixelHelper.SelectedAttrIf method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHelper_SelectedAttrIf.htm" />
+  <HelpKINode Title="PixelHelper.SortLink method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHelper_SortLink.htm" />
+  <HelpKINode Title="PixelHelper.StringIf method" Url="html/Overload_PixelMEDIA_PixelWeb_Components_PixelHelper_StringIf.htm" />
+  <HelpKINode Title="PixelHelper.ViewBag property" Url="html/P_PixelMEDIA_PixelWeb_Components_PixelHelper_ViewBag.htm" />
+  <HelpKINode Title="PixelHelper.ViewContext property" Url="html/P_PixelMEDIA_PixelWeb_Components_PixelHelper_ViewContext.htm" />
+  <HelpKINode Title="PixelHelper.ViewData property" Url="html/P_PixelMEDIA_PixelWeb_Components_PixelHelper_ViewData.htm" />
+  <HelpKINode Title="PixelHelper.ViewPage property" Url="html/P_PixelMEDIA_PixelWeb_Components_PixelHelper_ViewPage.htm" />
+  <HelpKINode Title="PixelHtmlExtensions class">
+    <HelpKINode Title="PixelHtmlExtensions Class" Url="html/T_PixelMEDIA_PixelWeb_Components_PixelHtmlExtensions.htm" />
+    <HelpKINode Title="PixelHtmlExtensions Members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_Components_PixelHtmlExtensions.htm" />
+    <HelpKINode Title="about PixelHtmlExtensions class" Url="html/T_PixelMEDIA_PixelWeb_Components_PixelHtmlExtensions.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_Components_PixelHtmlExtensions.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PixelMEDIA_PixelWeb_Components_PixelHtmlExtensions.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PixelHtmlExtensions.LabelFor method" Url="html/Overload_PixelMEDIA_PixelWeb_Components_PixelHtmlExtensions_LabelFor.htm" />
+  <HelpKINode Title="PixelMEDIA.PixelCore namespace" Url="html/N_PixelMEDIA_PixelCore.htm" />
+  <HelpKINode Title="PixelMEDIA.PixelCore.Attributes namespace" Url="html/N_PixelMEDIA_PixelCore_Attributes.htm" />
+  <HelpKINode Title="PixelMEDIA.PixelCore.Attributes.EmailAddressAttribute class">
+    <HelpKINode Title="EmailAddressAttribute Class" Url="html/T_PixelMEDIA_PixelCore_Attributes_EmailAddressAttribute.htm" />
+    <HelpKINode Title="EmailAddressAttribute Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Attributes_EmailAddressAttribute.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PixelMEDIA.PixelCore.Helpers namespace" Url="html/N_PixelMEDIA_PixelCore_Helpers.htm" />
+  <HelpKINode Title="PixelMEDIA.PixelCore.Helpers.CollectionHelper class">
+    <HelpKINode Title="CollectionHelper Class" Url="html/T_PixelMEDIA_PixelCore_Helpers_CollectionHelper.htm" />
+    <HelpKINode Title="CollectionHelper Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_CollectionHelper.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PixelMEDIA.PixelCore.Helpers.ConversionHelper class">
+    <HelpKINode Title="ConversionHelper Class" Url="html/T_PixelMEDIA_PixelCore_Helpers_ConversionHelper.htm" />
+    <HelpKINode Title="ConversionHelper Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_ConversionHelper.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PixelMEDIA.PixelCore.Helpers.DateHelper class">
+    <HelpKINode Title="DateHelper Class" Url="html/T_PixelMEDIA_PixelCore_Helpers_DateHelper.htm" />
+    <HelpKINode Title="DateHelper Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_DateHelper.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PixelMEDIA.PixelCore.Helpers.EntityHelper class">
+    <HelpKINode Title="EntityHelper Class" Url="html/T_PixelMEDIA_PixelCore_Helpers_EntityHelper.htm" />
+    <HelpKINode Title="EntityHelper Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_EntityHelper.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PixelMEDIA.PixelCore.Helpers.ExportHelper class">
+    <HelpKINode Title="ExportHelper Class" Url="html/T_PixelMEDIA_PixelCore_Helpers_ExportHelper.htm" />
+    <HelpKINode Title="ExportHelper Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_ExportHelper.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PixelMEDIA.PixelCore.Helpers.IClientPropertyProvider interface">
+    <HelpKINode Title="IClientPropertyProvider Interface" Url="html/T_PixelMEDIA_PixelCore_Helpers_IClientPropertyProvider.htm" />
+    <HelpKINode Title="IClientPropertyProvider Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_IClientPropertyProvider.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PixelMEDIA.PixelCore.Helpers.LogEntryType enumeration" Url="html/T_PixelMEDIA_PixelCore_Helpers_LogEntryType.htm" />
+  <HelpKINode Title="PixelMEDIA.PixelCore.Helpers.Logger class">
+    <HelpKINode Title="Logger Class" Url="html/T_PixelMEDIA_PixelCore_Helpers_Logger.htm" />
+    <HelpKINode Title="Logger Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_Logger.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PixelMEDIA.PixelCore.Helpers.MailHelper class">
+    <HelpKINode Title="MailHelper Class" Url="html/T_PixelMEDIA_PixelCore_Helpers_MailHelper.htm" />
+    <HelpKINode Title="MailHelper Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_MailHelper.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PixelMEDIA.PixelCore.Helpers.RandomHelper class">
+    <HelpKINode Title="RandomHelper Class" Url="html/T_PixelMEDIA_PixelCore_Helpers_RandomHelper.htm" />
+    <HelpKINode Title="RandomHelper Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_RandomHelper.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PixelMEDIA.PixelCore.Helpers.ReflectionHelper class">
+    <HelpKINode Title="ReflectionHelper Class" Url="html/T_PixelMEDIA_PixelCore_Helpers_ReflectionHelper.htm" />
+    <HelpKINode Title="ReflectionHelper Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_ReflectionHelper.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PixelMEDIA.PixelCore.Helpers.SecurityHelper class">
+    <HelpKINode Title="SecurityHelper Class" Url="html/T_PixelMEDIA_PixelCore_Helpers_SecurityHelper.htm" />
+    <HelpKINode Title="SecurityHelper Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_SecurityHelper.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PixelMEDIA.PixelCore.Helpers.SettingsHelper class">
+    <HelpKINode Title="SettingsHelper Class" Url="html/T_PixelMEDIA_PixelCore_Helpers_SettingsHelper.htm" />
+    <HelpKINode Title="SettingsHelper Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_SettingsHelper.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PixelMEDIA.PixelCore.Helpers.StringHelper class">
+    <HelpKINode Title="StringHelper Class" Url="html/T_PixelMEDIA_PixelCore_Helpers_StringHelper.htm" />
+    <HelpKINode Title="StringHelper Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_StringHelper.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PixelMEDIA.PixelCore.Helpers.SystemHelper class">
+    <HelpKINode Title="SystemHelper Class" Url="html/T_PixelMEDIA_PixelCore_Helpers_SystemHelper.htm" />
+    <HelpKINode Title="SystemHelper Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_SystemHelper.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PixelMEDIA.PixelCore.Helpers.XmlHelper class">
+    <HelpKINode Title="XmlHelper Class" Url="html/T_PixelMEDIA_PixelCore_Helpers_XmlHelper.htm" />
+    <HelpKINode Title="XmlHelper Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_XmlHelper.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PixelMEDIA.PixelCore.Interfaces namespace" Url="html/N_PixelMEDIA_PixelCore_Interfaces.htm" />
+  <HelpKINode Title="PixelMEDIA.PixelCore.Interfaces.ICacheProvider interface">
+    <HelpKINode Title="ICacheProvider Interface" Url="html/T_PixelMEDIA_PixelCore_Interfaces_ICacheProvider.htm" />
+    <HelpKINode Title="ICacheProvider Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Interfaces_ICacheProvider.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PixelMEDIA.PixelCore.Interfaces.IEmailTemplateProvider(Of T) interface">
+    <HelpKINode Title="IEmailTemplateProvider(T) Interface" Url="html/T_PixelMEDIA_PixelCore_Interfaces_IEmailTemplateProvider_1.htm" />
+    <HelpKINode Title="IEmailTemplateProvider(T) Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Interfaces_IEmailTemplateProvider_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PixelMEDIA.PixelCore.Interfaces.IEmailTemplateProvider&lt;T&gt; interface">
+    <HelpKINode Title="IEmailTemplateProvider(T) Interface" Url="html/T_PixelMEDIA_PixelCore_Interfaces_IEmailTemplateProvider_1.htm" />
+    <HelpKINode Title="IEmailTemplateProvider(T) Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Interfaces_IEmailTemplateProvider_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PixelMEDIA.PixelCore.PagedSortedList(Of T) class">
+    <HelpKINode Title="PagedSortedList(T) Class" Url="html/T_PixelMEDIA_PixelCore_PagedSortedList_1.htm" />
+    <HelpKINode Title="PagedSortedList(T) Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_PagedSortedList_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PixelMEDIA.PixelCore.PagedSortedList&lt;T&gt; class">
+    <HelpKINode Title="PagedSortedList(T) Class" Url="html/T_PixelMEDIA_PixelCore_PagedSortedList_1.htm" />
+    <HelpKINode Title="PagedSortedList(T) Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_PagedSortedList_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PixelMEDIA.PixelCore.SafeDict class">
+    <HelpKINode Title="SafeDict Class" Url="html/T_PixelMEDIA_PixelCore_SafeDict.htm" />
+    <HelpKINode Title="SafeDict Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_SafeDict.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PixelMEDIA.PixelCore.SortProperties class">
+    <HelpKINode Title="SortProperties Class" Url="html/T_PixelMEDIA_PixelCore_SortProperties.htm" />
+    <HelpKINode Title="SortProperties Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_SortProperties.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PixelMEDIA.PixelCore.Status class">
+    <HelpKINode Title="Status Class" Url="html/T_PixelMEDIA_PixelCore_Status.htm" />
+    <HelpKINode Title="Status Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Status.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PixelMEDIA.PixelCore.Status(Of T) class">
+    <HelpKINode Title="Status(T) Class" Url="html/T_PixelMEDIA_PixelCore_Status_1.htm" />
+    <HelpKINode Title="Status(T) Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Status_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PixelMEDIA.PixelCore.Status&lt;T&gt; class">
+    <HelpKINode Title="Status(T) Class" Url="html/T_PixelMEDIA_PixelCore_Status_1.htm" />
+    <HelpKINode Title="Status(T) Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Status_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PixelMEDIA.PixelWeb.Attributes namespace" Url="html/N_PixelMEDIA_PixelWeb_Attributes.htm" />
+  <HelpKINode Title="PixelMEDIA.PixelWeb.Attributes.AntiForgeryExemptAttribute class">
+    <HelpKINode Title="AntiForgeryExemptAttribute Class" Url="html/T_PixelMEDIA_PixelWeb_Attributes_AntiForgeryExemptAttribute.htm" />
+    <HelpKINode Title="AntiForgeryExemptAttribute Members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_Attributes_AntiForgeryExemptAttribute.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PixelMEDIA.PixelWeb.Components namespace" Url="html/N_PixelMEDIA_PixelWeb_Components.htm" />
+  <HelpKINode Title="PixelMEDIA.PixelWeb.Components.PixelController class">
+    <HelpKINode Title="PixelController Class" Url="html/T_PixelMEDIA_PixelWeb_Components_PixelController.htm" />
+    <HelpKINode Title="PixelController Members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_Components_PixelController.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PixelMEDIA.PixelWeb.Components.PixelHelper class">
+    <HelpKINode Title="PixelHelper Class" Url="html/T_PixelMEDIA_PixelWeb_Components_PixelHelper.htm" />
+    <HelpKINode Title="PixelHelper Members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_Components_PixelHelper.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PixelMEDIA.PixelWeb.Components.PixelHtmlExtensions class">
+    <HelpKINode Title="PixelHtmlExtensions Class" Url="html/T_PixelMEDIA_PixelWeb_Components_PixelHtmlExtensions.htm" />
+    <HelpKINode Title="PixelHtmlExtensions Members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_Components_PixelHtmlExtensions.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PixelMEDIA.PixelWeb.Components.PixelWebViewPage class">
+    <HelpKINode Title="PixelWebViewPage Class" Url="html/T_PixelMEDIA_PixelWeb_Components_PixelWebViewPage.htm" />
+    <HelpKINode Title="PixelWebViewPage Members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_Components_PixelWebViewPage.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PixelMEDIA.PixelWeb.Components.PixelWebViewPage(Of TModel) class">
+    <HelpKINode Title="PixelWebViewPage(TModel) Class" Url="html/T_PixelMEDIA_PixelWeb_Components_PixelWebViewPage_1.htm" />
+    <HelpKINode Title="PixelWebViewPage(TModel) Members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_Components_PixelWebViewPage_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PixelMEDIA.PixelWeb.Components.PixelWebViewPage&lt;TModel&gt; class">
+    <HelpKINode Title="PixelWebViewPage(TModel) Class" Url="html/T_PixelMEDIA_PixelWeb_Components_PixelWebViewPage_1.htm" />
+    <HelpKINode Title="PixelWebViewPage(TModel) Members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_Components_PixelWebViewPage_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PixelMEDIA.PixelWeb.Helpers namespace" Url="html/N_PixelMEDIA_PixelWeb_Helpers.htm" />
+  <HelpKINode Title="PixelMEDIA.PixelWeb.Helpers.HttpHelper class">
+    <HelpKINode Title="HttpHelper Class" Url="html/T_PixelMEDIA_PixelWeb_Helpers_HttpHelper.htm" />
+    <HelpKINode Title="HttpHelper Members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_Helpers_HttpHelper.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PixelMEDIA.PixelWeb.Providers namespace" Url="html/N_PixelMEDIA_PixelWeb_Providers.htm" />
+  <HelpKINode Title="PixelMEDIA.PixelWeb.Providers.AntiForgeryTokenFilterProvider class">
+    <HelpKINode Title="AntiForgeryTokenFilterProvider Class" Url="html/T_PixelMEDIA_PixelWeb_Providers_AntiForgeryTokenFilterProvider.htm" />
+    <HelpKINode Title="AntiForgeryTokenFilterProvider Members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_Providers_AntiForgeryTokenFilterProvider.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PixelMEDIA.PixelWeb.Providers.EmailTemplateProvider(Of T) class">
+    <HelpKINode Title="EmailTemplateProvider(T) Class" Url="html/T_PixelMEDIA_PixelWeb_Providers_EmailTemplateProvider_1.htm" />
+    <HelpKINode Title="EmailTemplateProvider(T) Members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_Providers_EmailTemplateProvider_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PixelMEDIA.PixelWeb.Providers.EmailTemplateProvider&lt;T&gt; class">
+    <HelpKINode Title="EmailTemplateProvider(T) Class" Url="html/T_PixelMEDIA_PixelWeb_Providers_EmailTemplateProvider_1.htm" />
+    <HelpKINode Title="EmailTemplateProvider(T) Members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_Providers_EmailTemplateProvider_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PixelMEDIA.PixelWeb.Providers.WebCacheProvider class">
+    <HelpKINode Title="WebCacheProvider Class" Url="html/T_PixelMEDIA_PixelWeb_Providers_WebCacheProvider.htm" />
+    <HelpKINode Title="WebCacheProvider Members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_Providers_WebCacheProvider.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PixelMEDIA.PixelWeb.Providers.WebClientPropertyProvider class">
+    <HelpKINode Title="WebClientPropertyProvider Class" Url="html/T_PixelMEDIA_PixelWeb_Providers_WebClientPropertyProvider.htm" />
+    <HelpKINode Title="WebClientPropertyProvider Members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_Providers_WebClientPropertyProvider.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PixelMEDIA.PixelWeb.ViewModels namespace" Url="html/N_PixelMEDIA_PixelWeb_ViewModels.htm" />
+  <HelpKINode Title="PixelMEDIA.PixelWeb.ViewModels.ErrorModel class">
+    <HelpKINode Title="ErrorModel Class" Url="html/T_PixelMEDIA_PixelWeb_ViewModels_ErrorModel.htm" />
+    <HelpKINode Title="ErrorModel Members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_ViewModels_ErrorModel.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PixelWebViewPage class">
+    <HelpKINode Title="PixelWebViewPage Class" Url="html/T_PixelMEDIA_PixelWeb_Components_PixelWebViewPage.htm" />
+    <HelpKINode Title="PixelWebViewPage Members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_Components_PixelWebViewPage.htm" />
+    <HelpKINode Title="about PixelWebViewPage class" Url="html/T_PixelMEDIA_PixelWeb_Components_PixelWebViewPage.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_Components_PixelWebViewPage.htm" />
+    <HelpKINode Title="constructor" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelWebViewPage__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PixelMEDIA_PixelWeb_Components_PixelWebViewPage.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_PixelMEDIA_PixelWeb_Components_PixelWebViewPage.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PixelWebViewPage(Of TModel) class">
+    <HelpKINode Title="PixelWebViewPage(TModel) Class" Url="html/T_PixelMEDIA_PixelWeb_Components_PixelWebViewPage_1.htm" />
+    <HelpKINode Title="PixelWebViewPage(TModel) Members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_Components_PixelWebViewPage_1.htm" />
+    <HelpKINode Title="about PixelWebViewPage(Of TModel) class" Url="html/T_PixelMEDIA_PixelWeb_Components_PixelWebViewPage_1.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_Components_PixelWebViewPage_1.htm" />
+    <HelpKINode Title="constructor" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelWebViewPage_1__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PixelMEDIA_PixelWeb_Components_PixelWebViewPage_1.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_PixelMEDIA_PixelWeb_Components_PixelWebViewPage_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PixelWebViewPage(Of TModel).InitHelpers method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelWebViewPage_1_InitHelpers.htm" />
+  <HelpKINode Title="PixelWebViewPage(Of TModel).PixelWebViewPage constructor" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelWebViewPage_1__ctor.htm" />
+  <HelpKINode Title="PixelWebViewPage.InitHelpers method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelWebViewPage_InitHelpers.htm" />
+  <HelpKINode Title="PixelWebViewPage.PixelWebViewPage constructor" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelWebViewPage__ctor.htm" />
+  <HelpKINode Title="PixelWebViewPage&lt;TModel&gt; class">
+    <HelpKINode Title="PixelWebViewPage(TModel) Class" Url="html/T_PixelMEDIA_PixelWeb_Components_PixelWebViewPage_1.htm" />
+    <HelpKINode Title="PixelWebViewPage(TModel) Members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_Components_PixelWebViewPage_1.htm" />
+    <HelpKINode Title="about PixelWebViewPage&lt;TModel&gt; class" Url="html/T_PixelMEDIA_PixelWeb_Components_PixelWebViewPage_1.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_Components_PixelWebViewPage_1.htm" />
+    <HelpKINode Title="constructor" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelWebViewPage_1__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PixelMEDIA_PixelWeb_Components_PixelWebViewPage_1.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_PixelMEDIA_PixelWeb_Components_PixelWebViewPage_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PixelWebViewPage&lt;TModel&gt;.InitHelpers method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelWebViewPage_1_InitHelpers.htm" />
+  <HelpKINode Title="PixelWebViewPage&lt;TModel&gt;.PixelWebViewPage constructor" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelWebViewPage_1__ctor.htm" />
+  <HelpKINode Title="RandomHelper class">
+    <HelpKINode Title="RandomHelper Class" Url="html/T_PixelMEDIA_PixelCore_Helpers_RandomHelper.htm" />
+    <HelpKINode Title="RandomHelper Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_RandomHelper.htm" />
+    <HelpKINode Title="about RandomHelper class" Url="html/T_PixelMEDIA_PixelCore_Helpers_RandomHelper.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_RandomHelper.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PixelMEDIA_PixelCore_Helpers_RandomHelper.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RandomHelper.GetRandomAlphanumericString method" Url="html/M_PixelMEDIA_PixelCore_Helpers_RandomHelper_GetRandomAlphanumericString.htm" />
+  <HelpKINode Title="Redirect method" Url="html/Overload_PixelMEDIA_PixelWeb_Helpers_HttpHelper_Redirect.htm" />
+  <HelpKINode Title="RedirectErrors property" Url="html/P_PixelMEDIA_PixelWeb_Components_PixelController_RedirectErrors.htm" />
+  <HelpKINode Title="RedirectFormat method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_RedirectFormat.htm" />
+  <HelpKINode Title="RedirectMessages property" Url="html/P_PixelMEDIA_PixelWeb_Components_PixelController_RedirectMessages.htm" />
+  <HelpKINode Title="RedirectToActionWithStatus method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_RedirectToActionWithStatus.htm" />
+  <HelpKINode Title="RedirectToLogin method" Url="html/Overload_PixelMEDIA_PixelWeb_Helpers_HttpHelper_RedirectToLogin.htm" />
+  <HelpKINode Title="RedirectWithStatus method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_RedirectWithStatus.htm" />
+  <HelpKINode Title="ReflectionHelper class">
+    <HelpKINode Title="ReflectionHelper Class" Url="html/T_PixelMEDIA_PixelCore_Helpers_ReflectionHelper.htm" />
+    <HelpKINode Title="ReflectionHelper Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_ReflectionHelper.htm" />
+    <HelpKINode Title="about ReflectionHelper class" Url="html/T_PixelMEDIA_PixelCore_Helpers_ReflectionHelper.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_ReflectionHelper.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PixelMEDIA_PixelCore_Helpers_ReflectionHelper.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ReflectionHelper.CopyProperties method" Url="html/M_PixelMEDIA_PixelCore_Helpers_ReflectionHelper_CopyProperties.htm" />
+  <HelpKINode Title="ReflectionHelper.GetGetableProperties method" Url="html/Overload_PixelMEDIA_PixelCore_Helpers_ReflectionHelper_GetGetableProperties.htm" />
+  <HelpKINode Title="ReflectionHelper.GetProperty method" Url="html/M_PixelMEDIA_PixelCore_Helpers_ReflectionHelper_GetProperty.htm" />
+  <HelpKINode Title="ReflectionHelper.GetSpecifiedPropertiesInFieldNameOrder method" Url="html/M_PixelMEDIA_PixelCore_Helpers_ReflectionHelper_GetSpecifiedPropertiesInFieldNameOrder.htm" />
+  <HelpKINode Title="ReflectionHelper.HasAttribute method" Url="html/Overload_PixelMEDIA_PixelCore_Helpers_ReflectionHelper_HasAttribute.htm" />
+  <HelpKINode Title="ReflectionHelper.HasPublicSetter method" Url="html/M_PixelMEDIA_PixelCore_Helpers_ReflectionHelper_HasPublicSetter.htm" />
+  <HelpKINode Title="ReflectionHelper.SetPropertyValue method" Url="html/M_PixelMEDIA_PixelCore_Helpers_ReflectionHelper_SetPropertyValue.htm" />
+  <HelpKINode Title="ReflectionHelper.ShallowCompare(Of T) method" Url="html/M_PixelMEDIA_PixelCore_Helpers_ReflectionHelper_ShallowCompare__1.htm" />
+  <HelpKINode Title="ReflectionHelper.ShallowCompare&lt;T&gt; method" Url="html/M_PixelMEDIA_PixelCore_Helpers_ReflectionHelper_ShallowCompare__1.htm" />
+  <HelpKINode Title="ReflectionHelper.Transmute(Of TTo) method" Url="html/M_PixelMEDIA_PixelCore_Helpers_ReflectionHelper_Transmute__1.htm" />
+  <HelpKINode Title="ReflectionHelper.Transmute&lt;TTo&gt; method" Url="html/M_PixelMEDIA_PixelCore_Helpers_ReflectionHelper_Transmute__1.htm" />
+  <HelpKINode Title="Render method">
+    <HelpKINode Title="EmailTemplateProvider(T).Render Method " Url="html/M_PixelMEDIA_PixelWeb_Providers_EmailTemplateProvider_1_Render.htm" />
+    <HelpKINode Title="IEmailTemplateProvider(T).Render Method " Url="html/M_PixelMEDIA_PixelCore_Interfaces_IEmailTemplateProvider_1_Render.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RenderViewToString(Of T) method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_RenderViewToString__1.htm" />
+  <HelpKINode Title="RenderViewToString&lt;T&gt; method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelController_RenderViewToString__1.htm" />
+  <HelpKINode Title="ReplaceFile method" Url="html/M_PixelMEDIA_PixelCore_Helpers_SystemHelper_ReplaceFile.htm" />
+  <HelpKINode Title="RotateImage90 method" Url="html/M_PixelDrawing_ImageHelper_RotateImage90.htm" />
+  <HelpKINode Title="RotateImageFileOnDisk method" Url="html/M_PixelDrawing_ImageHelper_RotateImageFileOnDisk.htm" />
+  <HelpKINode Title="RouteValues property" Url="html/P_PixelMEDIA_PixelWeb_Components_PixelHelper_RouteValues.htm" />
+  <HelpKINode Title="SafeConvertDate method" Url="html/M_PixelMEDIA_PixelCore_Helpers_ConversionHelper_SafeConvertDate.htm" />
+  <HelpKINode Title="SafeConvertDecimal method" Url="html/Overload_PixelMEDIA_PixelCore_Helpers_ConversionHelper_SafeConvertDecimal.htm" />
+  <HelpKINode Title="SafeConvertGuid method" Url="html/Overload_PixelMEDIA_PixelCore_Helpers_ConversionHelper_SafeConvertGuid.htm" />
+  <HelpKINode Title="SafeConvertGuidArray method" Url="html/M_PixelMEDIA_PixelCore_Helpers_ConversionHelper_SafeConvertGuidArray.htm" />
+  <HelpKINode Title="SafeConvertInt method" Url="html/Overload_PixelMEDIA_PixelCore_Helpers_ConversionHelper_SafeConvertInt.htm" />
+  <HelpKINode Title="SafeConvertString method" Url="html/Overload_PixelMEDIA_PixelCore_Helpers_ConversionHelper_SafeConvertString.htm" />
+  <HelpKINode Title="SafeDict class">
+    <HelpKINode Title="SafeDict Class" Url="html/T_PixelMEDIA_PixelCore_SafeDict.htm" />
+    <HelpKINode Title="SafeDict Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_SafeDict.htm" />
+    <HelpKINode Title="about SafeDict class" Url="html/T_PixelMEDIA_PixelCore_SafeDict.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_SafeDict.htm" />
+    <HelpKINode Title="constructor" Url="html/M_PixelMEDIA_PixelCore_SafeDict__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PixelMEDIA_PixelCore_SafeDict.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SafeDict.FromDict(Of T) method" Url="html/M_PixelMEDIA_PixelCore_SafeDict_FromDict__1.htm" />
+  <HelpKINode Title="SafeDict.FromDict&lt;T&gt; method" Url="html/M_PixelMEDIA_PixelCore_SafeDict_FromDict__1.htm" />
+  <HelpKINode Title="SafeDict.GetBool method" Url="html/Overload_PixelMEDIA_PixelCore_SafeDict_GetBool.htm" />
+  <HelpKINode Title="SafeDict.GetDict method" Url="html/M_PixelMEDIA_PixelCore_SafeDict_GetDict.htm" />
+  <HelpKINode Title="SafeDict.GetInt method" Url="html/Overload_PixelMEDIA_PixelCore_SafeDict_GetInt.htm" />
+  <HelpKINode Title="SafeDict.GetLong method" Url="html/Overload_PixelMEDIA_PixelCore_SafeDict_GetLong.htm" />
+  <HelpKINode Title="SafeDict.GetString method" Url="html/Overload_PixelMEDIA_PixelCore_SafeDict_GetString.htm" />
+  <HelpKINode Title="SafeDict.GetValue method" Url="html/Overload_PixelMEDIA_PixelCore_SafeDict_GetValue.htm" />
+  <HelpKINode Title="SafeDict.SafeDict constructor" Url="html/M_PixelMEDIA_PixelCore_SafeDict__ctor.htm" />
+  <HelpKINode Title="SafeTrim method" Url="html/M_PixelMEDIA_PixelCore_Helpers_StringHelper_SafeTrim.htm" />
+  <HelpKINode Title="SaveFile method" Url="html/M_PixelMEDIA_PixelCore_Helpers_SystemHelper_SaveFile.htm" />
+  <HelpKINode Title="SecurityHelper class">
+    <HelpKINode Title="SecurityHelper Class" Url="html/T_PixelMEDIA_PixelCore_Helpers_SecurityHelper.htm" />
+    <HelpKINode Title="SecurityHelper Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_SecurityHelper.htm" />
+    <HelpKINode Title="about SecurityHelper class" Url="html/T_PixelMEDIA_PixelCore_Helpers_SecurityHelper.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_SecurityHelper.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PixelMEDIA_PixelCore_Helpers_SecurityHelper.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SecurityHelper.HashPassword method" Url="html/M_PixelMEDIA_PixelCore_Helpers_SecurityHelper_HashPassword.htm" />
+  <HelpKINode Title="SecurityHelper.HashStrings method" Url="html/M_PixelMEDIA_PixelCore_Helpers_SecurityHelper_HashStrings.htm" />
+  <HelpKINode Title="SelectedAttrIf method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHelper_SelectedAttrIf.htm" />
+  <HelpKINode Title="SendHtmlEmail method" Url="html/M_PixelMEDIA_PixelCore_Helpers_MailHelper_SendHtmlEmail.htm" />
+  <HelpKINode Title="SendTextEmail method" Url="html/M_PixelMEDIA_PixelCore_Helpers_MailHelper_SendTextEmail.htm" />
+  <HelpKINode Title="SerializeList(Of T) method" Url="html/M_PixelMEDIA_PixelCore_Helpers_XmlHelper_SerializeList__1.htm" />
+  <HelpKINode Title="SerializeList&lt;T&gt; method" Url="html/M_PixelMEDIA_PixelCore_Helpers_XmlHelper_SerializeList__1.htm" />
+  <HelpKINode Title="SerializeObject(Of T) method" Url="html/M_PixelMEDIA_PixelCore_Helpers_XmlHelper_SerializeObject__1.htm" />
+  <HelpKINode Title="SerializeObject&lt;T&gt; method" Url="html/M_PixelMEDIA_PixelCore_Helpers_XmlHelper_SerializeObject__1.htm" />
+  <HelpKINode Title="ServerDomain property" Url="html/P_PixelMEDIA_PixelWeb_Helpers_HttpHelper_ServerDomain.htm" />
+  <HelpKINode Title="SetApplicationCacheItem(Of T) method">
+    <HelpKINode Title="ExeCacheProvider.SetApplicationCacheItem(T) Method " Url="html/M_PixelExe_Providers_ExeCacheProvider_SetApplicationCacheItem__1.htm" />
+    <HelpKINode Title="ICacheProvider.SetApplicationCacheItem(T) Method " Url="html/M_PixelMEDIA_PixelCore_Interfaces_ICacheProvider_SetApplicationCacheItem__1.htm" />
+    <HelpKINode Title="WebCacheProvider.SetApplicationCacheItem(T) Method " Url="html/M_PixelMEDIA_PixelWeb_Providers_WebCacheProvider_SetApplicationCacheItem__1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SetApplicationCacheItem&lt;T&gt; method">
+    <HelpKINode Title="ExeCacheProvider.SetApplicationCacheItem(T) Method " Url="html/M_PixelExe_Providers_ExeCacheProvider_SetApplicationCacheItem__1.htm" />
+    <HelpKINode Title="ICacheProvider.SetApplicationCacheItem(T) Method " Url="html/M_PixelMEDIA_PixelCore_Interfaces_ICacheProvider_SetApplicationCacheItem__1.htm" />
+    <HelpKINode Title="WebCacheProvider.SetApplicationCacheItem(T) Method " Url="html/M_PixelMEDIA_PixelWeb_Providers_WebCacheProvider_SetApplicationCacheItem__1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SetClientPropertyProvider method" Url="html/M_PixelMEDIA_PixelCore_Helpers_Logger_SetClientPropertyProvider.htm" />
+  <HelpKINode Title="SetCookie method" Url="html/Overload_PixelMEDIA_PixelWeb_Helpers_HttpHelper_SetCookie.htm" />
+  <HelpKINode Title="SetModified(Of T) method" Url="html/M_PixelMEDIA_PixelCore_Helpers_EntityHelper_SetModified__1.htm" />
+  <HelpKINode Title="SetModified&lt;T&gt; method" Url="html/M_PixelMEDIA_PixelCore_Helpers_EntityHelper_SetModified__1.htm" />
+  <HelpKINode Title="SetPropertyValue method" Url="html/M_PixelMEDIA_PixelCore_Helpers_ReflectionHelper_SetPropertyValue.htm" />
+  <HelpKINode Title="SetSessionCacheItem(Of T) method">
+    <HelpKINode Title="ExeCacheProvider.SetSessionCacheItem(T) Method " Url="html/M_PixelExe_Providers_ExeCacheProvider_SetSessionCacheItem__1.htm" />
+    <HelpKINode Title="ICacheProvider.SetSessionCacheItem(T) Method " Url="html/M_PixelMEDIA_PixelCore_Interfaces_ICacheProvider_SetSessionCacheItem__1.htm" />
+    <HelpKINode Title="WebCacheProvider.SetSessionCacheItem(T) Method " Url="html/M_PixelMEDIA_PixelWeb_Providers_WebCacheProvider_SetSessionCacheItem__1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SetSessionCacheItem&lt;T&gt; method">
+    <HelpKINode Title="ExeCacheProvider.SetSessionCacheItem(T) Method " Url="html/M_PixelExe_Providers_ExeCacheProvider_SetSessionCacheItem__1.htm" />
+    <HelpKINode Title="ICacheProvider.SetSessionCacheItem(T) Method " Url="html/M_PixelMEDIA_PixelCore_Interfaces_ICacheProvider_SetSessionCacheItem__1.htm" />
+    <HelpKINode Title="WebCacheProvider.SetSessionCacheItem(T) Method " Url="html/M_PixelMEDIA_PixelWeb_Providers_WebCacheProvider_SetSessionCacheItem__1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SetState(Of T) method" Url="html/M_PixelMEDIA_PixelCore_Helpers_EntityHelper_SetState__1.htm" />
+  <HelpKINode Title="SetState&lt;T&gt; method" Url="html/M_PixelMEDIA_PixelCore_Helpers_EntityHelper_SetState__1.htm" />
+  <HelpKINode Title="SettingsHelper class">
+    <HelpKINode Title="SettingsHelper Class" Url="html/T_PixelMEDIA_PixelCore_Helpers_SettingsHelper.htm" />
+    <HelpKINode Title="SettingsHelper Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_SettingsHelper.htm" />
+    <HelpKINode Title="about SettingsHelper class" Url="html/T_PixelMEDIA_PixelCore_Helpers_SettingsHelper.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_SettingsHelper.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PixelMEDIA_PixelCore_Helpers_SettingsHelper.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SettingsHelper.Get method" Url="html/Overload_PixelMEDIA_PixelCore_Helpers_SettingsHelper_Get.htm" />
+  <HelpKINode Title="SettingsHelper.GetInt method" Url="html/Overload_PixelMEDIA_PixelCore_Helpers_SettingsHelper_GetInt.htm" />
+  <HelpKINode Title="ShallowCompare(Of T) method" Url="html/M_PixelMEDIA_PixelCore_Helpers_ReflectionHelper_ShallowCompare__1.htm" />
+  <HelpKINode Title="ShallowCompare&lt;T&gt; method" Url="html/M_PixelMEDIA_PixelCore_Helpers_ReflectionHelper_ShallowCompare__1.htm" />
+  <HelpKINode Title="SortField property" Url="html/P_PixelMEDIA_PixelCore_SortProperties_SortField.htm" />
+  <HelpKINode Title="SortLink method" Url="html/M_PixelMEDIA_PixelWeb_Components_PixelHelper_SortLink.htm" />
+  <HelpKINode Title="SortProperties class">
+    <HelpKINode Title="SortProperties Class" Url="html/T_PixelMEDIA_PixelCore_SortProperties.htm" />
+    <HelpKINode Title="SortProperties Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_SortProperties.htm" />
+    <HelpKINode Title="about SortProperties class" Url="html/T_PixelMEDIA_PixelCore_SortProperties.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_SortProperties.htm" />
+    <HelpKINode Title="constructor" Url="html/M_PixelMEDIA_PixelCore_SortProperties__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PixelMEDIA_PixelCore_SortProperties.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_PixelMEDIA_PixelCore_SortProperties.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SortProperties property" Url="html/P_PixelMEDIA_PixelCore_PagedSortedList_1_SortProperties.htm" />
+  <HelpKINode Title="SortProperties.Direction property" Url="html/P_PixelMEDIA_PixelCore_SortProperties_Direction.htm" />
+  <HelpKINode Title="SortProperties.SortField property" Url="html/P_PixelMEDIA_PixelCore_SortProperties_SortField.htm" />
+  <HelpKINode Title="SortProperties.SortProperties constructor" Url="html/M_PixelMEDIA_PixelCore_SortProperties__ctor.htm" />
+  <HelpKINode Title="StartOfMonth method" Url="html/Overload_PixelMEDIA_PixelCore_Helpers_DateHelper_StartOfMonth.htm" />
+  <HelpKINode Title="Status class">
+    <HelpKINode Title="Status Class" Url="html/T_PixelMEDIA_PixelCore_Status.htm" />
+    <HelpKINode Title="Status Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Status.htm" />
+    <HelpKINode Title="about Status class" Url="html/T_PixelMEDIA_PixelCore_Status.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Status.htm" />
+    <HelpKINode Title="constructor" Url="html/M_PixelMEDIA_PixelCore_Status__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PixelMEDIA_PixelCore_Status.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_PixelMEDIA_PixelCore_Status.htm" />
+    <HelpKINode Title="type conversions" Url="html/Operators_T_PixelMEDIA_PixelCore_Status.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Status to Boolean conversion" Url="html/M_PixelMEDIA_PixelCore_Status_op_Implicit.htm" />
+  <HelpKINode Title="Status(Of T) class">
+    <HelpKINode Title="Status(T) Class" Url="html/T_PixelMEDIA_PixelCore_Status_1.htm" />
+    <HelpKINode Title="Status(T) Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Status_1.htm" />
+    <HelpKINode Title="about Status(Of T) class" Url="html/T_PixelMEDIA_PixelCore_Status_1.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Status_1.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_PixelMEDIA_PixelCore_Status_1__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PixelMEDIA_PixelCore_Status_1.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_PixelMEDIA_PixelCore_Status_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Status(Of T).Data property" Url="html/P_PixelMEDIA_PixelCore_Status_1_Data.htm" />
+  <HelpKINode Title="Status(Of T).Status constructor" Url="html/Overload_PixelMEDIA_PixelCore_Status_1__ctor.htm" />
+  <HelpKINode Title="Status.Fail method" Url="html/Overload_PixelMEDIA_PixelCore_Status_Fail.htm" />
+  <HelpKINode Title="Status.FailFormat method" Url="html/M_PixelMEDIA_PixelCore_Status_FailFormat.htm" />
+  <HelpKINode Title="Status.Message property" Url="html/P_PixelMEDIA_PixelCore_Status_Message.htm" />
+  <HelpKINode Title="Status.Status constructor" Url="html/M_PixelMEDIA_PixelCore_Status__ctor.htm" />
+  <HelpKINode Title="Status.Succeed method" Url="html/Overload_PixelMEDIA_PixelCore_Status_Succeed.htm" />
+  <HelpKINode Title="Status.SucceedFormat method" Url="html/M_PixelMEDIA_PixelCore_Status_SucceedFormat.htm" />
+  <HelpKINode Title="Status.Success property" Url="html/P_PixelMEDIA_PixelCore_Status_Success.htm" />
+  <HelpKINode Title="Status.WithData(Of T) method" Url="html/M_PixelMEDIA_PixelCore_Status_WithData__1.htm" />
+  <HelpKINode Title="Status.WithData&lt;T&gt; method" Url="html/M_PixelMEDIA_PixelCore_Status_WithData__1.htm" />
+  <HelpKINode Title="Status&lt;T&gt; class">
+    <HelpKINode Title="Status(T) Class" Url="html/T_PixelMEDIA_PixelCore_Status_1.htm" />
+    <HelpKINode Title="Status(T) Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Status_1.htm" />
+    <HelpKINode Title="about Status&lt;T&gt; class" Url="html/T_PixelMEDIA_PixelCore_Status_1.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Status_1.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_PixelMEDIA_PixelCore_Status_1__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PixelMEDIA_PixelCore_Status_1.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_PixelMEDIA_PixelCore_Status_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Status&lt;T&gt;.Data property" Url="html/P_PixelMEDIA_PixelCore_Status_1_Data.htm" />
+  <HelpKINode Title="Status&lt;T&gt;.Status constructor" Url="html/Overload_PixelMEDIA_PixelCore_Status_1__ctor.htm" />
+  <HelpKINode Title="StringHelper class">
+    <HelpKINode Title="StringHelper Class" Url="html/T_PixelMEDIA_PixelCore_Helpers_StringHelper.htm" />
+    <HelpKINode Title="StringHelper Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_StringHelper.htm" />
+    <HelpKINode Title="about StringHelper class" Url="html/T_PixelMEDIA_PixelCore_Helpers_StringHelper.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_StringHelper.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PixelMEDIA_PixelCore_Helpers_StringHelper.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StringHelper.Ellipsize method" Url="html/M_PixelMEDIA_PixelCore_Helpers_StringHelper_Ellipsize.htm" />
+  <HelpKINode Title="StringHelper.ExtractBetween method" Url="html/M_PixelMEDIA_PixelCore_Helpers_StringHelper_ExtractBetween.htm" />
+  <HelpKINode Title="StringHelper.ExtractKeyValuePairs method" Url="html/M_PixelMEDIA_PixelCore_Helpers_StringHelper_ExtractKeyValuePairs.htm" />
+  <HelpKINode Title="StringHelper.GetWordCount method" Url="html/M_PixelMEDIA_PixelCore_Helpers_StringHelper_GetWordCount.htm" />
+  <HelpKINode Title="StringHelper.Left method" Url="html/M_PixelMEDIA_PixelCore_Helpers_StringHelper_Left.htm" />
+  <HelpKINode Title="StringHelper.SafeTrim method" Url="html/M_PixelMEDIA_PixelCore_Helpers_StringHelper_SafeTrim.htm" />
+  <HelpKINode Title="StringIf method" Url="html/Overload_PixelMEDIA_PixelWeb_Components_PixelHelper_StringIf.htm" />
+  <HelpKINode Title="Succeed method" Url="html/Overload_PixelMEDIA_PixelCore_Status_Succeed.htm" />
+  <HelpKINode Title="SucceedFormat method" Url="html/M_PixelMEDIA_PixelCore_Status_SucceedFormat.htm" />
+  <HelpKINode Title="Success property" Url="html/P_PixelMEDIA_PixelCore_Status_Success.htm" />
+  <HelpKINode Title="SystemHelper class">
+    <HelpKINode Title="SystemHelper Class" Url="html/T_PixelMEDIA_PixelCore_Helpers_SystemHelper.htm" />
+    <HelpKINode Title="SystemHelper Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_SystemHelper.htm" />
+    <HelpKINode Title="about SystemHelper class" Url="html/T_PixelMEDIA_PixelCore_Helpers_SystemHelper.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_SystemHelper.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PixelMEDIA_PixelCore_Helpers_SystemHelper.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SystemHelper.ExecuteCommand method" Url="html/M_PixelMEDIA_PixelCore_Helpers_SystemHelper_ExecuteCommand.htm" />
+  <HelpKINode Title="SystemHelper.GetDifferentlyExtensionedBuddyFilePath method" Url="html/Overload_PixelMEDIA_PixelCore_Helpers_SystemHelper_GetDifferentlyExtensionedBuddyFilePath.htm" />
+  <HelpKINode Title="SystemHelper.GetFileNamesFromDirectory method" Url="html/M_PixelMEDIA_PixelCore_Helpers_SystemHelper_GetFileNamesFromDirectory.htm" />
+  <HelpKINode Title="SystemHelper.GetFileNameStub method" Url="html/M_PixelMEDIA_PixelCore_Helpers_SystemHelper_GetFileNameStub.htm" />
+  <HelpKINode Title="SystemHelper.GetFilePathsFromDirectory method" Url="html/M_PixelMEDIA_PixelCore_Helpers_SystemHelper_GetFilePathsFromDirectory.htm" />
+  <HelpKINode Title="SystemHelper.GetSimilarlyExtensionedNeighborFilePath method" Url="html/M_PixelMEDIA_PixelCore_Helpers_SystemHelper_GetSimilarlyExtensionedNeighborFilePath.htm" />
+  <HelpKINode Title="SystemHelper.GetTextFromFile method" Url="html/M_PixelMEDIA_PixelCore_Helpers_SystemHelper_GetTextFromFile.htm" />
+  <HelpKINode Title="SystemHelper.MoveFile method" Url="html/M_PixelMEDIA_PixelCore_Helpers_SystemHelper_MoveFile.htm" />
+  <HelpKINode Title="SystemHelper.MoveFileToDirectory method" Url="html/M_PixelMEDIA_PixelCore_Helpers_SystemHelper_MoveFileToDirectory.htm" />
+  <HelpKINode Title="SystemHelper.ReplaceFile method" Url="html/M_PixelMEDIA_PixelCore_Helpers_SystemHelper_ReplaceFile.htm" />
+  <HelpKINode Title="SystemHelper.SaveFile method" Url="html/M_PixelMEDIA_PixelCore_Helpers_SystemHelper_SaveFile.htm" />
+  <HelpKINode Title="TakePage(Of T) method" Url="html/M_PixelMEDIA_PixelCore_Helpers_CollectionHelper_TakePage__1.htm" />
+  <HelpKINode Title="TakePage&lt;T&gt; method" Url="html/M_PixelMEDIA_PixelCore_Helpers_CollectionHelper_TakePage__1.htm" />
+  <HelpKINode Title="TotalItems property" Url="html/P_PixelMEDIA_PixelCore_PagedSortedList_1_TotalItems.htm" />
+  <HelpKINode Title="TotalPages property" Url="html/P_PixelMEDIA_PixelCore_PagedSortedList_1_TotalPages.htm" />
+  <HelpKINode Title="Transmute(Of TTo) method" Url="html/M_PixelMEDIA_PixelCore_Helpers_ReflectionHelper_Transmute__1.htm" />
+  <HelpKINode Title="Transmute&lt;TTo&gt; method" Url="html/M_PixelMEDIA_PixelCore_Helpers_ReflectionHelper_Transmute__1.htm" />
+  <HelpKINode Title="TryLoadEmailAddress method" Url="html/M_PixelMEDIA_PixelCore_Helpers_MailHelper_TryLoadEmailAddress.htm" />
+  <HelpKINode Title="UploadFile method" Url="html/M_PixelMEDIA_PixelWeb_Helpers_HttpHelper_UploadFile.htm" />
+  <HelpKINode Title="UrlCombine method" Url="html/M_PixelMEDIA_PixelWeb_Helpers_HttpHelper_UrlCombine.htm" />
+  <HelpKINode Title="UrlEncode method" Url="html/M_PixelMEDIA_PixelWeb_Providers_EmailTemplateProvider_1_UrlEncode.htm" />
+  <HelpKINode Title="ViewBag property" Url="html/P_PixelMEDIA_PixelWeb_Components_PixelHelper_ViewBag.htm" />
+  <HelpKINode Title="ViewContext property" Url="html/P_PixelMEDIA_PixelWeb_Components_PixelHelper_ViewContext.htm" />
+  <HelpKINode Title="ViewData property" Url="html/P_PixelMEDIA_PixelWeb_Components_PixelHelper_ViewData.htm" />
+  <HelpKINode Title="ViewPage property" Url="html/P_PixelMEDIA_PixelWeb_Components_PixelHelper_ViewPage.htm" />
+  <HelpKINode Title="Warn method" Url="html/Overload_PixelMEDIA_PixelCore_Helpers_Logger_Warn.htm" />
+  <HelpKINode Title="Warning enumeration member" Url="html/T_PixelMEDIA_PixelCore_Helpers_LogEntryType.htm" />
+  <HelpKINode Title="WebCacheProvider class">
+    <HelpKINode Title="WebCacheProvider Class" Url="html/T_PixelMEDIA_PixelWeb_Providers_WebCacheProvider.htm" />
+    <HelpKINode Title="WebCacheProvider Members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_Providers_WebCacheProvider.htm" />
+    <HelpKINode Title="about WebCacheProvider class" Url="html/T_PixelMEDIA_PixelWeb_Providers_WebCacheProvider.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_Providers_WebCacheProvider.htm" />
+    <HelpKINode Title="constructor" Url="html/M_PixelMEDIA_PixelWeb_Providers_WebCacheProvider__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PixelMEDIA_PixelWeb_Providers_WebCacheProvider.htm" />
+  </HelpKINode>
+  <HelpKINode Title="WebCacheProvider.GetApplicationCacheItem method" Url="html/Overload_PixelMEDIA_PixelWeb_Providers_WebCacheProvider_GetApplicationCacheItem.htm" />
+  <HelpKINode Title="WebCacheProvider.GetSessionCacheItem method" Url="html/Overload_PixelMEDIA_PixelWeb_Providers_WebCacheProvider_GetSessionCacheItem.htm" />
+  <HelpKINode Title="WebCacheProvider.HasApplicationCacheItem method" Url="html/M_PixelMEDIA_PixelWeb_Providers_WebCacheProvider_HasApplicationCacheItem.htm" />
+  <HelpKINode Title="WebCacheProvider.HasSessionCacheItem method" Url="html/M_PixelMEDIA_PixelWeb_Providers_WebCacheProvider_HasSessionCacheItem.htm" />
+  <HelpKINode Title="WebCacheProvider.SetApplicationCacheItem(Of T) method" Url="html/M_PixelMEDIA_PixelWeb_Providers_WebCacheProvider_SetApplicationCacheItem__1.htm" />
+  <HelpKINode Title="WebCacheProvider.SetApplicationCacheItem&lt;T&gt; method" Url="html/M_PixelMEDIA_PixelWeb_Providers_WebCacheProvider_SetApplicationCacheItem__1.htm" />
+  <HelpKINode Title="WebCacheProvider.SetSessionCacheItem(Of T) method" Url="html/M_PixelMEDIA_PixelWeb_Providers_WebCacheProvider_SetSessionCacheItem__1.htm" />
+  <HelpKINode Title="WebCacheProvider.SetSessionCacheItem&lt;T&gt; method" Url="html/M_PixelMEDIA_PixelWeb_Providers_WebCacheProvider_SetSessionCacheItem__1.htm" />
+  <HelpKINode Title="WebCacheProvider.WebCacheProvider constructor" Url="html/M_PixelMEDIA_PixelWeb_Providers_WebCacheProvider__ctor.htm" />
+  <HelpKINode Title="WebClientPropertyProvider class">
+    <HelpKINode Title="WebClientPropertyProvider Class" Url="html/T_PixelMEDIA_PixelWeb_Providers_WebClientPropertyProvider.htm" />
+    <HelpKINode Title="WebClientPropertyProvider Members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_Providers_WebClientPropertyProvider.htm" />
+    <HelpKINode Title="about WebClientPropertyProvider class" Url="html/T_PixelMEDIA_PixelWeb_Providers_WebClientPropertyProvider.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers_T_PixelMEDIA_PixelWeb_Providers_WebClientPropertyProvider.htm" />
+    <HelpKINode Title="constructor" Url="html/M_PixelMEDIA_PixelWeb_Providers_WebClientPropertyProvider__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PixelMEDIA_PixelWeb_Providers_WebClientPropertyProvider.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_PixelMEDIA_PixelWeb_Providers_WebClientPropertyProvider.htm" />
+  </HelpKINode>
+  <HelpKINode Title="WebClientPropertyProvider.ApplicationLocation property" Url="html/P_PixelMEDIA_PixelWeb_Providers_WebClientPropertyProvider_ApplicationLocation.htm" />
+  <HelpKINode Title="WebClientPropertyProvider.Identifier property" Url="html/P_PixelMEDIA_PixelWeb_Providers_WebClientPropertyProvider_Identifier.htm" />
+  <HelpKINode Title="WebClientPropertyProvider.IpAddress property" Url="html/P_PixelMEDIA_PixelWeb_Providers_WebClientPropertyProvider_IpAddress.htm" />
+  <HelpKINode Title="WebClientPropertyProvider.WebClientPropertyProvider constructor" Url="html/M_PixelMEDIA_PixelWeb_Providers_WebClientPropertyProvider__ctor.htm" />
+  <HelpKINode Title="WithData(Of T) method" Url="html/M_PixelMEDIA_PixelCore_Status_WithData__1.htm" />
+  <HelpKINode Title="WithData&lt;T&gt; method" Url="html/M_PixelMEDIA_PixelCore_Status_WithData__1.htm" />
+  <HelpKINode Title="XmlHelper class">
+    <HelpKINode Title="XmlHelper Class" Url="html/T_PixelMEDIA_PixelCore_Helpers_XmlHelper.htm" />
+    <HelpKINode Title="XmlHelper Members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_XmlHelper.htm" />
+    <HelpKINode Title="about XmlHelper class" Url="html/T_PixelMEDIA_PixelCore_Helpers_XmlHelper.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers_T_PixelMEDIA_PixelCore_Helpers_XmlHelper.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PixelMEDIA_PixelCore_Helpers_XmlHelper.htm" />
+  </HelpKINode>
+  <HelpKINode Title="XmlHelper.CreateDocument method" Url="html/M_PixelMEDIA_PixelCore_Helpers_XmlHelper_CreateDocument.htm" />
+  <HelpKINode Title="XmlHelper.GetSafeAttributeValue method" Url="html/M_PixelMEDIA_PixelCore_Helpers_XmlHelper_GetSafeAttributeValue.htm" />
+  <HelpKINode Title="XmlHelper.GetXDocument method" Url="html/Overload_PixelMEDIA_PixelCore_Helpers_XmlHelper_GetXDocument.htm" />
+  <HelpKINode Title="XmlHelper.GetXmlDocumentByString method" Url="html/M_PixelMEDIA_PixelCore_Helpers_XmlHelper_GetXmlDocumentByString.htm" />
+  <HelpKINode Title="XmlHelper.SerializeList(Of T) method" Url="html/M_PixelMEDIA_PixelCore_Helpers_XmlHelper_SerializeList__1.htm" />
+  <HelpKINode Title="XmlHelper.SerializeList&lt;T&gt; method" Url="html/M_PixelMEDIA_PixelCore_Helpers_XmlHelper_SerializeList__1.htm" />
+  <HelpKINode Title="XmlHelper.SerializeObject(Of T) method" Url="html/M_PixelMEDIA_PixelCore_Helpers_XmlHelper_SerializeObject__1.htm" />
+  <HelpKINode Title="XmlHelper.SerializeObject&lt;T&gt; method" Url="html/M_PixelMEDIA_PixelCore_Helpers_XmlHelper_SerializeObject__1.htm" />
+</HelpKI>
